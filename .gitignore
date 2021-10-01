@@ -4,3 +4,4 @@ files/tmp/*
 .htaccess
 *.DS_Store
 *.ipynb_checkpoints
+*.Rhistory
