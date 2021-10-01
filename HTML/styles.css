@@ -19,3 +19,13 @@ body{
 	font-weight: lighter ;
 	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+img {
+    max-width: 100%;
+    height: auto;
+    image-rendering:optimizeQuality;
+}
+
+.profile {
+    border-radius: 50%;
+}
