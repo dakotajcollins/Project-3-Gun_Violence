@@ -1,0 +1,21 @@
+body{
+    background-color:slategray;
+}
+
+.header {
+	padding-top: 20px; 
+	padding-left: 5px;
+	color:darkorange;
+	font-size: 28px;
+	font-weight: lighter;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#header {
+	padding-top: 5px; 
+	padding-left: 10px;
+	color:darkorange;
+	font-size: 28px;
+	font-weight: lighter ;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
