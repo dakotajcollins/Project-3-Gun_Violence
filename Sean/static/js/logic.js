@@ -1,17 +1,39 @@
 
-state = "Illinois";
+//these variables will be passed in on change with javascript
+state = "Ohio";
 start_date = new Date('1/30/2020');
 end_date = new Date('12/31/2021');
+
+
+
+
+
 
 
 //create a function that can be called when the variables change
 mapping = function(state,start_date,end_date)
 {
 
+
+// This block just sets the default zoom and and center based on the state input
+var state_cord = Object.values(state_cord_data);
+var state_name = Object.keys(state_cord_data);
+var center_cord = [39.8283, -98.5795];
+var zoom_num = 4;
+for (var i = 0; i < state_name.length; i++) {
+  if(state_name[i]==state)
+  {
+    var center_latitude = state_cord[i].Latitude;
+    var center_longitude = state_cord[i].Longitude;
+    var center_cord = [center_latitude,center_longitude]
+    var zoom_num = 6      
+  }
+};
+
 // Creating the map object
 var myMap = L.map("map", {
-  center: [39.8283, -98.5795],
-  zoom: 4
+  center: center_cord,
+  zoom: zoom_num
 });
 
 // Adding the tile layer
@@ -20,11 +42,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(myMap);
 
 // Assemble the API query URL.
-for (i=2019; i<=2021; i++)
-{
-urlyear = i;
-console.log(urlyear)
-var url = "https://us-gun-sale-and-violence-report-api.azurewebsites.net/api/v1.0/gunviolence"+urlyear;
+var url = "https://us-gun-sale-and-violence-report-api.azurewebsites.net/api/v1.0/completedata";
 
 
 // Get the data with d3.
@@ -80,6 +98,6 @@ d3.json(url).then(function(response) {
 
 }
  
-}
+
 
 mapping(state,start_date,end_date)
