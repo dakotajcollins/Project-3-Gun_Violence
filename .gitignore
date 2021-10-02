@@ -5,3 +5,4 @@ files/tmp/*
 *.DS_Store
 *.ipynb_checkpoints
 *.Rhistory
+config.py
