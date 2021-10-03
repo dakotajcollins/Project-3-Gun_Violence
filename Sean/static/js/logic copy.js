@@ -1,76 +1,19 @@
-
 state = "All";
 start_date = new Date('1/1/2019');
 end_date = new Date('12/31/2021');
 
-// Creating the map object
-var myMap = L.map("map", {
-  center: [39.8283, -98.5795],
-  zoom: 4
-});
-
-// Adding the tile layer and initial marker set
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-}).addTo(myMap);
-
-var markersLayer = new L.LayerGroup();
-mapping(state,start_date,end_date)
-
-
-//Thus is the event listeners
-// d3.selectAll("#state_choice").on("change", updateMap);
-// d3.selectAll("#start").on("change", updateMap);
-// d3.selectAll("#end").on("change", updateMap);
-d3.selectAll("#button").on("click", updateMap);
-
-
-
-
-
-//This updates the map the map when the eventlisteners trigger
-function updateMap() {
-  state_dropdown = d3.select("#state_choice");
-  state = state_dropdown.property("value");
-  console.log(state);
-  
-  start_dropdown = d3.select("#start");
-  start_date = new Date(start_dropdown.property("value"));
-  console.log(start_date);
-
-  end_dropdown = d3.select("#end");
-  end_date = new Date(end_dropdown.property("value"));
-  console.log(end_date);
-  
-  markersLayer.clearLayers();
-  updateview();
-  mapping(state,start_date,end_date)
-
-
-}
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+//create a function that can be called when the variables change
+function mapping(state,start_date,end_date)
+{
 
 
 // This block just sets the default zoom and and center based on the state input
-function updateview(){
-
 var state_cord = Object.values(state_cord_data);
 var state_name = Object.keys(state_cord_data);
 var center_cord = [39.8283, -98.5795];
@@ -84,18 +27,17 @@ for (var i = 0; i < state_name.length; i++) {
     var zoom_num = 6      
   }
 };
-// myMap.setZoom(zoom_num);
-myMap.flyTo(center_cord,zoom_num);
-console.log(center_cord);
 
-};
+// Creating the map object
+var myMap = L.map("map", {
+  center: center_cord,
+  zoom: zoom_num
+});
 
-
-
-//create a function that maps the markers
-function mapping(state,start_date,end_date)
-{
-
+// Adding the tile layer
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(myMap);
 
 // Assemble the API query URL.
 var url = "https://us-gun-sale-and-violence-report-api.azurewebsites.net/api/v1.0/completedata";
@@ -158,12 +100,11 @@ d3.json(url).then(function(response) {
       }
     }
 
+
   }
 
  // Add our marker cluster layer to the map.
- markersLayer = markers
- 
- myMap.addLayer(markersLayer);
+ myMap.addLayer(markers);
 
 });
 
@@ -171,6 +112,7 @@ d3.json(url).then(function(response) {
  
 
 
+mapping(state,start_date,end_date)
 
 
 
