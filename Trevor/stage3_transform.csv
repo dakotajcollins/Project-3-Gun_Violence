@@ -1,346 +1,346 @@
-,index,incident_id,incident_date,state,city_county,street_address,killed,injured,full_address,lat,long
-0,5,1581476,"December 27, 2019",Georgia,Kennesaw,1575 Ridenour Pkwy NW,0,4,"1575 Ridenour Pkwy NW, Kennesaw Georgia",33.9917233,-84.5889583
-1,14,1577688,"December 22, 2019",Minnesota,Minneapolis (Spring Lake Park),8407 Plaza Blvd NE,1,7,"8407 Plaza Blvd NE, Minneapolis (Spring Lake Park) Minnesota",45.1224263,-93.2342819
-2,32,1562685,"December 1, 2019",Michigan,Kalamazoo,6300  Proctor St,1,3,"6300  Proctor St, Kalamazoo Michigan",42.285262,-85.50609899999999
-3,34,1561398,"November 30, 2019",Arkansas,Hensley,6500  E Sardis Rd,0,5,"6500  E Sardis Rd, Hensley Arkansas",34.5440673,-92.3551775
-4,36,1559257,"November 27, 2019",New York,Bronx,E 153rd St and Courtlandt Ave,0,5,"E 153rd St and Courtlandt Ave, Bronx New York",40.8193717,-73.9182842
-5,37,1558067,"November 25, 2019",Florida,Brownsville,NW 29th Ave and 44th St,2,2,"NW 29th Ave and 44th St, Brownsville Florida",25.8152048,-80.2424851
-6,45,1554446,"November 20, 2019",California,Richmond,20th St and Roosevelt Ave,0,4,"20th St and Roosevelt Ave, Richmond California",37.9399917,-122.3505287
-7,58,1543835,"November 7, 2019",Georgia,Conyers,1800  Green St,2,3,"1800  Green St, Conyers Georgia",33.6844535,-83.9865992
-8,61,1540841,"November 3, 2019",Texas,Nacogdoches,Sandyland Cir and CR 823,1,3,"Sandyland Cir and CR 823, Nacogdoches Texas",31.654174,-94.73263860000002
-9,64,1539572,"November 1, 2019",Arizona,Tolleson,2434 S 86th Ln,0,5,"2434 S 86th Ln, Tolleson Arizona",33.4249156,-112.2465749
-10,71,1536706,"October 27, 2019",Michigan,Detroit,East Outer Dr and Helen St,0,4,"East Outer Dr and Helen St, Detroit Michigan",42.4411816,-83.0318324
-11,72,1535629,"October 27, 2019",Michigan,Lansing,Balfour Dr and W Miller Rd,1,4,"Balfour Dr and W Miller Rd, Lansing Michigan",42.6692109,-84.5762821
-12,75,1533166,"October 22, 2019",Oklahoma,Oklahoma City (Midwest City),7020 E Green Ave,1,3,"7020 E Green Ave, Oklahoma City (Midwest City) Oklahoma",35.4633759,-97.40509240000002
-13,81,1525999,"October 13, 2019",Pennsylvania,Philadelphia,W Clearfield St and N 8th St,0,6,"W Clearfield St and N 8th St, Philadelphia Pennsylvania",39.9987941,-75.1437857
-14,88,1523606,"October 10, 2019",Florida,Tampa,5410 N Falkenburg Rd,2,2,"5410 N Falkenburg Rd, Tampa Florida",27.9957813,-82.3353752
-15,94,1520499,"October 6, 2019",Colorado,Denver,7100  Ruth Way,0,4,"7100  Ruth Way, Denver Colorado",39.8257676,-105.0130746
-16,99,1517804,"October 1, 2019",Missouri,Saint Louis,Leonor K. Sullivan Blvd and Poplar St,0,4,"Leonor K. Sullivan Blvd and Poplar St, Saint Louis Missouri",38.6192343,-90.18610849999999
-17,100,1515312,"September 29, 2019",Illinois,Round Lake (Round Lake Park),500  Fairlawn Ave,1,3,"500  Fairlawn Ave, Round Lake (Round Lake Park) Illinois",42.3570845,-88.0766525
-18,103,1517360,"September 29, 2019",Kansas,Claflin,1500  NE 100th Rd,0,4,"1500  NE 100th Rd, Claflin Kansas",38.5074005,-98.4988036
-19,108,1509411,"September 21, 2019",Louisiana,New Orleans,Poland Ave and St. Claude Ave,0,4,"Poland Ave and St. Claude Ave, New Orleans Louisiana",29.9648338,-90.0313877
-20,112,1508859,"September 20, 2019",Louisiana,New Orleans,Canal Blvd and City Park Ave,1,5,"Canal Blvd and City Park Ave, New Orleans Louisiana",29.9821623,-90.1107564
-21,115,1507092,"September 18, 2019",California,Wilmington,800  Bayview Ave,2,2,"800  Bayview Ave, Wilmington California",33.7797063,-118.2698968
-22,125,1499300,"September 7, 2019",North Carolina,Whiteville,Brittany Ln,3,1,"Brittany Ln, Whiteville North Carolina",34.2481902,-78.6850442
-23,126,1497702,"September 4, 2019",Louisiana,Marrero,3044 Sorbonne Dr,2,2,"3044 Sorbonne Dr, Marrero Louisiana",29.8508633,-90.1192308
-24,136,1492377,"August 31, 2019",South Carolina,Moncks Corner,336 Maplewood Rd,0,4,"336 Maplewood Rd, Moncks Corner South Carolina",33.156254,-80.0383634
-25,147,1487356,"August 24, 2019",Maryland,Temple Hills (Camp Springs),6200  Maxwell Dr,0,7,"6200  Maxwell Dr, Temple Hills (Camp Springs) Maryland",38.8174429,-76.8985587
-26,160,1479395,"August 13, 2019",Washington,Tacoma,E 38th St and E Roosevelt Ave,2,3,"E 38th St and E Roosevelt Ave, Tacoma Washington",47.22308899999999,-122.398824
-27,168,1527721,"August 4, 2019",Louisiana,Lake Charles,110 Pryce St,0,4,"110 Pryce St, Lake Charles Louisiana",30.234419,-93.2177159
-28,178,1461352,"July 28, 2019",Wisconsin,Chippewa Falls,16964 54th Ave,5,2,"16964 54th Ave, Chippewa Falls Wisconsin",44.9205224,-91.32783909999999
-29,184,1457165,"July 25, 2019",California,Canoga Park,21901 Roscoe Boulevard,4,2,"21901 Roscoe Boulevard, Canoga Park California",34.220124,-118.6047055
-30,191,1450124,"July 17, 2019",Texas,Lubbock,N Elder Ave and E Colgate St,1,3,"N Elder Ave and E Colgate St, Lubbock Texas",33.6024732,-101.8029804
-31,198,1441967,"July 8, 2019",District of Columbia,Washington,3900 Martin Luther King Jr Ave SW,2,2,"3900 Martin Luther King Jr Ave SW, Washington District of Columbia",38.8324029,-77.0087428
-32,199,1441565,"July 7, 2019",Michigan,Flint,Clio Rd and Myrtle St,0,6,"Clio Rd and Myrtle St, Flint Michigan",43.0503962,-83.73268619999999
-33,200,1441613,"July 7, 2019",Missouri,Saint Louis,N Tucker Blvd and Convention Plaza,0,5,"N Tucker Blvd and Convention Plaza, Saint Louis Missouri",38.6332014,-90.19611049999999
-34,209,1440257,"July 5, 2019",New York,Brooklyn,Elton St and Belmont Ave,0,4,"Elton St and Belmont Ave, Brooklyn New York",40.6724642,-73.883074
-35,214,1439042,"July 3, 2019",Texas,Katy,5507 Everhart Manor Ln,2,3,"5507 Everhart Manor Ln, Katy Texas",29.7177492,-95.7969688
-36,220,1435578,"June 30, 2019",New York,Bay Shore,Farragut Ave,0,6,"Farragut Ave, Bay Shore New York",40.74698799999999,-73.26109919999999
-37,221,1435041,"June 29, 2019",Connecticut,Hartford,Judson St and Martin St,0,4,"Judson St and Martin St, Hartford Connecticut",41.7893425,-72.6799544
-38,222,1435297,"June 29, 2019",Louisiana,Gray,2700  W Park Ave,0,4,"2700  W Park Ave, Gray Louisiana",29.70844809999999,-90.7912856
-39,227,1434971,"June 28, 2019",Georgia,Atlanta,Ira St and Bass St SW,0,7,"Ira St and Bass St SW, Atlanta Georgia",33.7356464,-84.3999789
-40,230,1432989,"June 27, 2019",Georgia,Atlanta,600  Parkway Dr,0,7,"600  Parkway Dr, Atlanta Georgia",33.7708803,-84.3730704
-41,238,1429399,"June 22, 2019",Virginia,Hampton,1st St and E Pembroke Ave,0,4,"1st St and E Pembroke Ave, Hampton Virginia",37.034294,-76.327798
-42,243,1428047,"June 21, 2019",California,Santa Maria,519  West Taylor St,5,0,"519  West Taylor St, Santa Maria California",34.975691,-120.440787
-43,247,1425161,"June 17, 2019",Texas,San Antonio,E Market St and Tower of the Americas Way,0,4,"E Market St and Tower of the Americas Way, San Antonio Texas",29.4213971,-98.48100219999999
-44,250,1423330,"June 16, 2019",Kentucky,Louisville,Dixie Highway and Ormsby Ave,1,6,"Dixie Highway and Ormsby Ave, Louisville Kentucky",38.2354477,-85.7875766
-45,255,1420432,"June 11, 2019",Georgia,Savannah,6900 Block of Damascus Rd,2,2,"6900 Block of Damascus Rd, Savannah Georgia",32.0044661,-81.0727251
-46,259,1418180,"June 8, 2019",Washington,White Swan,5151 Medicine Valley Rd,5,2,"5151 Medicine Valley Rd, White Swan Washington",46.4225286,-120.823627
-47,269,1412430,"June 1, 2019",Georgia,Macon,Suzanne Dr and Robinson Dr,2,4,"Suzanne Dr and Robinson Dr, Macon Georgia",32.842935,-83.69167159999999
-48,277,1407189,"May 27, 2019",New Jersey,Trenton,100  Walnut St,1,5,"100  Walnut St, Trenton New Jersey",40.2209688,-74.7489086
-49,279,1405749,"May 26, 2019",Virginia,La Crosse,800  Alvis Road,0,5,"800  Alvis Road, La Crosse Virginia",36.6091459,-78.027849
-50,283,1405196,"May 25, 2019",Virginia,Chesapeake,Holly Cove Dr and Schooner Trail,1,9,"Holly Cove Dr and Schooner Trail, Chesapeake Virginia",36.79987060000001,-76.39959
-51,285,1405221,"May 25, 2019",Oklahoma,Oklahoma City,N Kelley Ave and NE 26th St,0,5,"N Kelley Ave and NE 26th St, Oklahoma City Oklahoma",35.4968358,-97.4944349
-52,290,1399017,"May 18, 2019",Mississippi,Cascilla,700 Leverette Ln,1,4,"700 Leverette Ln, Cascilla Mississippi",33.8848664,-90.1201993
-53,301,1393960,"May 13, 2019",Louisiana,New Orleans,2100  4th St,0,4,"2100  4th St, New Orleans Louisiana",29.9355721,-90.0882232
-54,303,1392923,"May 11, 2019",Pennsylvania,Effort,Toll Rd and Bayberry Rd,0,4,"Toll Rd and Bayberry Rd, Effort Pennsylvania",40.9813323,-75.47401669999999
-55,306,1390764,"May 8, 2019",Indiana,Indianapolis,Roache St and Rader St,0,4,"Roache St and Rader St, Indianapolis Indiana",39.8046292,-86.1780773
-56,307,1389220,"May 7, 2019",Colorado,Littleton (Highlands Ranch),8773 S Ridgeline Blvd,1,8,"8773 S Ridgeline Blvd, Littleton (Highlands Ranch) Colorado",39.55595950000001,-104.997907
-57,309,1387170,"May 5, 2019",California,Oceano,1001 Cabrillo Hwy,0,6,"1001 Cabrillo Hwy, Oceano California",35.112489,-120.6255962
-58,310,1386510,"May 4, 2019",Missouri,Saint Louis,Union Blvd and Northland Ave,1,4,"Union Blvd and Northland Ave, Saint Louis Missouri",38.6713502,-90.26379279999999
-59,313,1386575,"May 4, 2019",Delaware,Wilmington,W 27th St and Tatnall St,0,4,"W 27th St and Tatnall St, Wilmington Delaware",39.75579099999999,-75.5356448
-60,318,1383752,"April 30, 2019",North Carolina,Charlotte,9214 South Library Ln,2,4,"9214 South Library Ln, Charlotte North Carolina",35.305966,-80.730937
-61,322,1382711,"April 28, 2019",Ohio,West Chester,4637 Wyndtree Dr,4,0,"4637 Wyndtree Dr, West Chester Ohio",39.3506968,-84.46779839999999
-62,325,1381734,"April 27, 2019",California,Los Angeles,700 N San Fernando Rd,0,6,"700 N San Fernando Rd, Los Angeles California",34.0895046,-118.2263927
-63,331,1370795,"April 14, 2019",Florida,Miami,NW 19th Ave and 60th St,2,2,"NW 19th Ave and 60th St, Miami Florida",25.8297859,-80.2288686
-64,337,1369109,"April 11, 2019",California,Los Angeles,E 103rd St and S Main St,1,4,"E 103rd St and S Main St, Los Angeles California",33.9428494,-118.2738951
-65,347,1362715,"April 4, 2019",Georgia,Stockbridge,300  Eagle Ct,3,2,"300  Eagle Ct, Stockbridge Georgia",33.5269572,-84.2404131
-66,354,1355275,"March 25, 2019",Nevada,North Las Vegas,2400  W San Miguel St,0,5,"2400  W San Miguel St, North Las Vegas Nevada",36.2358916,-115.1758532
-67,359,1349256,"March 17, 2019",Georgia,Rochelle,Dennis St,1,3,"Dennis St, Rochelle Georgia",31.9527985,-83.4683149
-68,360,1348793,"March 17, 2019",Nevada,Las Vegas,600 E Fremont St,0,4,"600 E Fremont St, Las Vegas Nevada",36.1693856,-115.13878
-69,381,1324279,"February 11, 2019",Texas,Livingston,3628 FM 3126,5,0,"3628 FM 3126, Livingston Texas",30.725292,-95.0579087
-70,388,1320286,"February 3, 2019",California,Palm Springs,E Sunny Dunes Rd and El Placer Rd,4,0,"E Sunny Dunes Rd and El Placer Rd, Palm Springs California",33.8122657,-116.5062457
-71,392,1312391,"January 26, 2019",Georgia,Albany,300  W Roosevelt,0,4,"300  W Roosevelt, Albany Georgia",31.5814139,-84.1548631
-72,406,1302060,"January 16, 2019",Florida,Jacksonville,Emerson St and Spring Park Rd,1,5,"Emerson St and Spring Park Rd, Jacksonville Florida",30.2911022,-81.6257966
-73,407,1303303,"January 16, 2019",California,Palmdale,Ranch Center Dr and 40th St W,3,1,"Ranch Center Dr and 40th St W, Palmdale California",34.5833789,-118.2022388
-74,411,1292684,"January 4, 2019",Virginia,Hurt,3197 Shula Dr,3,2,"3197 Shula Dr, Hurt Virginia",37.0559889,-79.33295199999999
-75,413,1292941,"January 3, 2019",Arizona,Yuma,3800  E County 18½ St,1,3,"3800  E County 18½ St, Yuma Arizona",32.5675966,-114.5654948
-76,415,1289877,"January 1, 2019",South Carolina,Columbia,1709 Decker Blvd,0,5,"1709 Decker Blvd, Columbia South Carolina",34.0437454,-80.941347
-77,420,1886913,"December 26, 2020",Florida,Tampa,N 20th St and E 7th Ave,2,2,"N 20th St and E 7th Ave, Tampa Florida",27.96025,-82.436748
-78,421,1887059,"December 26, 2020",Massachusetts,Lynn,Washington St and Quincy Ter,1,5,"Washington St and Quincy Ter, Lynn Massachusetts",42.467861,-70.953569
-79,422,1886849,"December 26, 2020",Florida,Miami,NW 61st St and NW 13th Ave,1,3,"NW 61st St and NW 13th Ave, Miami Florida",25.8311789,-80.218645
-80,423,1886372,"December 25, 2020",Florida,Boynton Beach,Martin Luther King Jr Blvd and N Seacrest Blvd,1,4,"Martin Luther King Jr Blvd and N Seacrest Blvd, Boynton Beach Florida",26.5360983,-80.0642731
-81,424,1886721,"December 25, 2020",Arkansas,Atkins,5180 Pine Ridge Rd,5,0,"5180 Pine Ridge Rd, Atkins Arkansas",35.1977667,-92.99980160000001
-82,426,1885251,"December 22, 2020",Mississippi,Meridian,Jeffrey Acres Rd,5,0,"Jeffrey Acres Rd, Meridian Mississippi",32.2995035,-88.6609658
-83,429,1876727,"December 13, 2020",West Virginia,Elkview,1384 Cemetery Hill Dr,4,0,"1384 Cemetery Hill Dr, Elkview West Virginia",38.43352429999999,-81.483313
-84,433,1876552,"December 12, 2020",Maryland,Hyattsville (Landover),8600  Old Ardmore Rd,2,2,"8600  Old Ardmore Rd, Hyattsville (Landover) Maryland",38.93945670000001,-76.8598724
-85,436,1908063,"December 8, 2020",West Virginia,Williamsburg,611 Flynns Creek Rd,6,0,"611 Flynns Creek Rd, Williamsburg West Virginia",37.992511,-80.5092729
-86,440,1870840,"December 5, 2020",North Carolina,Autryville,10101 Gip Rd,0,6,"10101 Gip Rd, Autryville North Carolina",34.922166,-78.62882
-87,442,1867006,"December 1, 2020",Pennsylvania,Morrisville,1 Makefield Rd,1,3,"1 Makefield Rd, Morrisville Pennsylvania",40.197289,-74.81502580000002
-88,447,1864205,"November 28, 2020",South Carolina,Conway,3800  Golden Key Rd,0,5,"3800  Golden Key Rd, Conway South Carolina",33.9272726,-79.0373499
-89,451,1862603,"November 26, 2020",Nevada,Henderson,870 E Lake Mead Pkwy,1,5,"870 E Lake Mead Pkwy, Henderson Nevada",36.0542619,-114.9676079
-90,452,1859110,"November 22, 2020",New Jersey,Trenton,Stuyvesant Ave and Hoffman Ave,0,4,"Stuyvesant Ave and Hoffman Ave, Trenton New Jersey",40.234874,-74.781331
-91,456,1857439,"November 21, 2020",Illinois,Chicago,W 79th St and S Justine St,0,6,"W 79th St and S Justine St, Chicago Illinois",41.7503653,-87.66223
-92,457,1857947,"November 21, 2020",Arizona,Phoenix,35th Ave and Earll Dr,1,4,"35th Ave and Earll Dr, Phoenix Arizona",33.4840608,-112.1343537
-93,468,1853089,"November 15, 2020",Georgia,Jonesboro,500 Block of Museum Cir,2,2,"500 Block of Museum Cir, Jonesboro Georgia",33.5412126,-84.3694065
-94,472,1852363,"November 14, 2020",California,Riverside,La Sierra Avenue and Tin Mine Road,2,3,"La Sierra Avenue and Tin Mine Road, Riverside California",33.8524585,-117.4627322
-95,475,1849308,"November 10, 2020",Florida,Tampa,N 50th St and Sligh Ave,1,7,"N 50th St and Sligh Ave, Tampa Florida",28.0106992,-82.4019225
-96,478,1846494,"November 8, 2020",Tennessee,Nashville,2nd Ave N and Commerce St,0,8,"2nd Ave N and Commerce St, Nashville Tennessee",36.1632454,-86.7760574
-97,486,1840534,"November 1, 2020",South Carolina,Hollywood,7800  White Point Rd,0,6,"7800  White Point Rd, Hollywood South Carolina",32.6536036,-80.3251263
-98,489,1841432,"November 1, 2020",North Carolina,Winston Salem (Winston-salem),3900  Glen Hi Rd,1,3,"3900  Glen Hi Rd, Winston Salem (Winston-salem) North Carolina",36.0623367,-80.15319459999999
-99,493,1839576,"October 31, 2020",Washington,Sumner,127th Ave E and Valley Ave E,0,5,"127th Ave E and Valley Ave E, Sumner Washington",47.2040035,-122.2602684
-100,505,1834617,"October 24, 2020",Mississippi,Greenwood,W Martin Luther King Dr,2,8,"W Martin Luther King Dr, Greenwood Mississippi",33.509886,-90.1769729
-101,506,1832014,"October 22, 2020",Florida,Miami,1830 NW 50 St,1,3,"1830 NW 50 St, Miami Florida",25.8204486,-80.22696839999999
-102,508,1831995,"October 22, 2020",Massachusetts,Boston,Columbia Rd and Stanwood St,0,4,"Columbia Rd and Stanwood St, Boston Massachusetts",42.3070034,-71.0765217
-103,510,1830875,"October 21, 2020",New York,Brooklyn,Nostrand Ave and Hawthorne St,1,5,"Nostrand Ave and Hawthorne St, Brooklyn New York",40.6578436,-73.9503282
-104,521,1825525,"October 16, 2020",Florida,Orlando,2000  N Forsyth Rd,3,1,"2000  N Forsyth Rd, Orlando Florida",28.572415,-81.296269
-105,523,1826675,"October 16, 2020",California,San Francisco,200  Scherwin St,1,3,"200  Scherwin St, San Francisco California",37.71075099999999,-122.4114918
-106,530,1823101,"October 10, 2020",South Carolina,Kingstree,55 Williamsburg County Hwy,0,8,"55 Williamsburg County Hwy, Kingstree South Carolina",33.685299,-79.8225394
-107,533,1816799,"October 7, 2020",Alaska,Anchorage,200  McCarrey St,1,4,"200  McCarrey St, Anchorage Alaska",61.2227728,-149.7922144
-108,539,1813583,"October 3, 2020",California,Sacramento,Roanoke Ave and Haywood St,1,3,"Roanoke Ave and Haywood St, Sacramento California",38.6348089,-121.4405959
-109,540,1812972,"October 2, 2020",California,Los Angeles,51st St and Hoover St,0,4,"51st St and Hoover St, Los Angeles California",33.9964453,-118.287144
-110,549,1806806,"September 27, 2020",Ohio,Sandusky,Hancock St and Neil St,1,3,"Hancock St and Neil St, Sandusky Ohio",41.4489119,-82.70353
-111,558,1804511,"September 23, 2020",Georgia,Hampton,1577 Glynn Ct,1,3,"1577 Glynn Ct, Hampton Georgia",33.45023219999999,-84.3403807
-112,561,1800549,"September 20, 2020",New York,Corona (Queens),Merrick Blvd and Foch Blvd,0,4,"Merrick Blvd and Foch Blvd, Corona (Queens) New York",40.6870607,-73.7748173
-113,562,1800514,"September 20, 2020",Connecticut,Stamford,Ursula Pl and Dale St,1,3,"Ursula Pl and Dale St, Stamford Connecticut",41.0515376,-73.5191997
-114,563,1800026,"September 19, 2020",New York,Buffalo,Glenwood Ave and Jefferson Ave,1,4,"Glenwood Ave and Jefferson Ave, Buffalo New York",42.912365,-78.8539656
-115,568,1800192,"September 19, 2020",New Jersey,Paterson,Elizabeth St and Getty Ave,0,5,"Elizabeth St and Getty Ave, Paterson New Jersey",40.9002062,-74.1616323
-116,581,1793680,"September 12, 2020",North Carolina,Wilson,200  Dewey St,0,5,"200  Dewey St, Wilson North Carolina",35.72027080000001,-77.9283281
-117,582,1793771,"September 12, 2020",Pennsylvania,Philadelphia,N 18th St and Dauphin St,0,4,"N 18th St and Dauphin St, Philadelphia Pennsylvania",39.9886906,-75.1622648
-118,583,1792624,"September 11, 2020",Louisiana,Donaldsonville,St Elizabeth St and Front St,0,5,"St Elizabeth St and Front St, Donaldsonville Louisiana",30.0977904,-90.9912562
-119,587,1787655,"September 7, 2020",New York,Brooklyn,Norstrand Ave and Crown St,0,5,"Norstrand Ave and Crown St, Brooklyn New York",40.666295,-73.9508357
-120,588,1788352,"September 7, 2020",California,Aguanga,45125 Highway 371,7,0,"45125 Highway 371, Aguanga California",33.4576336,-116.8585716
-121,589,1787222,"September 7, 2020",Indiana,Indianapolis,W 38th St and Graceland Ave,1,4,"W 38th St and Graceland Ave, Indianapolis Indiana",39.8249149,-86.1627769
-122,590,1786855,"September 6, 2020",Georgia,Sparta,Faye St and Lee St,1,6,"Faye St and Lee St, Sparta Georgia",33.2866722,-82.9668628
-123,591,1786920,"September 6, 2020",Illinois,Chicago,S Kingston Ave and E 77th St,0,4,"S Kingston Ave and E 77th St, Chicago Illinois",41.7554138,-87.5626846
-124,600,1785713,"September 5, 2020",Florida,Williston,Co Rd 318 and US-27 Alt,0,6,"Co Rd 318 and US-27 Alt, Williston Florida",29.3873705,-82.4474255
-125,604,1784570,"September 3, 2020",Arkansas,Hensley,Woodson Lateral Rd and I-530,1,3,"Woodson Lateral Rd and I-530, Hensley Arkansas",34.5483982,-92.2577917
-126,609,1783928,"September 2, 2020",California,Oakland,Kerwin Ave and 105th Ave,0,4,"Kerwin Ave and 105th Ave, Oakland California",37.7298289,-122.183395
-127,614,1780266,"August 30, 2020",Texas,San Antonio,S Olive St and Aransas Ave,2,2,"S Olive St and Aransas Ave, San Antonio Texas",29.4056121,-98.471772
-128,619,1780228,"August 29, 2020",Nevada,Las Vegas,777 E Twain Ave,2,2,"777 E Twain Ave, Las Vegas Nevada",36.1212895,-115.1464637
-129,626,1776905,"August 26, 2020",South Carolina,Hilton Head Island,Muddy Creek Rd and Spanish Wells Rd,0,4,"Muddy Creek Rd and Spanish Wells Rd, Hilton Head Island South Carolina",32.1862533,-80.7676015
-130,634,1772680,"August 23, 2020",Tennessee,Somerville,1100  Brewer Rd,1,4,"1100  Brewer Rd, Somerville Tennessee",35.3397012,-89.4694729
-131,637,1772934,"August 23, 2020",Colorado,Pueblo,2000  Longhorn Point,0,6,"2000  Longhorn Point, Pueblo Colorado",38.5355491,-104.6987365
-132,641,1772174,"August 22, 2020",Alabama,Bessemer (Hueytown),Allison Bonnet Memorial Dr and Rutledge Dr,1,3,"Allison Bonnet Memorial Dr and Rutledge Dr, Bessemer (Hueytown) Alabama",33.4595147,-86.9471174
-133,644,1768125,"August 18, 2020",Pennsylvania,Philadelphia,30th St and Cumberland St,1,4,"30th St and Cumberland St, Philadelphia Pennsylvania",39.9941673,-75.1808741
-134,645,1767851,"August 18, 2020",New York,Corona (Queens),35-35 21st St,0,4,"35-35 21st St, Corona (Queens) New York",40.7600591,-73.9354255
-135,647,1768683,"August 17, 2020",Ohio,Cleveland,Dove Ave and E 102nd St,0,5,"Dove Ave and E 102nd St, Cleveland Ohio",41.4522938,-81.614053
-136,648,1766574,"August 17, 2020",New York,Brooklyn,Atlantic Ave and Hinsdale St,0,4,"Atlantic Ave and Hinsdale St, Brooklyn New York",40.6755387,-73.90161189999999
-137,655,1765920,"August 16, 2020",Oklahoma,Oklahoma City,SW 59th St and Agnew Ave,0,4,"SW 59th St and Agnew Ave, Oklahoma City Oklahoma",35.4061855,-97.55512569999999
-138,656,1765336,"August 15, 2020",Michigan,Belleville,24914 Martinsville Rd,4,0,"24914 Martinsville Rd, Belleville Michigan",42.12110010000001,-83.46099989999999
-139,657,1765499,"August 15, 2020",Pennsylvania,Philadelphia,N 10th St and Brown St,0,5,"N 10th St and Brown St, Philadelphia Pennsylvania",39.9662262,-75.15352759999999
-140,659,1765705,"August 15, 2020",Connecticut,New Haven,Rosette St and Hurlburt St,1,5,"Rosette St and Hurlburt St, New Haven Connecticut",41.2927581,-72.9374273
-141,664,1761557,"August 11, 2020",California,Torrance,22904 Lockness Ave,0,5,"22904 Lockness Ave, Torrance California",33.8172085,-118.3053263
-142,666,1759779,"August 9, 2020",Ohio,Toledo,Monroe St and N Detroit Ave,0,6,"Monroe St and N Detroit Ave, Toledo Ohio",41.6645981,-83.5703139
-143,679,1754613,"August 4, 2020",California,Beverly Hills,13200 Mulholland Dr,1,4,"13200 Mulholland Dr, Beverly Hills California",34.1270274,-118.4207777
-144,690,1750611,"July 30, 2020",Florida,Tampa,I-275 and Westshore Blvd,0,5,"I-275 and Westshore Blvd, Tampa Florida",27.9574141,-82.5354588
-145,691,1750548,"July 30, 2020",Florida,Miami Gardens,16701 NW 42 Ave,0,5,"16701 NW 42 Ave, Miami Gardens Florida",25.9261193,-80.2682411
-146,700,1746658,"July 26, 2020",Texas,Mount Enterprise,1039 FM 1798,0,4,"1039 FM 1798, Mount Enterprise Texas",31.9941387,-94.72888999999999
-147,707,1746430,"July 25, 2020",Colorado,Denver,East 33rd Ave and Hudson St,2,3,"East 33rd Ave and Hudson St, Denver Colorado",39.7637987,-104.9240282
-148,710,1744407,"July 24, 2020",Georgia,Atlanta,Sunset Ave NW and Lester St NW,2,2,"Sunset Ave NW and Lester St NW, Atlanta Georgia",33.7588545,-84.409949
-149,711,1743168,"July 23, 2020",Virginia,Fairfield,3700  Meadowbridge Rd,1,3,"3700  Meadowbridge Rd, Fairfield Virginia",37.8792991,-79.2894783
-150,713,1744332,"July 23, 2020",Illinois,Chicago,120th St and Prairie Ave,2,4,"120th St and Prairie Ave, Chicago Illinois",41.6762837,-87.6165377
-151,717,1740615,"July 20, 2020",Illinois,Chicago,S Lawndale Ave and W Douglas Blvd,0,5,"S Lawndale Ave and W Douglas Blvd, Chicago Illinois",41.862362,-87.7177384
-152,718,1739920,"July 19, 2020",Michigan,Detroit,McKinney St and Meuse St,1,3,"McKinney St and Meuse St, Detroit Michigan",42.421886,-82.942038
-153,719,1739571,"July 19, 2020",Nebraska,Omaha,28th St and T Ave,0,8,"28th St and T Ave, Omaha Nebraska",41.2055686,-95.95499629999999
-154,721,1739434,"July 19, 2020",Illinois,Peoria,NE Water St and Hamilton Blvd,0,13,"NE Water St and Hamilton Blvd, Peoria Illinois",40.69069349999999,-89.58624429999999
-155,725,1739097,"July 17, 2020",Ohio,Columbus,E 6th Ave and Summit St,0,4,"E 6th Ave and Summit St, Columbus Ohio",39.9890927,-83.0018846
-156,727,1736508,"July 16, 2020",Tennessee,Nashville,S 7th St and Sylvan St,0,5,"S 7th St and Sylvan St, Nashville Tennessee",36.1681686,-86.7572402
-157,729,1735326,"July 15, 2020",New York,Brooklyn,President St and Franklin Ave,1,5,"President St and Franklin Ave, Brooklyn New York",40.668902,-73.95861099999999
-158,730,1735573,"July 14, 2020",Missouri,Saint Joseph,S 18th St and Charles St,0,5,"S 18th St and Charles St, Saint Joseph Missouri",39.7650532,-94.8387482
-159,731,1735470,"July 14, 2020",North Carolina,Durham,200 Block of S Benjamine St,0,8,"200 Block of S Benjamine St, Durham North Carolina",35.9852642,-78.8687352
-160,735,1732993,"July 12, 2020",New York,Brooklyn,Madison St and Marcus Garvey Blvd,1,3,"Madison St and Marcus Garvey Blvd, Brooklyn New York",40.6861038,-73.93866539999999
-161,741,1732532,"July 12, 2020",Mississippi,Como,2965 Hunter Chapel Road,2,4,"2965 Hunter Chapel Road, Como Mississippi",34.5531485,-89.8807507
-162,744,1727743,"July 7, 2020",Virginia,Alexandria,7900  Janna Lee Ave,0,5,"7900  Janna Lee Ave, Alexandria Virginia",38.7461032,-77.0947807
-163,745,1728683,"July 7, 2020",New Jersey,Paterson,Harrison St and Carroll St,4,3,"Harrison St and Carroll St, Paterson New Jersey",40.922841,-74.1615745
-164,752,1725690,"July 5, 2020",Georgia,Atlanta,200  Auburn Ave,2,13,"200  Auburn Ave, Atlanta Georgia",33.7557353,-84.38114809999999
-165,753,1725946,"July 5, 2020",Missouri,Columbia,Volunteer Dr and Grace Ln,2,3,"Volunteer Dr and Grace Ln, Columbia Missouri",38.9503079,-92.2559381
-166,758,1725635,"July 5, 2020",Pennsylvania,Ephrata,6 Blackberry Ln,0,4,"6 Blackberry Ln, Ephrata Pennsylvania",40.18474399999999,-76.15222
-167,759,1726034,"July 5, 2020",Illinois,Freeport,900  S Carroll Ave,1,5,"900  S Carroll Ave, Freeport Illinois",42.2909707,-89.6147519
-168,761,1725571,"July 5, 2020",Michigan,Detroit,San Juan Dr and W McNichols Rd,2,4,"San Juan Dr and W McNichols Rd, Detroit Michigan",42.4171287,-83.14617729999999
-169,762,1725025,"July 4, 2020",Maryland,Temple Hills (Marlow Heights),4600 Dallas Pl,1,3,"4600 Dallas Pl, Temple Hills (Marlow Heights) Maryland",38.8255809,-76.94853859999999
-170,771,1723897,"July 3, 2020",Alabama,Birmingham (Hoover),2000 Riverchase Galleria,1,3,"2000 Riverchase Galleria, Birmingham (Hoover) Alabama",33.3790316,-86.8083523
-171,775,1722839,"July 2, 2020",New Jersey,Paterson,N Main St and Jefferson St,1,4,"N Main St and Jefferson St, Paterson New Jersey",40.8617436,-74.1265322
-172,776,1722142,"July 1, 2020",California,Oakland,MacArthur Fwy and 106th Ave,0,4,"MacArthur Fwy and 106th Ave, Oakland California",37.7429551,-122.1486955
-173,783,1722317,"June 30, 2020",Arkansas,Greenbrier,123 Laramie Rd,0,4,"123 Laramie Rd, Greenbrier Arkansas",35.2479435,-92.25325169999999
-174,784,1720834,"June 29, 2020",California,Sylmar,Osborne St and Foothill Blvd,0,4,"Osborne St and Foothill Blvd, Sylmar California",34.2735503,-118.3938042
-175,787,1719668,"June 28, 2020",Alabama,Akron,Co Rd 21,0,7,"Co Rd 21, Akron Alabama",32.8568549,-87.6818873
-176,796,1717543,"June 25, 2020",Pennsylvania,Philadelphia,Emerald St and E Atlantic St,0,4,"Emerald St and E Atlantic St, Philadelphia Pennsylvania",39.9984267,-75.1032887
-177,800,1715231,"June 23, 2020",Florida,Lake Worth,Lantana Rd and Edgecliff Ave,0,5,"Lantana Rd and Edgecliff Ave, Lake Worth Florida",26.5894309,-80.1377462
-178,804,1712876,"June 22, 2020",Minnesota,Minneapolis,N Morgan Ave and N 16th Ave,0,4,"N Morgan Ave and N 16th Ave, Minneapolis Minnesota",44.99522,-93.304467
-179,809,1711747,"June 21, 2020",New York,Buffalo,W Ferry St and Niagara St,0,4,"W Ferry St and Niagara St, Buffalo New York",42.915199,-78.8994539
-180,814,1711605,"June 21, 2020",Wisconsin,Milwaukee,North 28th St and West Ruby Ave,0,5,"North 28th St and West Ruby Ave, Milwaukee Wisconsin",43.0989925,-87.9479874
-181,816,1710537,"June 20, 2020",New York,Bronx,Mount Eden Pkwy and Monroe Ave,0,4,"Mount Eden Pkwy and Monroe Ave, Bronx New York",40.8426886,-73.9068455
-182,817,1711285,"June 20, 2020",New York,Syracuse,Marcellus St and Wyoming St,1,8,"Marcellus St and Wyoming St, Syracuse New York",43.04734759999999,-76.1604352
-183,818,1711876,"June 20, 2020",Michigan,Detroit,Appoline St and Puritan Ave,0,4,"Appoline St and Puritan Ave, Detroit Michigan",42.409519,-83.17081879999999
-184,819,1711272,"June 20, 2020",Michigan,Saginaw,Livingston Dr and Tausend St,1,3,"Livingston Dr and Tausend St, Saginaw Michigan",43.39532,-83.931541
-185,834,1705355,"June 13, 2020",Arkansas,Rison,Carver St and Center St,0,4,"Carver St and Center St, Rison Arkansas",33.9584853,-92.19197059999999
-186,835,1705440,"June 13, 2020",California,Hesperia,8100  Julie Ct,0,5,"8100  Julie Ct, Hesperia California",34.3996925,-117.2489495
-187,838,1704176,"June 13, 2020",Maryland,Baltimore,700  S Broadway St,0,5,"700  S Broadway St, Baltimore Maryland",39.2834068,-76.5937065
-188,839,1704580,"June 13, 2020",Georgia,Atlanta,69 Mason Ave NE,2,5,"69 Mason Ave NE, Atlanta Georgia",33.7554939,-84.33852139999999
-189,841,1703509,"June 12, 2020",Pennsylvania,Philadelphia,N Broad St and Colwyn St,0,6,"N Broad St and Colwyn St, Philadelphia Pennsylvania",40.0156561,-75.149801
-190,842,1704217,"June 12, 2020",New York,Bronx,E 233rd St and Bronx River Pkwy,1,3,"E 233rd St and Bronx River Pkwy, Bronx New York",40.8947378,-73.8614137
-191,851,1700864,"June 9, 2020",North Carolina,Scotland Neck,E 13th St and Greenwood St,0,5,"E 13th St and Greenwood St, Scotland Neck North Carolina",36.131734,-77.418168
-192,852,1701426,"June 9, 2020",Pennsylvania,Philadelphia,600 block N 8th St,1,6,"600 block N 8th St, Philadelphia Pennsylvania",39.962288,-75.1519484
-193,857,1699577,"June 7, 2020",Arkansas,Hope,1400  East Hickory St,0,5,"1400  East Hickory St, Hope Arkansas",33.682176,-93.5820341
-194,864,1698868,"June 6, 2020",California,Sacramento,Gardendale Rd and 29th St,1,4,"Gardendale Rd and 29th St, Sacramento California",38.490477,-121.4740144
-195,867,1697453,"June 4, 2020",Alabama,Valhermoso Springs,522 Talucah Rd,7,0,"522 Talucah Rd, Valhermoso Springs Alabama",34.5236956,-86.6767094
-196,869,1695586,"June 2, 2020",Wisconsin,Racine,Kewaunee St and Michigan Blvd,0,5,"Kewaunee St and Michigan Blvd, Racine Wisconsin",42.7393779,-87.78277829999999
-197,872,1693340,"May 31, 2020",Mississippi,Gulfport,S Carolina Ave and Polk St,1,5,"S Carolina Ave and Polk St, Gulfport Mississippi",30.4088925,-89.0856936
-198,877,1693246,"May 30, 2020",Florida,Altha,21281 Apachee Rd,2,4,"21281 Apachee Rd, Altha Florida",30.50656889999999,-85.34988
-199,881,1690922,"May 28, 2020",Tennessee,Memphis,TN 385 and Kirby Pkwy,0,4,"TN 385 and Kirby Pkwy, Memphis Tennessee",35.0377,-89.79367900000001
-200,888,1689252,"May 26, 2020",Pennsylvania,Philadelphia,2700  N Darian St,0,4,"2700  N Darian St, Philadelphia Pennsylvania",39.99279910000001,-75.1456117
-201,889,1688917,"May 26, 2020",Illinois,Chicago,W Washington Blvd and N Hamlin Blvd,2,2,"W Washington Blvd and N Hamlin Blvd, Chicago Illinois",41.88190950000001,-87.72081190000002
-202,890,1689555,"May 26, 2020",California,Los Angeles,119th St and Berendo Ave,0,5,"119th St and Berendo Ave, Los Angeles California",33.9250545,-118.2945929
-203,891,1688753,"May 26, 2020",South Carolina,Bowman,Dibble St and Rail St,3,5,"Dibble St and Rail St, Bowman South Carolina",33.3478698,-80.6853345
-204,893,1687219,"May 24, 2020",Missouri,Saint Louis,Union Boulevard and Cote Brilliante Ave,0,4,"Union Boulevard and Cote Brilliante Ave, Saint Louis Missouri",38.6681719,-90.2660197
-205,894,1687037,"May 24, 2020",South Carolina,Myrtle Beach,12th Ave N and Ocean Blvd,0,4,"12th Ave N and Ocean Blvd, Myrtle Beach South Carolina",33.69469120000001,-78.8769899
-206,895,1687414,"May 24, 2020",Alabama,Danville,70 Flint Creek Pvt Dr,3,1,"70 Flint Creek Pvt Dr, Danville Alabama",34.5037719,-87.0670217
-207,897,1686615,"May 23, 2020",Illinois,Rock Island,800 14 1/2 St,1,4,"800 14 1/2 St, Rock Island Illinois",41.5032477,-90.5784503
-208,898,1687027,"May 23, 2020",South Carolina,Jonesville,100  Dover Rd,2,5,"100  Dover Rd, Jonesville South Carolina",34.8210742,-81.6329696
-209,899,1687108,"May 23, 2020",North Carolina,Charlotte,4900 Block of Albemarle Rd,0,6,"4900 Block of Albemarle Rd, Charlotte North Carolina",35.19983879999999,-80.76459
-210,900,1687097,"May 23, 2020",Michigan,Flint,4100  Minerva St,1,3,"4100  Minerva St, Flint Michigan",43.0634612,-83.7430129
-211,901,1686414,"May 23, 2020",Florida,Fort Lauderdale (Lauderhill),7776 NW 44th St,0,5,"7776 NW 44th St, Fort Lauderdale (Lauderhill) Florida",26.1781929,-80.253374
-212,911,1682233,"May 17, 2020",South Carolina,Saint Matthews,100  Bugleflower Ln,4,1,"100  Bugleflower Ln, Saint Matthews South Carolina",33.6301905,-80.78220859999999
-213,912,1681588,"May 16, 2020",Louisiana,Bogalusa,Martin Luther King Dr and E 4th St,0,13,"Martin Luther King Dr and E 4th St, Bogalusa Louisiana",30.7751835,-89.85329700000001
-214,919,1677566,"May 11, 2020",Alabama,Montgomery,Rosa Parks Ave and Courtland Dr,0,4,"Rosa Parks Ave and Courtland Dr, Montgomery Alabama",32.349302,-86.316546
-215,922,1676746,"May 10, 2020",Texas,Katy,18000  Bonners Park Cir,0,6,"18000  Bonners Park Cir, Katy Texas",29.856645,-95.69671369999999
-216,927,1674299,"May 6, 2020",Tennessee,Memphis,Barron Ave and Dogwood Dr,2,2,"Barron Ave and Dogwood Dr, Memphis Tennessee",35.0966127,-89.9296823
-217,936,1666327,"April 25, 2020",Florida,Orlando,Elese St and Deerock Dr,1,4,"Elese St and Deerock Dr, Orlando Florida",28.5265572,-81.44661909999999
-218,940,1661537,"April 18, 2020",Maryland,Hyattsville,7500  Courtney Pl,2,2,"7500  Courtney Pl, Hyattsville Maryland",38.898815,-76.87577519999999
-219,943,1659862,"April 16, 2020",Pennsylvania,Philadelphia,Bustleton Ave and St Vincent St,0,4,"Bustleton Ave and St Vincent St, Philadelphia Pennsylvania",40.045362,-75.0607096
-220,945,1656873,"April 11, 2020",California,Bakersfield,Pioneer Rd and Sterling Rd,0,6,"Pioneer Rd and Sterling Rd, Bakersfield California",35.368647,-118.941538
-221,948,1654971,"April 8, 2020",South Carolina,Greenwood,1522 Parkway,1,3,"1522 Parkway, Greenwood South Carolina",34.16941,-82.160327
-222,952,1652734,"April 5, 2020",California,Los Angeles,89th St and Hobart Ave,1,3,"89th St and Hobart Ave, Los Angeles California",33.956343,-118.3079038
-223,960,1648205,"March 29, 2020",Georgia,Atlanta,Ponce de Leon Ave and Parkway Dr,0,4,"Ponce de Leon Ave and Parkway Dr, Atlanta Georgia",33.7731553,-84.3728041
-224,968,1640295,"March 15, 2020",North Carolina,Moncure,842 Moncure Flatwood Rd,7,0,"842 Moncure Flatwood Rd, Moncure North Carolina",35.5878396,-79.0153917
-225,973,1640278,"March 13, 2020",Louisiana,New Orleans (Algiers),Wagner St and Hero Blvd,0,5,"Wagner St and Hero Blvd, New Orleans (Algiers) Louisiana",29.9329005,-90.04054
-226,984,1631831,"February 29, 2020",Colorado,Brighton,Starr Ln and County Rd 2,0,5,"Starr Ln and County Rd 2, Brighton Colorado",40.0004368,-104.7844184
-227,987,1627335,"February 23, 2020",North Carolina,Clarkton,71 Tina Ln,3,1,"71 Tina Ln, Clarkton North Carolina",34.498959,-78.68110999999999
-228,990,1625787,"February 20, 2020",North Carolina,Greensboro,Martin Luther King Jr Ave and Randolph Dr,0,4,"Martin Luther King Jr Ave and Randolph Dr, Greensboro North Carolina",36.0561859,-79.7844968
-229,991,1623696,"February 17, 2020",Mississippi,Port Gibson,8027 Hwy 61,2,2,"8027 Hwy 61, Port Gibson Mississippi",31.8874934,-91.0026843
-230,1003,1611563,"January 31, 2020",California,Delano,Hiett Ave and County Line Rd,1,4,"Hiett Ave and County Line Rd, Delano California",35.790406,-119.267666
-231,1010,1605770,"January 26, 2020",North Carolina,Salisbury,1935 Jake Alexander Blvd,0,6,"1935 Jake Alexander Blvd, Salisbury North Carolina",35.6915509,-80.51519239999999
-232,1012,1606476,"January 24, 2020",North Carolina,Vanceboro,107 Kinshaw Ct,5,0,"107 Kinshaw Ct, Vanceboro North Carolina",35.2336064,-77.11051460000002
-233,1031,2125227,"September 25, 2021",California,Riverside,6000 Block of Mariposa Ave,0,6,"6000 Block of Mariposa Ave, Riverside California",33.9208858,-117.4643502
-234,1032,2125444,"September 25, 2021",Tennessee,Athens,Co Rd 60,4,0,"Co Rd 60, Athens Tennessee",35.4212763,-84.7425888
-235,1035,2123301,"September 23, 2021",Pennsylvania,Philadelphia,38th St and Aspen St,0,4,"38th St and Aspen St, Philadelphia Pennsylvania",39.9668134,-75.1980406
-236,1037,2122565,"September 22, 2021",North Carolina,Fayetteville,1100  Charlie Dr,2,2,"1100  Charlie Dr, Fayetteville North Carolina",35.1134875,-78.9350238
-237,1039,2120940,"September 20, 2021",Pennsylvania,Philadelphia,Broad St and Chew Ave,1,5,"Broad St and Chew Ave, Philadelphia Pennsylvania",40.0398311,-75.1444483
-238,1043,2119745,"September 19, 2021",Texas,Dallas,100  N Malcolm X Blvd,2,4,"100  N Malcolm X Blvd, Dallas Texas",32.784183,-96.7821508
-239,1047,2119470,"September 18, 2021",New York,Bronx,Teller Ave and E 172nd St,1,3,"Teller Ave and E 172nd St, Bronx New York",40.8399051,-73.9090368
-240,1054,2115947,"September 12, 2021",Minnesota,Saint Paul,7th St W and N Walnut St,4,0,"7th St W and N Walnut St, Saint Paul Minnesota",44.9425281,-93.1051933
-241,1056,2122103,"September 12, 2021",Illinois,Blue Island,12200  S Irving Ave,2,2,"12200  S Irving Ave, Blue Island Illinois",41.671774,-87.6767342
-242,1061,2113769,"September 11, 2021",New Jersey,Paterson,E 18th St and Fulton Pl,0,4,"E 18th St and Fulton Pl, Paterson New Jersey",40.9231942,-74.1541848
-243,1067,2110346,"September 7, 2021",Delaware,Wilmington,A St and New Castle Ave,0,4,"A St and New Castle Ave, Wilmington Delaware",39.7300848,-75.542717
-244,1074,2108378,"September 5, 2021",Georgia,Athens,E Clayton St and N Jackson St,0,6,"E Clayton St and N Jackson St, Athens Georgia",33.9587568,-83.3745471
-245,1075,2108302,"September 5, 2021",Florida,Lakeland,N Socrum Loop Rd and Fulton Green Rd,4,2,"N Socrum Loop Rd and Fulton Green Rd, Lakeland Florida",28.1409908,-81.9564544
-246,1079,2108406,"September 4, 2021",Georgia,Warner Robins,Mauldon Ct and Dunmurry Pl,1,4,"Mauldon Ct and Dunmurry Pl, Warner Robins Georgia",32.6404462,-83.62500109999999
-247,1084,2107168,"September 3, 2021",New York,Syracuse,Nelson St and W Marcellus St,0,4,"Nelson St and W Marcellus St, Syracuse New York",43.044463,-76.174705
-248,1087,2104725,"August 31, 2021",North Carolina,Elm City,3500  London Church Rd,2,2,"3500  London Church Rd, Elm City North Carolina",35.7632208,-77.9011459
-249,1091,2103311,"August 29, 2021",Wisconsin,Milwaukee,N 41st St and W Lloyd St,0,4,"N 41st St and W Lloyd St, Milwaukee Wisconsin",43.0574688,-87.9646659
-250,1092,2103132,"August 28, 2021",New York,Albany,Sherman St and Henry Johnson Blvd,0,5,"Sherman St and Henry Johnson Blvd, Albany New York",42.6587275,-73.7644748
-251,1098,2098246,"August 23, 2021",Illinois,Chicago,W Wilson Ave and N Sheridan Rd,0,4,"W Wilson Ave and N Sheridan Rd, Chicago Illinois",41.9654295,-87.6547745
-252,1112,2094035,"August 18, 2021",California,Los Angeles,W Jefferson Blvd and Culver Blvd,0,4,"W Jefferson Blvd and Culver Blvd, Los Angeles California",33.9685795,-118.4390164
-253,1113,2094457,"August 18, 2021",North Carolina,Durham,Ridgeway Ave and Wabash St,1,3,"Ridgeway Ave and Wabash St, Durham North Carolina",35.9752666,-78.8883953
-254,1119,2091531,"August 14, 2021",Indiana,Indianapolis,Wheeler St and E 28th St,1,3,"Wheeler St and E 28th St, Indianapolis Indiana",39.8067906,-86.11323019999999
-255,1120,2090949,"August 14, 2021",New York,Brooklyn,Lexington Ave and Marcy Ave,0,4,"Lexington Ave and Marcy Ave, Brooklyn New York",40.6880544,-73.9477533
-256,1122,2090777,"August 14, 2021",Indiana,Indianapolis,Lafayette Rd and W 38th St,1,4,"Lafayette Rd and W 38th St, Indianapolis Indiana",39.82411159999999,-86.23488479999999
-257,1133,2085489,"August 8, 2021",Texas,Houston,2504 FM 1960 Rd E,1,5,"2504 FM 1960 Rd E, Houston Texas",30.0231807,-95.39177180000001
-258,1152,2080006,"July 31, 2021",Michigan,Saginaw,2700  Lynnwood Ave,2,2,"2700  Lynnwood Ave, Saginaw Michigan",43.4021141,-83.931116
-259,1156,2078540,"July 29, 2021",Iowa,Davenport,Pacific St and West Locust St,0,4,"Pacific St and West Locust St, Davenport Iowa",41.5365639,-90.6123128
-260,1157,2077587,"July 29, 2021",Pennsylvania,Pittsburgh,239 Gilkeson Rd,3,2,"239 Gilkeson Rd, Pittsburgh Pennsylvania",40.3578412,-80.0570941
-261,1159,2077549,"July 28, 2021",Alabama,Montgomery,1800  Rosa Parks Ave,1,3,"1800  Rosa Parks Ave, Montgomery Alabama",32.354281,-86.316869
-262,1160,2076889,"July 28, 2021",South Carolina,Charleston,Hanover St and Johnson St,1,4,"Hanover St and Johnson St, Charleston South Carolina",32.8014566,-79.9412037
-263,1167,2072761,"July 24, 2021",Georgia,Macon,Cherry St and Martin Luther King Jr Blvd,2,3,"Cherry St and Martin Luther King Jr Blvd, Macon Georgia",32.834718,-83.62591239999999
-264,1174,2069490,"July 21, 2021",Maryland,Hyattsville (Adelphi),1836 Metzerott Rd,1,4,"1836 Metzerott Rd, Hyattsville (Adelphi) Maryland",39.0049729,-76.97598239999999
-265,1175,2070645,"July 21, 2021",Illinois,Chicago,1647 N La Salle Dr,0,8,"1647 N La Salle Dr, Chicago Illinois",41.9123404,-87.63271429999999
-266,1176,2068568,"July 20, 2021",Texas,Jacksonville,16241 TX-110,4,0,"16241 TX-110, Jacksonville Texas",32.0258479,-95.1033327
-267,1184,2066812,"July 18, 2021",California,Walnut Creek,SOS Dr and San Luis Rd,1,3,"SOS Dr and San Luis Rd, Walnut Creek California",37.91864899999999,-122.0647459
-268,1187,2065634,"July 16, 2021",California,Sacramento,L St and Front St,2,4,"L St and Front St, Sacramento California",38.5813045,-121.5064162
-269,1190,2064992,"July 16, 2021",District of Columbia,Washington,2900  MLK Ave SE,1,5,"2900  MLK Ave SE, Washington District of Columbia",38.8458831,-76.99640339999999
-270,1201,2060293,"July 12, 2021",New Jersey,Iselin,515 US-1,0,4,"515 US-1, Iselin New Jersey",40.55716049999999,-74.31123319999999
-271,1203,2060605,"July 12, 2021",New York,Corona (Queens),180th St and 145th Dr,0,4,"180th St and 145th Dr, Corona (Queens) New York",40.84845929999999,-73.9333944
-272,1204,2059440,"July 11, 2021",Texas,El Paso (Socorro),1300 Joe Battle Blvd,1,5,"1300 Joe Battle Blvd, El Paso (Socorro) Texas",31.71496699999999,-106.2698439
-273,1205,2059404,"July 10, 2021",Pennsylvania,Philadelphia,W Butler St and N 9th St,0,6,"W Butler St and N 9th St, Philadelphia Pennsylvania",40.0097504,-75.1424421
-274,1209,2057427,"July 8, 2021",Connecticut,Hartford,Nelson St and Garden St,0,4,"Nelson St and Garden St, Hartford Connecticut",41.7887104,-72.6819204
-275,1210,2053262,"July 5, 2021",Ohio,Toledo,Lawrence Ave and Wall St,1,11,"Lawrence Ave and Wall St, Toledo Ohio",41.6737027,-83.56489739999999
-276,1214,2052524,"July 4, 2021",California,Thermal,Jackson St and Airport Blvd,0,4,"Jackson St and Airport Blvd, Thermal California",33.642147,-116.2160362
-277,1215,2054233,"July 4, 2021",Ohio,Cleveland,Kinsman Rd and E 139th St,0,4,"Kinsman Rd and E 139th St, Cleveland Ohio",41.464595,-81.585925
-278,1221,2053786,"July 4, 2021",Missouri,Kansas City,E 43rd St and Indiana Ave,0,4,"E 43rd St and Indiana Ave, Kansas City Missouri",39.0478837,-94.5447604
-279,1245,2045579,"June 26, 2021",Illinois,Chicago,6100  N McCormick Blvd,1,3,"6100  N McCormick Blvd, Chicago Illinois",41.9945372,-87.71400810000002
-280,1249,2044701,"June 25, 2021",New York,Bronx,Zerega Ave and Watson Ave,0,5,"Zerega Ave and Watson Ave, Bronx New York",40.830599,-73.844415
-281,1260,2041363,"June 20, 2021",Florida,Wildwood,9605 Co Rd 235,1,10,"9605 Co Rd 235, Wildwood Florida",28.8960343,-82.0945413
-282,1265,2039457,"June 19, 2021",Alaska,Anchorage,East 3rd Ave and Gambell St,1,4,"East 3rd Ave and Gambell St, Anchorage Alaska",61.21954119999999,-149.8710412
-283,1269,2039441,"June 18, 2021",Minnesota,Minneapolis,400  14th Ave SE,0,5,"400  14th Ave SE, Minneapolis Minnesota",44.9805432,-93.235508
-284,1270,2037813,"June 17, 2021",Virginia,Petersburg,Virginia Ave and Melville St,0,4,"Virginia Ave and Melville St, Petersburg Virginia",37.213073,-77.40942
-285,1273,2038152,"June 17, 2021",New Jersey,Paterson,Rosa Parks Blvd and Hamilton Ave,0,4,"Rosa Parks Blvd and Hamilton Ave, Paterson New Jersey",40.9199744,-74.1591267
-286,1275,2036121,"June 15, 2021",Illinois,Chicago,3800  W Monroe,0,5,"3800  W Monroe, Chicago Illinois",41.880043,-87.72137130000002
-287,1281,2033905,"June 13, 2021",Ohio,West Salem,9161 Rainbow Hwy,1,6,"9161 Rainbow Hwy, West Salem Ohio",40.987079,-82.0953399
-288,1283,2033123,"June 12, 2021",Ohio,Cincinnati,McHenry Ave and Cavanaugh Ave,0,5,"McHenry Ave and Cavanaugh Ave, Cincinnati Ohio",39.1446869,-84.573944
-289,1291,2030720,"June 10, 2021",Michigan,Detroit,1600 block Calvert Ave,1,3,"1600 block Calvert Ave, Detroit Michigan",42.3839461,-83.1010379
-290,1293,2029078,"June 8, 2021",Tennessee,Nashville,Clarksville Pike and Buena Vista Pike,1,3,"Clarksville Pike and Buena Vista Pike, Nashville Tennessee",36.1938952,-86.83157
-291,1297,2027046,"June 7, 2021",Florida,Homestead,12550 SW 282nd St,3,3,"12550 SW 282nd St, Homestead Florida",25.5107197,-80.3849621
-292,1300,2026651,"June 6, 2021",North Carolina,Snow Hill,50  Katie Ct,0,4,"50  Katie Ct, Snow Hill North Carolina",35.4850999,-77.5858655
-293,1313,2022129,"May 31, 2021",Ohio,Cleveland (Garfield Heights),13000  Alvin Ave,1,5,"13000  Alvin Ave, Cleveland (Garfield Heights) Ohio",41.4352612,-81.5920495
-294,1315,2019622,"May 30, 2021",Florida,Hialeah,7630 NW 186th St,3,20,"7630 NW 186th St, Hialeah Florida",25.941666,-80.32565360000001
-295,1320,2018495,"May 27, 2021",North Carolina,Durham,1200  Fayetteville St,0,5,"1200  Fayetteville St, Durham North Carolina",35.9828683,-78.8988521
-296,1327,2013059,"May 23, 2021",New Jersey,Paterson,Hillman St and E Main St,0,5,"Hillman St and E Main St, Paterson New Jersey",40.9292191,-74.16828749999999
-297,1329,2012765,"May 22, 2021",South Carolina,North Charleston,Piggly Wiggly Dr and W Jimtown Dr,1,14,"Piggly Wiggly Dr and W Jimtown Dr, North Charleston South Carolina",32.8718716,-80.0010901
-298,1332,2011569,"May 22, 2021",Minnesota,Minneapolis,322 N 1st Ave,2,7,"322 N 1st Ave, Minneapolis Minnesota",44.9817762,-93.272576
-299,1334,2012633,"May 22, 2021",New Jersey,Bridgeton,1029 E Commerce St,3,11,"1029 E Commerce St, Bridgeton New Jersey",39.4217536,-75.18567879999999
-300,1335,2011077,"May 21, 2021",New York,Albany,1st St and Quail St,1,5,"1st St and Quail St, Albany New York",42.667183,-73.7703877
-301,1344,2006204,"May 16, 2021",Georgia,Stone Mountain,4766 Redan Rd,1,5,"4766 Redan Rd, Stone Mountain Georgia",33.7622544,-84.1970182
-302,1359,1999909,"May 9, 2021",California,Los Angeles,6112 W Afton Pl,1,3,"6112 W Afton Pl, Los Angeles California",34.09502,-118.322826
-303,1360,2000132,"May 9, 2021",South Carolina,Charleston,500 Block of King St,0,5,"500 Block of King St, Charleston South Carolina",32.7908771,-79.939334
-304,1365,1998476,"May 8, 2021",Maryland,Gwynn Oak (Woodlawn),7300  Maury Rd,4,1,"7300  Maury Rd, Gwynn Oak (Woodlawn) Maryland",39.3101843,-76.7726373
-305,1370,1999434,"May 6, 2021",New Jersey,Paterson,22nd Ave and E 30th St,0,5,"22nd Ave and E 30th St, Paterson New Jersey",40.9033994,-74.14782079999999
-306,1379,1992534,"May 1, 2021",Louisiana,New Orleans,St Bernard Ave and N Claiborne Ave,2,4,"St Bernard Ave and N Claiborne Ave, New Orleans Louisiana",29.9725872,-90.0654565
-307,1382,1992469,"May 1, 2021",Florida,Clewiston,1117 Harlem Academy Ave,1,3,"1117 Harlem Academy Ave, Clewiston Florida",26.7376574,-80.95358039999999
-308,1385,1989840,"April 28, 2021",North Carolina,Boone,553 Hardaman Cir,5,0,"553 Hardaman Cir, Boone North Carolina",36.2124213,-81.6042866
-309,1388,1987241,"April 26, 2021",Louisiana,Houma,656 Corporate Dr,0,5,"656 Corporate Dr, Houma Louisiana",29.6098623,-90.7582942
-310,1389,1988326,"April 26, 2021",Oregon,Gresham,SE Stark St and SE 174th Ave,0,7,"SE Stark St and SE 174th Ave, Gresham Oregon",45.5191451,-122.484608
-311,1392,1987235,"April 25, 2021",Alabama,Phenix City,1700 Highway 280 Bypass,0,4,"1700 Highway 280 Bypass, Phenix City Alabama",32.4609911,-85.0191653
-312,1398,1981521,"April 18, 2021",Michigan,Detroit,Ward Ave and W McNichols Rd,1,5,"Ward Ave and W McNichols Rd, Detroit Michigan",42.4166243,-83.1742467
-313,1403,1980971,"April 17, 2021",Louisiana,La Place (Laplace),624 Golfview Dr,0,9,"624 Golfview Dr, La Place (Laplace) Louisiana",30.0843142,-90.4843125
-314,1404,1979684,"April 16, 2021",Michigan,Detroit,Conant St and Minnesota St,0,4,"Conant St and Minnesota St, Detroit Michigan",42.4237923,-83.06714099999999
-315,1408,1978616,"April 15, 2021",Florida,Pensacola,700 Truman Ave,0,6,"700 Truman Ave, Pensacola Florida",30.4508854,-87.2525044
-316,1416,1975405,"April 10, 2021",Connecticut,Waterbury,36 Gasparri Ln,0,4,"36 Gasparri Ln, Waterbury Connecticut",41.5444505,-73.0118552
-317,1419,1971410,"April 7, 2021",South Carolina,Rock Hill,4456 Marshall Rd,7,0,"4456 Marshall Rd, Rock Hill South Carolina",34.8522468,-81.0585637
-318,1421,1973435,"April 7, 2021",Ohio,Dayton,Hoover Ave and Summit Square,0,4,"Hoover Ave and Summit Square, Dayton Ohio",39.7613206,-84.2839135
-319,1424,1970378,"April 5, 2021",Illinois,Chicago,6800  S Justine Ave,0,7,"6800  S Justine Ave, Chicago Illinois",41.7702472,-87.66302569999999
-320,1428,1969633,"April 4, 2021",Texas,Beaumont,6035 S M L King Jr Pkwy,0,4,"6035 S M L King Jr Pkwy, Beaumont Texas",30.02913989999999,-94.0576091
-321,1440,1962934,"March 27, 2021",Mississippi,Yazoo City,Dr Martin Luther King Jr Dr and Shady Dr,0,6,"Dr Martin Luther King Jr Dr and Shady Dr, Yazoo City Mississippi",32.8641025,-90.4112479
-323,1449,1959549,"March 22, 2021",Michigan,Detroit,13300  Davidson St,1,3,"13300  Davidson St, Detroit Michigan",42.3857271,-83.173908
-324,1455,1956001,"March 17, 2021",California,Stockton,Oro Ave and E Main St,0,5,"Oro Ave and E Main St, Stockton California",37.9539772,-121.2342465
-325,1456,1954379,"March 16, 2021",Georgia,Acworth,6468 Hwy 92,8,1,"6468 Hwy 92, Acworth Georgia",34.0881409,-84.5808034
-326,1464,1951681,"March 13, 2021",Florida,Orlando,200  Ring Rd,1,3,"200  Ring Rd, Orlando Florida",28.5387883,-81.4513092
-327,1468,1950346,"March 11, 2021",New Mexico,Ohkay Owingeh (Chamita),89 Rio Arriba Co Rd 56,1,3,"89 Rio Arriba Co Rd 56, Ohkay Owingeh (Chamita) New Mexico",36.0700343,-106.1023748
-328,1471,1948233,"March 8, 2021",Florida,Clearwater,US-19 ALT and Drew St,1,3,"US-19 ALT and Drew St, Clearwater Florida",27.9681608,-82.7959132
-329,1473,1947241,"March 6, 2021",California,Yuba City,Countryside Dr and Littlejohn Dr,2,3,"Countryside Dr and Littlejohn Dr, Yuba City California",39.1254847,-121.6392332
-330,1476,1944507,"March 4, 2021",District of Columbia,Washington,3900 Martin Luther King Jr Ave SW,0,5,"3900 Martin Luther King Jr Ave SW, Washington District of Columbia",38.8324029,-77.0087428
-331,1484,1943271,"February 27, 2021",Mississippi,Columbus,1200  7th St S,0,4,"1200  7th St S, Columbus Mississippi",33.4840314,-88.42451849999999
-332,1490,1935235,"February 21, 2021",North Carolina,Teachey,Thomas Smith Ln and Bay Rd,0,4,"Thomas Smith Ln and Bay Rd, Teachey North Carolina",34.812221,-77.9641444
-333,1498,1928557,"February 13, 2021",California,San Francisco,3rd St and Quesada Ave,0,6,"3rd St and Quesada Ave, San Francisco California",37.7331886,-122.3912154
-334,1505,1924338,"February 9, 2021",Minnesota,Buffalo,755 Crossroads Campus Dr,1,4,"755 Crossroads Campus Dr, Buffalo Minnesota",45.1781559,-93.8632021
-335,1509,1922354,"February 6, 2021",Washington,Tacoma,3634 E McKinley Ave,1,3,"3634 E McKinley Ave, Tacoma Washington",47.2251837,-122.4211963
-336,1511,1924951,"February 5, 2021",Mississippi,Benoit,1017 Lake Bolivar Rd,3,1,"1017 Lake Bolivar Rd, Benoit Mississippi",33.6596266,-91.0540309
-337,1515,1917918,"February 2, 2021",Florida,Fort Lauderdale (Sunrise),10100 Reflections Blvd W,3,3,"10100 Reflections Blvd W, Fort Lauderdale (Sunrise) Florida",26.1779789,-80.28929339999999
-338,1524,1910619,"January 24, 2021",Nevada,Las Vegas,W Wilson Ave and H St,0,5,"W Wilson Ave and H St, Las Vegas Nevada",36.1781985,-115.151847
-339,1525,1909849,"January 22, 2021",Kentucky,Covington,217 E Martin Luther King Jr Blvd,0,5,"217 E Martin Luther King Jr Blvd, Covington Kentucky",39.0781504,-84.5045143
-340,1526,1908542,"January 21, 2021",California,Oakland,107th Ave and Apricot St,1,3,"107th Ave and Apricot St, Oakland California",37.7351411,-122.1720888
-341,1534,1897878,"January 9, 2021",Texas,Houston,5828 Martin Luther King Blvd,1,3,"5828 Martin Luther King Blvd, Houston Texas",29.6963386,-95.3378041
-342,1537,1896252,"January 6, 2021",Virginia,Manassas,10010 Ellis Rd,3,3,"10010 Ellis Rd, Manassas Virginia",38.7374352,-77.42864589999999
-343,1539,1894979,"January 4, 2021",Florida,Tampa,1225 S 78th St,0,5,"1225 S 78th St, Tampa Florida",27.9367999,-82.3690376
-344,1540,1894941,"January 4, 2021",Florida,Fort Lauderdale (Lauderhill),1828 NW 38th Ave,0,7,"1828 NW 38th Ave, Fort Lauderdale (Lauderhill) Florida",26.1488122,-80.1995457
-345,1541,1893953,"January 3, 2021",Oregon,Gresham,NE 181st Ave and NE San Rafael St,0,4,"NE 181st Ave and NE San Rafael St, Gresham Oregon",45.5371044,-122.4772596
+,incident_id,incident_date,state,city_county,street_address,killed,injured,full_address,lat,long
+0,1581476,"December 27, 2019",Georgia,Kennesaw,1575 Ridenour Pkwy NW,0,4,"1575 Ridenour Pkwy NW, Kennesaw Georgia",33.9917233,-84.5889583
+1,1577688,"December 22, 2019",Minnesota,Minneapolis (Spring Lake Park),8407 Plaza Blvd NE,1,7,"8407 Plaza Blvd NE, Minneapolis (Spring Lake Park) Minnesota",45.1224263,-93.2342819
+2,1562685,"December 1, 2019",Michigan,Kalamazoo,6300  Proctor St,1,3,"6300  Proctor St, Kalamazoo Michigan",42.285262,-85.50609899999999
+3,1561398,"November 30, 2019",Arkansas,Hensley,6500  E Sardis Rd,0,5,"6500  E Sardis Rd, Hensley Arkansas",34.5440673,-92.3551775
+4,1559257,"November 27, 2019",New York,Bronx,E 153rd St and Courtlandt Ave,0,5,"E 153rd St and Courtlandt Ave, Bronx New York",40.8193717,-73.9182842
+5,1558067,"November 25, 2019",Florida,Brownsville,NW 29th Ave and 44th St,2,2,"NW 29th Ave and 44th St, Brownsville Florida",25.8152048,-80.2424851
+6,1554446,"November 20, 2019",California,Richmond,20th St and Roosevelt Ave,0,4,"20th St and Roosevelt Ave, Richmond California",37.9399917,-122.3505287
+7,1543835,"November 7, 2019",Georgia,Conyers,1800  Green St,2,3,"1800  Green St, Conyers Georgia",33.6844535,-83.9865992
+8,1540841,"November 3, 2019",Texas,Nacogdoches,Sandyland Cir and CR 823,1,3,"Sandyland Cir and CR 823, Nacogdoches Texas",31.654174,-94.73263860000002
+9,1539572,"November 1, 2019",Arizona,Tolleson,2434 S 86th Ln,0,5,"2434 S 86th Ln, Tolleson Arizona",33.4249156,-112.2465749
+10,1536706,"October 27, 2019",Michigan,Detroit,East Outer Dr and Helen St,0,4,"East Outer Dr and Helen St, Detroit Michigan",42.4411816,-83.0318324
+11,1535629,"October 27, 2019",Michigan,Lansing,Balfour Dr and W Miller Rd,1,4,"Balfour Dr and W Miller Rd, Lansing Michigan",42.6692109,-84.5762821
+12,1533166,"October 22, 2019",Oklahoma,Oklahoma City (Midwest City),7020 E Green Ave,1,3,"7020 E Green Ave, Oklahoma City (Midwest City) Oklahoma",35.4633759,-97.40509240000002
+13,1525999,"October 13, 2019",Pennsylvania,Philadelphia,W Clearfield St and N 8th St,0,6,"W Clearfield St and N 8th St, Philadelphia Pennsylvania",39.9987941,-75.1437857
+14,1523606,"October 10, 2019",Florida,Tampa,5410 N Falkenburg Rd,2,2,"5410 N Falkenburg Rd, Tampa Florida",27.9957813,-82.3353752
+15,1520499,"October 6, 2019",Colorado,Denver,7100  Ruth Way,0,4,"7100  Ruth Way, Denver Colorado",39.8257676,-105.0130746
+16,1517804,"October 1, 2019",Missouri,Saint Louis,Leonor K. Sullivan Blvd and Poplar St,0,4,"Leonor K. Sullivan Blvd and Poplar St, Saint Louis Missouri",38.6192343,-90.18610849999999
+17,1515312,"September 29, 2019",Illinois,Round Lake (Round Lake Park),500  Fairlawn Ave,1,3,"500  Fairlawn Ave, Round Lake (Round Lake Park) Illinois",42.3570845,-88.0766525
+18,1517360,"September 29, 2019",Kansas,Claflin,1500  NE 100th Rd,0,4,"1500  NE 100th Rd, Claflin Kansas",38.5074005,-98.4988036
+19,1509411,"September 21, 2019",Louisiana,New Orleans,Poland Ave and St. Claude Ave,0,4,"Poland Ave and St. Claude Ave, New Orleans Louisiana",29.9648338,-90.0313877
+20,1508859,"September 20, 2019",Louisiana,New Orleans,Canal Blvd and City Park Ave,1,5,"Canal Blvd and City Park Ave, New Orleans Louisiana",29.9821623,-90.1107564
+21,1507092,"September 18, 2019",California,Wilmington,800  Bayview Ave,2,2,"800  Bayview Ave, Wilmington California",33.7797063,-118.2698968
+22,1499300,"September 7, 2019",North Carolina,Whiteville,Brittany Ln,3,1,"Brittany Ln, Whiteville North Carolina",34.2481902,-78.6850442
+23,1497702,"September 4, 2019",Louisiana,Marrero,3044 Sorbonne Dr,2,2,"3044 Sorbonne Dr, Marrero Louisiana",29.8508633,-90.1192308
+24,1492377,"August 31, 2019",South Carolina,Moncks Corner,336 Maplewood Rd,0,4,"336 Maplewood Rd, Moncks Corner South Carolina",33.156254,-80.0383634
+25,1487356,"August 24, 2019",Maryland,Temple Hills (Camp Springs),6200  Maxwell Dr,0,7,"6200  Maxwell Dr, Temple Hills (Camp Springs) Maryland",38.8174429,-76.8985587
+26,1479395,"August 13, 2019",Washington,Tacoma,E 38th St and E Roosevelt Ave,2,3,"E 38th St and E Roosevelt Ave, Tacoma Washington",47.22308899999999,-122.398824
+27,1527721,"August 4, 2019",Louisiana,Lake Charles,110 Pryce St,0,4,"110 Pryce St, Lake Charles Louisiana",30.234419,-93.2177159
+28,1461352,"July 28, 2019",Wisconsin,Chippewa Falls,16964 54th Ave,5,2,"16964 54th Ave, Chippewa Falls Wisconsin",44.9205224,-91.32783909999999
+29,1457165,"July 25, 2019",California,Canoga Park,21901 Roscoe Boulevard,4,2,"21901 Roscoe Boulevard, Canoga Park California",34.220124,-118.6047055
+30,1450124,"July 17, 2019",Texas,Lubbock,N Elder Ave and E Colgate St,1,3,"N Elder Ave and E Colgate St, Lubbock Texas",33.6024732,-101.8029804
+31,1441967,"July 8, 2019",District of Columbia,Washington,3900 Martin Luther King Jr Ave SW,2,2,"3900 Martin Luther King Jr Ave SW, Washington District of Columbia",38.8324029,-77.0087428
+32,1441565,"July 7, 2019",Michigan,Flint,Clio Rd and Myrtle St,0,6,"Clio Rd and Myrtle St, Flint Michigan",43.0503962,-83.73268619999999
+33,1441613,"July 7, 2019",Missouri,Saint Louis,N Tucker Blvd and Convention Plaza,0,5,"N Tucker Blvd and Convention Plaza, Saint Louis Missouri",38.6332014,-90.19611049999999
+34,1440257,"July 5, 2019",New York,Brooklyn,Elton St and Belmont Ave,0,4,"Elton St and Belmont Ave, Brooklyn New York",40.6724642,-73.883074
+35,1439042,"July 3, 2019",Texas,Katy,5507 Everhart Manor Ln,2,3,"5507 Everhart Manor Ln, Katy Texas",29.7177492,-95.7969688
+36,1435578,"June 30, 2019",New York,Bay Shore,Farragut Ave,0,6,"Farragut Ave, Bay Shore New York",40.74698799999999,-73.26109919999999
+37,1435041,"June 29, 2019",Connecticut,Hartford,Judson St and Martin St,0,4,"Judson St and Martin St, Hartford Connecticut",41.7893425,-72.6799544
+38,1435297,"June 29, 2019",Louisiana,Gray,2700  W Park Ave,0,4,"2700  W Park Ave, Gray Louisiana",29.70844809999999,-90.7912856
+39,1434971,"June 28, 2019",Georgia,Atlanta,Ira St and Bass St SW,0,7,"Ira St and Bass St SW, Atlanta Georgia",33.7356464,-84.3999789
+40,1432989,"June 27, 2019",Georgia,Atlanta,600  Parkway Dr,0,7,"600  Parkway Dr, Atlanta Georgia",33.7708803,-84.3730704
+41,1429399,"June 22, 2019",Virginia,Hampton,1st St and E Pembroke Ave,0,4,"1st St and E Pembroke Ave, Hampton Virginia",37.034294,-76.327798
+42,1428047,"June 21, 2019",California,Santa Maria,519  West Taylor St,5,0,"519  West Taylor St, Santa Maria California",34.975691,-120.440787
+43,1425161,"June 17, 2019",Texas,San Antonio,E Market St and Tower of the Americas Way,0,4,"E Market St and Tower of the Americas Way, San Antonio Texas",29.4213971,-98.48100219999999
+44,1423330,"June 16, 2019",Kentucky,Louisville,Dixie Highway and Ormsby Ave,1,6,"Dixie Highway and Ormsby Ave, Louisville Kentucky",38.2354477,-85.7875766
+45,1420432,"June 11, 2019",Georgia,Savannah,6900 Block of Damascus Rd,2,2,"6900 Block of Damascus Rd, Savannah Georgia",32.0044661,-81.0727251
+46,1418180,"June 8, 2019",Washington,White Swan,5151 Medicine Valley Rd,5,2,"5151 Medicine Valley Rd, White Swan Washington",46.4225286,-120.823627
+47,1412430,"June 1, 2019",Georgia,Macon,Suzanne Dr and Robinson Dr,2,4,"Suzanne Dr and Robinson Dr, Macon Georgia",32.842935,-83.69167159999999
+48,1407189,"May 27, 2019",New Jersey,Trenton,100  Walnut St,1,5,"100  Walnut St, Trenton New Jersey",40.2209688,-74.7489086
+49,1405749,"May 26, 2019",Virginia,La Crosse,800  Alvis Road,0,5,"800  Alvis Road, La Crosse Virginia",36.6091459,-78.027849
+50,1405196,"May 25, 2019",Virginia,Chesapeake,Holly Cove Dr and Schooner Trail,1,9,"Holly Cove Dr and Schooner Trail, Chesapeake Virginia",36.79987060000001,-76.39959
+51,1405221,"May 25, 2019",Oklahoma,Oklahoma City,N Kelley Ave and NE 26th St,0,5,"N Kelley Ave and NE 26th St, Oklahoma City Oklahoma",35.4968358,-97.4944349
+52,1399017,"May 18, 2019",Mississippi,Cascilla,700 Leverette Ln,1,4,"700 Leverette Ln, Cascilla Mississippi",33.8848664,-90.1201993
+53,1393960,"May 13, 2019",Louisiana,New Orleans,2100  4th St,0,4,"2100  4th St, New Orleans Louisiana",29.9355721,-90.0882232
+54,1392923,"May 11, 2019",Pennsylvania,Effort,Toll Rd and Bayberry Rd,0,4,"Toll Rd and Bayberry Rd, Effort Pennsylvania",40.9813323,-75.47401669999999
+55,1390764,"May 8, 2019",Indiana,Indianapolis,Roache St and Rader St,0,4,"Roache St and Rader St, Indianapolis Indiana",39.8046292,-86.1780773
+56,1389220,"May 7, 2019",Colorado,Littleton (Highlands Ranch),8773 S Ridgeline Blvd,1,8,"8773 S Ridgeline Blvd, Littleton (Highlands Ranch) Colorado",39.55595950000001,-104.997907
+57,1387170,"May 5, 2019",California,Oceano,1001 Cabrillo Hwy,0,6,"1001 Cabrillo Hwy, Oceano California",35.112489,-120.6255962
+58,1386510,"May 4, 2019",Missouri,Saint Louis,Union Blvd and Northland Ave,1,4,"Union Blvd and Northland Ave, Saint Louis Missouri",38.6713502,-90.26379279999999
+59,1386575,"May 4, 2019",Delaware,Wilmington,W 27th St and Tatnall St,0,4,"W 27th St and Tatnall St, Wilmington Delaware",39.75579099999999,-75.5356448
+60,1383752,"April 30, 2019",North Carolina,Charlotte,9214 South Library Ln,2,4,"9214 South Library Ln, Charlotte North Carolina",35.305966,-80.730937
+61,1382711,"April 28, 2019",Ohio,West Chester,4637 Wyndtree Dr,4,0,"4637 Wyndtree Dr, West Chester Ohio",39.3506968,-84.46779839999999
+62,1381734,"April 27, 2019",California,Los Angeles,700 N San Fernando Rd,0,6,"700 N San Fernando Rd, Los Angeles California",34.0895046,-118.2263927
+63,1370795,"April 14, 2019",Florida,Miami,NW 19th Ave and 60th St,2,2,"NW 19th Ave and 60th St, Miami Florida",25.8297859,-80.2288686
+64,1369109,"April 11, 2019",California,Los Angeles,E 103rd St and S Main St,1,4,"E 103rd St and S Main St, Los Angeles California",33.9428494,-118.2738951
+65,1362715,"April 4, 2019",Georgia,Stockbridge,300  Eagle Ct,3,2,"300  Eagle Ct, Stockbridge Georgia",33.5269572,-84.2404131
+66,1355275,"March 25, 2019",Nevada,North Las Vegas,2400  W San Miguel St,0,5,"2400  W San Miguel St, North Las Vegas Nevada",36.2358941,-115.1758532
+67,1349256,"March 17, 2019",Georgia,Rochelle,Dennis St,1,3,"Dennis St, Rochelle Georgia",31.9527985,-83.4683149
+68,1348793,"March 17, 2019",Nevada,Las Vegas,600 E Fremont St,0,4,"600 E Fremont St, Las Vegas Nevada",36.1693856,-115.13878
+69,1324279,"February 11, 2019",Texas,Livingston,3628 FM 3126,5,0,"3628 FM 3126, Livingston Texas",30.725292,-95.0579087
+70,1320286,"February 3, 2019",California,Palm Springs,E Sunny Dunes Rd and El Placer Rd,4,0,"E Sunny Dunes Rd and El Placer Rd, Palm Springs California",33.8122657,-116.5062457
+71,1312391,"January 26, 2019",Georgia,Albany,300  W Roosevelt,0,4,"300  W Roosevelt, Albany Georgia",31.5814139,-84.1548631
+72,1302060,"January 16, 2019",Florida,Jacksonville,Emerson St and Spring Park Rd,1,5,"Emerson St and Spring Park Rd, Jacksonville Florida",30.2911022,-81.6257966
+73,1303303,"January 16, 2019",California,Palmdale,Ranch Center Dr and 40th St W,3,1,"Ranch Center Dr and 40th St W, Palmdale California",34.5833789,-118.2022388
+74,1292684,"January 4, 2019",Virginia,Hurt,3197 Shula Dr,3,2,"3197 Shula Dr, Hurt Virginia",37.0559889,-79.33295199999999
+75,1292941,"January 3, 2019",Arizona,Yuma,3800  E County 18½ St,1,3,"3800  E County 18½ St, Yuma Arizona",32.5675966,-114.5654948
+76,1289877,"January 1, 2019",South Carolina,Columbia,1709 Decker Blvd,0,5,"1709 Decker Blvd, Columbia South Carolina",34.0437454,-80.941347
+77,1886913,"December 26, 2020",Florida,Tampa,N 20th St and E 7th Ave,2,2,"N 20th St and E 7th Ave, Tampa Florida",27.96025,-82.436748
+78,1887059,"December 26, 2020",Massachusetts,Lynn,Washington St and Quincy Ter,1,5,"Washington St and Quincy Ter, Lynn Massachusetts",42.4672412,-70.95251929999999
+79,1886849,"December 26, 2020",Florida,Miami,NW 61st St and NW 13th Ave,1,3,"NW 61st St and NW 13th Ave, Miami Florida",25.8311789,-80.218645
+80,1886372,"December 25, 2020",Florida,Boynton Beach,Martin Luther King Jr Blvd and N Seacrest Blvd,1,4,"Martin Luther King Jr Blvd and N Seacrest Blvd, Boynton Beach Florida",26.5360983,-80.0642731
+81,1886721,"December 25, 2020",Arkansas,Atkins,5180 Pine Ridge Rd,5,0,"5180 Pine Ridge Rd, Atkins Arkansas",35.1977667,-92.99980160000001
+82,1885251,"December 22, 2020",Mississippi,Meridian,Jeffrey Acres Rd,5,0,"Jeffrey Acres Rd, Meridian Mississippi",32.2995035,-88.6609658
+83,1876727,"December 13, 2020",West Virginia,Elkview,1384 Cemetery Hill Dr,4,0,"1384 Cemetery Hill Dr, Elkview West Virginia",38.43352429999999,-81.483313
+84,1876552,"December 12, 2020",Maryland,Hyattsville (Landover),8600  Old Ardmore Rd,2,2,"8600  Old Ardmore Rd, Hyattsville (Landover) Maryland",38.93945670000001,-76.8598724
+85,1908063,"December 8, 2020",West Virginia,Williamsburg,611 Flynns Creek Rd,6,0,"611 Flynns Creek Rd, Williamsburg West Virginia",37.992511,-80.5092729
+86,1870840,"December 5, 2020",North Carolina,Autryville,10101 Gip Rd,0,6,"10101 Gip Rd, Autryville North Carolina",34.922166,-78.62882
+87,1867006,"December 1, 2020",Pennsylvania,Morrisville,1 Makefield Rd,1,3,"1 Makefield Rd, Morrisville Pennsylvania",40.197289,-74.81502580000002
+88,1864205,"November 28, 2020",South Carolina,Conway,3800  Golden Key Rd,0,5,"3800  Golden Key Rd, Conway South Carolina",33.9272726,-79.0373499
+89,1862603,"November 26, 2020",Nevada,Henderson,870 E Lake Mead Pkwy,1,5,"870 E Lake Mead Pkwy, Henderson Nevada",36.0542619,-114.9676079
+90,1859110,"November 22, 2020",New Jersey,Trenton,Stuyvesant Ave and Hoffman Ave,0,4,"Stuyvesant Ave and Hoffman Ave, Trenton New Jersey",40.234874,-74.781331
+91,1857439,"November 21, 2020",Illinois,Chicago,W 79th St and S Justine St,0,6,"W 79th St and S Justine St, Chicago Illinois",41.7503653,-87.66223
+92,1857947,"November 21, 2020",Arizona,Phoenix,35th Ave and Earll Dr,1,4,"35th Ave and Earll Dr, Phoenix Arizona",33.4840608,-112.1343537
+93,1853089,"November 15, 2020",Georgia,Jonesboro,500 Block of Museum Cir,2,2,"500 Block of Museum Cir, Jonesboro Georgia",33.5412126,-84.3694065
+94,1852363,"November 14, 2020",California,Riverside,La Sierra Avenue and Tin Mine Road,2,3,"La Sierra Avenue and Tin Mine Road, Riverside California",33.8524585,-117.4627322
+95,1849308,"November 10, 2020",Florida,Tampa,N 50th St and Sligh Ave,1,7,"N 50th St and Sligh Ave, Tampa Florida",28.0106992,-82.4019225
+96,1846494,"November 8, 2020",Tennessee,Nashville,2nd Ave N and Commerce St,0,8,"2nd Ave N and Commerce St, Nashville Tennessee",36.1632454,-86.7760574
+97,1840534,"November 1, 2020",South Carolina,Hollywood,7800  White Point Rd,0,6,"7800  White Point Rd, Hollywood South Carolina",32.6536036,-80.3251263
+98,1841432,"November 1, 2020",North Carolina,Winston Salem (Winston-salem),3900  Glen Hi Rd,1,3,"3900  Glen Hi Rd, Winston Salem (Winston-salem) North Carolina",36.0623367,-80.15319459999999
+99,1839576,"October 31, 2020",Washington,Sumner,127th Ave E and Valley Ave E,0,5,"127th Ave E and Valley Ave E, Sumner Washington",47.2040035,-122.2602684
+100,1834617,"October 24, 2020",Mississippi,Greenwood,W Martin Luther King Dr,2,8,"W Martin Luther King Dr, Greenwood Mississippi",33.509886,-90.1769729
+101,1832014,"October 22, 2020",Florida,Miami,1830 NW 50 St,1,3,"1830 NW 50 St, Miami Florida",25.8204486,-80.22696839999999
+102,1831995,"October 22, 2020",Massachusetts,Boston,Columbia Rd and Stanwood St,0,4,"Columbia Rd and Stanwood St, Boston Massachusetts",42.3070034,-71.0765217
+103,1830875,"October 21, 2020",New York,Brooklyn,Nostrand Ave and Hawthorne St,1,5,"Nostrand Ave and Hawthorne St, Brooklyn New York",40.6578436,-73.9503282
+104,1825525,"October 16, 2020",Florida,Orlando,2000  N Forsyth Rd,3,1,"2000  N Forsyth Rd, Orlando Florida",28.572415,-81.296269
+105,1826675,"October 16, 2020",California,San Francisco,200  Scherwin St,1,3,"200  Scherwin St, San Francisco California",37.71075099999999,-122.4114918
+106,1823101,"October 10, 2020",South Carolina,Kingstree,55 Williamsburg County Hwy,0,8,"55 Williamsburg County Hwy, Kingstree South Carolina",33.685299,-79.8225394
+107,1816799,"October 7, 2020",Alaska,Anchorage,200  McCarrey St,1,4,"200  McCarrey St, Anchorage Alaska",61.2227728,-149.7922144
+108,1813583,"October 3, 2020",California,Sacramento,Roanoke Ave and Haywood St,1,3,"Roanoke Ave and Haywood St, Sacramento California",38.6348089,-121.4405959
+109,1812972,"October 2, 2020",California,Los Angeles,51st St and Hoover St,0,4,"51st St and Hoover St, Los Angeles California",33.9964453,-118.287144
+110,1806806,"September 27, 2020",Ohio,Sandusky,Hancock St and Neil St,1,3,"Hancock St and Neil St, Sandusky Ohio",41.4489119,-82.70353
+111,1804511,"September 23, 2020",Georgia,Hampton,1577 Glynn Ct,1,3,"1577 Glynn Ct, Hampton Georgia",33.45023219999999,-84.3403807
+112,1800549,"September 20, 2020",New York,Corona (Queens),Merrick Blvd and Foch Blvd,0,4,"Merrick Blvd and Foch Blvd, Corona (Queens) New York",40.6870607,-73.7748173
+113,1800514,"September 20, 2020",Connecticut,Stamford,Ursula Pl and Dale St,1,3,"Ursula Pl and Dale St, Stamford Connecticut",41.0515376,-73.5191997
+114,1800026,"September 19, 2020",New York,Buffalo,Glenwood Ave and Jefferson Ave,1,4,"Glenwood Ave and Jefferson Ave, Buffalo New York",42.912365,-78.8539656
+115,1800192,"September 19, 2020",New Jersey,Paterson,Elizabeth St and Getty Ave,0,5,"Elizabeth St and Getty Ave, Paterson New Jersey",40.9002062,-74.1616323
+116,1793680,"September 12, 2020",North Carolina,Wilson,200  Dewey St,0,5,"200  Dewey St, Wilson North Carolina",35.72027080000001,-77.9283281
+117,1793771,"September 12, 2020",Pennsylvania,Philadelphia,N 18th St and Dauphin St,0,4,"N 18th St and Dauphin St, Philadelphia Pennsylvania",39.9886906,-75.1622648
+118,1792624,"September 11, 2020",Louisiana,Donaldsonville,St Elizabeth St and Front St,0,5,"St Elizabeth St and Front St, Donaldsonville Louisiana",30.0977904,-90.9912562
+119,1787655,"September 7, 2020",New York,Brooklyn,Norstrand Ave and Crown St,0,5,"Norstrand Ave and Crown St, Brooklyn New York",40.666295,-73.9508357
+120,1788352,"September 7, 2020",California,Aguanga,45125 Highway 371,7,0,"45125 Highway 371, Aguanga California",33.4576336,-116.8585716
+121,1787222,"September 7, 2020",Indiana,Indianapolis,W 38th St and Graceland Ave,1,4,"W 38th St and Graceland Ave, Indianapolis Indiana",39.8249149,-86.1627769
+122,1786855,"September 6, 2020",Georgia,Sparta,Faye St and Lee St,1,6,"Faye St and Lee St, Sparta Georgia",33.2866722,-82.9668628
+123,1786920,"September 6, 2020",Illinois,Chicago,S Kingston Ave and E 77th St,0,4,"S Kingston Ave and E 77th St, Chicago Illinois",41.7554138,-87.5626846
+124,1785713,"September 5, 2020",Florida,Williston,Co Rd 318 and US-27 Alt,0,6,"Co Rd 318 and US-27 Alt, Williston Florida",29.3873705,-82.4474255
+125,1784570,"September 3, 2020",Arkansas,Hensley,Woodson Lateral Rd and I-530,1,3,"Woodson Lateral Rd and I-530, Hensley Arkansas",34.5483982,-92.2577917
+126,1783928,"September 2, 2020",California,Oakland,Kerwin Ave and 105th Ave,0,4,"Kerwin Ave and 105th Ave, Oakland California",37.7298289,-122.183395
+127,1780266,"August 30, 2020",Texas,San Antonio,S Olive St and Aransas Ave,2,2,"S Olive St and Aransas Ave, San Antonio Texas",29.4056121,-98.471772
+128,1780228,"August 29, 2020",Nevada,Las Vegas,777 E Twain Ave,2,2,"777 E Twain Ave, Las Vegas Nevada",36.1212895,-115.1464637
+129,1776905,"August 26, 2020",South Carolina,Hilton Head Island,Muddy Creek Rd and Spanish Wells Rd,0,4,"Muddy Creek Rd and Spanish Wells Rd, Hilton Head Island South Carolina",32.1862533,-80.7676015
+130,1772680,"August 23, 2020",Tennessee,Somerville,1100  Brewer Rd,1,4,"1100  Brewer Rd, Somerville Tennessee",35.3397012,-89.4694729
+131,1772934,"August 23, 2020",Colorado,Pueblo,2000  Longhorn Point,0,6,"2000  Longhorn Point, Pueblo Colorado",38.5355491,-104.6987365
+132,1772174,"August 22, 2020",Alabama,Bessemer (Hueytown),Allison Bonnet Memorial Dr and Rutledge Dr,1,3,"Allison Bonnet Memorial Dr and Rutledge Dr, Bessemer (Hueytown) Alabama",33.4595147,-86.9471174
+133,1768125,"August 18, 2020",Pennsylvania,Philadelphia,30th St and Cumberland St,1,4,"30th St and Cumberland St, Philadelphia Pennsylvania",39.9941673,-75.1808741
+134,1767851,"August 18, 2020",New York,Corona (Queens),35-35 21st St,0,4,"35-35 21st St, Corona (Queens) New York",40.7600591,-73.9354255
+135,1768683,"August 17, 2020",Ohio,Cleveland,Dove Ave and E 102nd St,0,5,"Dove Ave and E 102nd St, Cleveland Ohio",41.4522938,-81.614053
+136,1766574,"August 17, 2020",New York,Brooklyn,Atlantic Ave and Hinsdale St,0,4,"Atlantic Ave and Hinsdale St, Brooklyn New York",40.6755387,-73.90161189999999
+137,1765920,"August 16, 2020",Oklahoma,Oklahoma City,SW 59th St and Agnew Ave,0,4,"SW 59th St and Agnew Ave, Oklahoma City Oklahoma",35.4061855,-97.55512569999999
+138,1765336,"August 15, 2020",Michigan,Belleville,24914 Martinsville Rd,4,0,"24914 Martinsville Rd, Belleville Michigan",42.12110010000001,-83.46099989999999
+139,1765499,"August 15, 2020",Pennsylvania,Philadelphia,N 10th St and Brown St,0,5,"N 10th St and Brown St, Philadelphia Pennsylvania",39.9662262,-75.15352759999999
+140,1765705,"August 15, 2020",Connecticut,New Haven,Rosette St and Hurlburt St,1,5,"Rosette St and Hurlburt St, New Haven Connecticut",41.2927581,-72.9374273
+141,1761557,"August 11, 2020",California,Torrance,22904 Lockness Ave,0,5,"22904 Lockness Ave, Torrance California",33.8172085,-118.3053263
+142,1759779,"August 9, 2020",Ohio,Toledo,Monroe St and N Detroit Ave,0,6,"Monroe St and N Detroit Ave, Toledo Ohio",41.6645981,-83.5703139
+143,1754613,"August 4, 2020",California,Beverly Hills,13200 Mulholland Dr,1,4,"13200 Mulholland Dr, Beverly Hills California",34.1270274,-118.4207777
+144,1750611,"July 30, 2020",Florida,Tampa,I-275 and Westshore Blvd,0,5,"I-275 and Westshore Blvd, Tampa Florida",27.9574141,-82.5354588
+145,1750548,"July 30, 2020",Florida,Miami Gardens,16701 NW 42 Ave,0,5,"16701 NW 42 Ave, Miami Gardens Florida",25.9261193,-80.2682411
+146,1746658,"July 26, 2020",Texas,Mount Enterprise,1039 FM 1798,0,4,"1039 FM 1798, Mount Enterprise Texas",31.9941387,-94.72888999999999
+147,1746430,"July 25, 2020",Colorado,Denver,East 33rd Ave and Hudson St,2,3,"East 33rd Ave and Hudson St, Denver Colorado",39.7637987,-104.9240282
+148,1744407,"July 24, 2020",Georgia,Atlanta,Sunset Ave NW and Lester St NW,2,2,"Sunset Ave NW and Lester St NW, Atlanta Georgia",33.7588545,-84.409949
+149,1743168,"July 23, 2020",Virginia,Fairfield,3700  Meadowbridge Rd,1,3,"3700  Meadowbridge Rd, Fairfield Virginia",37.581765,-77.4235403
+150,1744332,"July 23, 2020",Illinois,Chicago,120th St and Prairie Ave,2,4,"120th St and Prairie Ave, Chicago Illinois",41.6762837,-87.6165377
+151,1740615,"July 20, 2020",Illinois,Chicago,S Lawndale Ave and W Douglas Blvd,0,5,"S Lawndale Ave and W Douglas Blvd, Chicago Illinois",41.862362,-87.7177384
+152,1739920,"July 19, 2020",Michigan,Detroit,McKinney St and Meuse St,1,3,"McKinney St and Meuse St, Detroit Michigan",42.421886,-82.942038
+153,1739571,"July 19, 2020",Nebraska,Omaha,28th St and T Ave,0,8,"28th St and T Ave, Omaha Nebraska",41.2055686,-95.95499629999999
+154,1739434,"July 19, 2020",Illinois,Peoria,NE Water St and Hamilton Blvd,0,13,"NE Water St and Hamilton Blvd, Peoria Illinois",40.69069349999999,-89.58624429999999
+155,1739097,"July 17, 2020",Ohio,Columbus,E 6th Ave and Summit St,0,4,"E 6th Ave and Summit St, Columbus Ohio",39.9890927,-83.0018846
+156,1736508,"July 16, 2020",Tennessee,Nashville,S 7th St and Sylvan St,0,5,"S 7th St and Sylvan St, Nashville Tennessee",36.1681686,-86.7572402
+157,1735326,"July 15, 2020",New York,Brooklyn,President St and Franklin Ave,1,5,"President St and Franklin Ave, Brooklyn New York",40.668902,-73.95861099999999
+158,1735573,"July 14, 2020",Missouri,Saint Joseph,S 18th St and Charles St,0,5,"S 18th St and Charles St, Saint Joseph Missouri",39.7650532,-94.8387482
+159,1735470,"July 14, 2020",North Carolina,Durham,200 Block of S Benjamine St,0,8,"200 Block of S Benjamine St, Durham North Carolina",35.9852642,-78.8687352
+160,1732993,"July 12, 2020",New York,Brooklyn,Madison St and Marcus Garvey Blvd,1,3,"Madison St and Marcus Garvey Blvd, Brooklyn New York",40.6861038,-73.93866539999999
+161,1732532,"July 12, 2020",Mississippi,Como,2965 Hunter Chapel Road,2,4,"2965 Hunter Chapel Road, Como Mississippi",34.5531485,-89.8807507
+162,1727743,"July 7, 2020",Virginia,Alexandria,7900  Janna Lee Ave,0,5,"7900  Janna Lee Ave, Alexandria Virginia",38.7461032,-77.0947807
+163,1728683,"July 7, 2020",New Jersey,Paterson,Harrison St and Carroll St,4,3,"Harrison St and Carroll St, Paterson New Jersey",40.922841,-74.1615745
+164,1725690,"July 5, 2020",Georgia,Atlanta,200  Auburn Ave,2,13,"200  Auburn Ave, Atlanta Georgia",33.7557353,-84.38114809999999
+165,1725946,"July 5, 2020",Missouri,Columbia,Volunteer Dr and Grace Ln,2,3,"Volunteer Dr and Grace Ln, Columbia Missouri",38.9503079,-92.2559381
+166,1725635,"July 5, 2020",Pennsylvania,Ephrata,6 Blackberry Ln,0,4,"6 Blackberry Ln, Ephrata Pennsylvania",40.18474399999999,-76.15222
+167,1726034,"July 5, 2020",Illinois,Freeport,900  S Carroll Ave,1,5,"900  S Carroll Ave, Freeport Illinois",42.2909707,-89.6147519
+168,1725571,"July 5, 2020",Michigan,Detroit,San Juan Dr and W McNichols Rd,2,4,"San Juan Dr and W McNichols Rd, Detroit Michigan",42.4171287,-83.14617729999999
+169,1725025,"July 4, 2020",Maryland,Temple Hills (Marlow Heights),4600 Dallas Pl,1,3,"4600 Dallas Pl, Temple Hills (Marlow Heights) Maryland",38.8255809,-76.94853859999999
+170,1723897,"July 3, 2020",Alabama,Birmingham (Hoover),2000 Riverchase Galleria,1,3,"2000 Riverchase Galleria, Birmingham (Hoover) Alabama",33.3790316,-86.8083523
+171,1722839,"July 2, 2020",New Jersey,Paterson,N Main St and Jefferson St,1,4,"N Main St and Jefferson St, Paterson New Jersey",40.8617436,-74.1265322
+172,1722142,"July 1, 2020",California,Oakland,MacArthur Fwy and 106th Ave,0,4,"MacArthur Fwy and 106th Ave, Oakland California",37.7429313,-122.1501776
+173,1722317,"June 30, 2020",Arkansas,Greenbrier,123 Laramie Rd,0,4,"123 Laramie Rd, Greenbrier Arkansas",35.2479435,-92.25325169999999
+174,1720834,"June 29, 2020",California,Sylmar,Osborne St and Foothill Blvd,0,4,"Osborne St and Foothill Blvd, Sylmar California",34.2735503,-118.3938042
+175,1719668,"June 28, 2020",Alabama,Akron,Co Rd 21,0,7,"Co Rd 21, Akron Alabama",32.8568549,-87.6818873
+176,1717543,"June 25, 2020",Pennsylvania,Philadelphia,Emerald St and E Atlantic St,0,4,"Emerald St and E Atlantic St, Philadelphia Pennsylvania",39.9984267,-75.1032887
+177,1715231,"June 23, 2020",Florida,Lake Worth,Lantana Rd and Edgecliff Ave,0,5,"Lantana Rd and Edgecliff Ave, Lake Worth Florida",26.5894309,-80.1377462
+178,1712876,"June 22, 2020",Minnesota,Minneapolis,N Morgan Ave and N 16th Ave,0,4,"N Morgan Ave and N 16th Ave, Minneapolis Minnesota",44.99522,-93.304467
+179,1711747,"June 21, 2020",New York,Buffalo,W Ferry St and Niagara St,0,4,"W Ferry St and Niagara St, Buffalo New York",42.915199,-78.8994539
+180,1711605,"June 21, 2020",Wisconsin,Milwaukee,North 28th St and West Ruby Ave,0,5,"North 28th St and West Ruby Ave, Milwaukee Wisconsin",43.0989925,-87.9479874
+181,1710537,"June 20, 2020",New York,Bronx,Mount Eden Pkwy and Monroe Ave,0,4,"Mount Eden Pkwy and Monroe Ave, Bronx New York",40.8426886,-73.9068455
+182,1711285,"June 20, 2020",New York,Syracuse,Marcellus St and Wyoming St,1,8,"Marcellus St and Wyoming St, Syracuse New York",43.04734759999999,-76.1604352
+183,1711876,"June 20, 2020",Michigan,Detroit,Appoline St and Puritan Ave,0,4,"Appoline St and Puritan Ave, Detroit Michigan",42.409519,-83.17081879999999
+184,1711272,"June 20, 2020",Michigan,Saginaw,Livingston Dr and Tausend St,1,3,"Livingston Dr and Tausend St, Saginaw Michigan",43.39532,-83.931541
+185,1705355,"June 13, 2020",Arkansas,Rison,Carver St and Center St,0,4,"Carver St and Center St, Rison Arkansas",33.9555536,-92.187798
+186,1705440,"June 13, 2020",California,Hesperia,8100  Julie Ct,0,5,"8100  Julie Ct, Hesperia California",34.3996925,-117.2489495
+187,1704176,"June 13, 2020",Maryland,Baltimore,700  S Broadway St,0,5,"700  S Broadway St, Baltimore Maryland",39.2834068,-76.5937065
+188,1704580,"June 13, 2020",Georgia,Atlanta,69 Mason Ave NE,2,5,"69 Mason Ave NE, Atlanta Georgia",33.7554939,-84.33852139999999
+189,1703509,"June 12, 2020",Pennsylvania,Philadelphia,N Broad St and Colwyn St,0,6,"N Broad St and Colwyn St, Philadelphia Pennsylvania",40.0156561,-75.149801
+190,1704217,"June 12, 2020",New York,Bronx,E 233rd St and Bronx River Pkwy,1,3,"E 233rd St and Bronx River Pkwy, Bronx New York",40.8926455,-73.85458109999999
+191,1700864,"June 9, 2020",North Carolina,Scotland Neck,E 13th St and Greenwood St,0,5,"E 13th St and Greenwood St, Scotland Neck North Carolina",36.131734,-77.418168
+192,1701426,"June 9, 2020",Pennsylvania,Philadelphia,600 block N 8th St,1,6,"600 block N 8th St, Philadelphia Pennsylvania",39.962288,-75.1519484
+193,1699577,"June 7, 2020",Arkansas,Hope,1400  East Hickory St,0,5,"1400  East Hickory St, Hope Arkansas",33.682176,-93.5820341
+194,1698868,"June 6, 2020",California,Sacramento,Gardendale Rd and 29th St,1,4,"Gardendale Rd and 29th St, Sacramento California",38.490477,-121.4740144
+195,1697453,"June 4, 2020",Alabama,Valhermoso Springs,522 Talucah Rd,7,0,"522 Talucah Rd, Valhermoso Springs Alabama",34.5236956,-86.6767094
+196,1695586,"June 2, 2020",Wisconsin,Racine,Kewaunee St and Michigan Blvd,0,5,"Kewaunee St and Michigan Blvd, Racine Wisconsin",42.7393779,-87.78277829999999
+197,1693340,"May 31, 2020",Mississippi,Gulfport,S Carolina Ave and Polk St,1,5,"S Carolina Ave and Polk St, Gulfport Mississippi",30.4088925,-89.0856936
+198,1693246,"May 30, 2020",Florida,Altha,21281 Apachee Rd,2,4,"21281 Apachee Rd, Altha Florida",30.50656889999999,-85.34988
+199,1690922,"May 28, 2020",Tennessee,Memphis,TN 385 and Kirby Pkwy,0,4,"TN 385 and Kirby Pkwy, Memphis Tennessee",35.0377,-89.79367900000001
+200,1689252,"May 26, 2020",Pennsylvania,Philadelphia,2700  N Darian St,0,4,"2700  N Darian St, Philadelphia Pennsylvania",39.99279910000001,-75.1456117
+201,1688917,"May 26, 2020",Illinois,Chicago,W Washington Blvd and N Hamlin Blvd,2,2,"W Washington Blvd and N Hamlin Blvd, Chicago Illinois",41.88190950000001,-87.72081190000002
+202,1689555,"May 26, 2020",California,Los Angeles,119th St and Berendo Ave,0,5,"119th St and Berendo Ave, Los Angeles California",33.9250545,-118.2945929
+203,1688753,"May 26, 2020",South Carolina,Bowman,Dibble St and Rail St,3,5,"Dibble St and Rail St, Bowman South Carolina",33.3478698,-80.6853345
+204,1687219,"May 24, 2020",Missouri,Saint Louis,Union Boulevard and Cote Brilliante Ave,0,4,"Union Boulevard and Cote Brilliante Ave, Saint Louis Missouri",38.6681719,-90.2660197
+205,1687037,"May 24, 2020",South Carolina,Myrtle Beach,12th Ave N and Ocean Blvd,0,4,"12th Ave N and Ocean Blvd, Myrtle Beach South Carolina",33.69469120000001,-78.8769899
+206,1687414,"May 24, 2020",Alabama,Danville,70 Flint Creek Pvt Dr,3,1,"70 Flint Creek Pvt Dr, Danville Alabama",34.5037719,-87.0670217
+207,1686615,"May 23, 2020",Illinois,Rock Island,800 14 1/2 St,1,4,"800 14 1/2 St, Rock Island Illinois",41.5032477,-90.5784503
+208,1687027,"May 23, 2020",South Carolina,Jonesville,100  Dover Rd,2,5,"100  Dover Rd, Jonesville South Carolina",34.8210742,-81.6329696
+209,1687108,"May 23, 2020",North Carolina,Charlotte,4900 Block of Albemarle Rd,0,6,"4900 Block of Albemarle Rd, Charlotte North Carolina",35.19983879999999,-80.76459
+210,1687097,"May 23, 2020",Michigan,Flint,4100  Minerva St,1,3,"4100  Minerva St, Flint Michigan",43.0634612,-83.7430129
+211,1686414,"May 23, 2020",Florida,Fort Lauderdale (Lauderhill),7776 NW 44th St,0,5,"7776 NW 44th St, Fort Lauderdale (Lauderhill) Florida",26.1781929,-80.253374
+212,1682233,"May 17, 2020",South Carolina,Saint Matthews,100  Bugleflower Ln,4,1,"100  Bugleflower Ln, Saint Matthews South Carolina",33.6301905,-80.78220859999999
+213,1681588,"May 16, 2020",Louisiana,Bogalusa,Martin Luther King Dr and E 4th St,0,13,"Martin Luther King Dr and E 4th St, Bogalusa Louisiana",30.7751835,-89.85329700000001
+214,1677566,"May 11, 2020",Alabama,Montgomery,Rosa Parks Ave and Courtland Dr,0,4,"Rosa Parks Ave and Courtland Dr, Montgomery Alabama",32.349302,-86.316546
+215,1676746,"May 10, 2020",Texas,Katy,18000  Bonners Park Cir,0,6,"18000  Bonners Park Cir, Katy Texas",29.856645,-95.69671369999999
+216,1674299,"May 6, 2020",Tennessee,Memphis,Barron Ave and Dogwood Dr,2,2,"Barron Ave and Dogwood Dr, Memphis Tennessee",35.0966127,-89.9296823
+217,1666327,"April 25, 2020",Florida,Orlando,Elese St and Deerock Dr,1,4,"Elese St and Deerock Dr, Orlando Florida",28.5265572,-81.44661909999999
+218,1661537,"April 18, 2020",Maryland,Hyattsville,7500  Courtney Pl,2,2,"7500  Courtney Pl, Hyattsville Maryland",38.898815,-76.87577519999999
+219,1659862,"April 16, 2020",Pennsylvania,Philadelphia,Bustleton Ave and St Vincent St,0,4,"Bustleton Ave and St Vincent St, Philadelphia Pennsylvania",40.045362,-75.0607096
+220,1656873,"April 11, 2020",California,Bakersfield,Pioneer Rd and Sterling Rd,0,6,"Pioneer Rd and Sterling Rd, Bakersfield California",35.368647,-118.941538
+221,1654971,"April 8, 2020",South Carolina,Greenwood,1522 Parkway,1,3,"1522 Parkway, Greenwood South Carolina",34.16941,-82.160327
+222,1652734,"April 5, 2020",California,Los Angeles,89th St and Hobart Ave,1,3,"89th St and Hobart Ave, Los Angeles California",33.956343,-118.3079038
+223,1648205,"March 29, 2020",Georgia,Atlanta,Ponce de Leon Ave and Parkway Dr,0,4,"Ponce de Leon Ave and Parkway Dr, Atlanta Georgia",33.7731553,-84.3728041
+224,1640295,"March 15, 2020",North Carolina,Moncure,842 Moncure Flatwood Rd,7,0,"842 Moncure Flatwood Rd, Moncure North Carolina",35.5878396,-79.0153917
+225,1640278,"March 13, 2020",Louisiana,New Orleans (Algiers),Wagner St and Hero Blvd,0,5,"Wagner St and Hero Blvd, New Orleans (Algiers) Louisiana",29.9329005,-90.04054
+226,1631831,"February 29, 2020",Colorado,Brighton,Starr Ln and County Rd 2,0,5,"Starr Ln and County Rd 2, Brighton Colorado",40.0004368,-104.7844184
+227,1627335,"February 23, 2020",North Carolina,Clarkton,71 Tina Ln,3,1,"71 Tina Ln, Clarkton North Carolina",34.498959,-78.68110999999999
+228,1625787,"February 20, 2020",North Carolina,Greensboro,Martin Luther King Jr Ave and Randolph Dr,0,4,"Martin Luther King Jr Ave and Randolph Dr, Greensboro North Carolina",36.0561859,-79.7844968
+229,1623696,"February 17, 2020",Mississippi,Port Gibson,8027 Hwy 61,2,2,"8027 Hwy 61, Port Gibson Mississippi",31.8874934,-91.0026843
+230,1611563,"January 31, 2020",California,Delano,Hiett Ave and County Line Rd,1,4,"Hiett Ave and County Line Rd, Delano California",35.790406,-119.267666
+231,1605770,"January 26, 2020",North Carolina,Salisbury,1935 Jake Alexander Blvd,0,6,"1935 Jake Alexander Blvd, Salisbury North Carolina",35.6915509,-80.51519239999999
+232,1606476,"January 24, 2020",North Carolina,Vanceboro,107 Kinshaw Ct,5,0,"107 Kinshaw Ct, Vanceboro North Carolina",35.2336064,-77.11051460000002
+233,2125227,"September 25, 2021",California,Riverside,6000 Block of Mariposa Ave,0,6,"6000 Block of Mariposa Ave, Riverside California",33.9208858,-117.4643502
+234,2125444,"September 25, 2021",Tennessee,Athens,Co Rd 60,4,0,"Co Rd 60, Athens Tennessee",35.4212763,-84.7425888
+235,2123301,"September 23, 2021",Pennsylvania,Philadelphia,38th St and Aspen St,0,4,"38th St and Aspen St, Philadelphia Pennsylvania",39.9668134,-75.1980406
+236,2122565,"September 22, 2021",North Carolina,Fayetteville,1100  Charlie Dr,2,2,"1100  Charlie Dr, Fayetteville North Carolina",35.1134875,-78.9350238
+237,2120940,"September 20, 2021",Pennsylvania,Philadelphia,Broad St and Chew Ave,1,5,"Broad St and Chew Ave, Philadelphia Pennsylvania",40.0398311,-75.1444483
+238,2119745,"September 19, 2021",Texas,Dallas,100  N Malcolm X Blvd,2,4,"100  N Malcolm X Blvd, Dallas Texas",32.784183,-96.7821508
+239,2119470,"September 18, 2021",New York,Bronx,Teller Ave and E 172nd St,1,3,"Teller Ave and E 172nd St, Bronx New York",40.8399051,-73.9090368
+240,2115947,"September 12, 2021",Minnesota,Saint Paul,7th St W and N Walnut St,4,0,"7th St W and N Walnut St, Saint Paul Minnesota",44.9425281,-93.1051933
+241,2122103,"September 12, 2021",Illinois,Blue Island,12200  S Irving Ave,2,2,"12200  S Irving Ave, Blue Island Illinois",41.671774,-87.6767342
+242,2113769,"September 11, 2021",New Jersey,Paterson,E 18th St and Fulton Pl,0,4,"E 18th St and Fulton Pl, Paterson New Jersey",40.9231942,-74.1541848
+243,2110346,"September 7, 2021",Delaware,Wilmington,A St and New Castle Ave,0,4,"A St and New Castle Ave, Wilmington Delaware",39.7300848,-75.542717
+244,2108378,"September 5, 2021",Georgia,Athens,E Clayton St and N Jackson St,0,6,"E Clayton St and N Jackson St, Athens Georgia",33.9587568,-83.3745471
+245,2108302,"September 5, 2021",Florida,Lakeland,N Socrum Loop Rd and Fulton Green Rd,4,2,"N Socrum Loop Rd and Fulton Green Rd, Lakeland Florida",28.1409908,-81.9564544
+246,2108406,"September 4, 2021",Georgia,Warner Robins,Mauldon Ct and Dunmurry Pl,1,4,"Mauldon Ct and Dunmurry Pl, Warner Robins Georgia",32.6404462,-83.62500109999999
+247,2107168,"September 3, 2021",New York,Syracuse,Nelson St and W Marcellus St,0,4,"Nelson St and W Marcellus St, Syracuse New York",43.044463,-76.174705
+248,2104725,"August 31, 2021",North Carolina,Elm City,3500  London Church Rd,2,2,"3500  London Church Rd, Elm City North Carolina",35.7632208,-77.9011459
+249,2103311,"August 29, 2021",Wisconsin,Milwaukee,N 41st St and W Lloyd St,0,4,"N 41st St and W Lloyd St, Milwaukee Wisconsin",43.0574688,-87.9646659
+250,2103132,"August 28, 2021",New York,Albany,Sherman St and Henry Johnson Blvd,0,5,"Sherman St and Henry Johnson Blvd, Albany New York",42.6587275,-73.7644748
+251,2098246,"August 23, 2021",Illinois,Chicago,W Wilson Ave and N Sheridan Rd,0,4,"W Wilson Ave and N Sheridan Rd, Chicago Illinois",41.9654295,-87.6547745
+252,2094035,"August 18, 2021",California,Los Angeles,W Jefferson Blvd and Culver Blvd,0,4,"W Jefferson Blvd and Culver Blvd, Los Angeles California",33.9685795,-118.4390164
+253,2094457,"August 18, 2021",North Carolina,Durham,Ridgeway Ave and Wabash St,1,3,"Ridgeway Ave and Wabash St, Durham North Carolina",35.9752666,-78.8883953
+254,2091531,"August 14, 2021",Indiana,Indianapolis,Wheeler St and E 28th St,1,3,"Wheeler St and E 28th St, Indianapolis Indiana",39.8067906,-86.11323019999999
+255,2090949,"August 14, 2021",New York,Brooklyn,Lexington Ave and Marcy Ave,0,4,"Lexington Ave and Marcy Ave, Brooklyn New York",40.6880544,-73.9477533
+256,2090777,"August 14, 2021",Indiana,Indianapolis,Lafayette Rd and W 38th St,1,4,"Lafayette Rd and W 38th St, Indianapolis Indiana",39.82411159999999,-86.23488479999999
+257,2085489,"August 8, 2021",Texas,Houston,2504 FM 1960 Rd E,1,5,"2504 FM 1960 Rd E, Houston Texas",30.0231807,-95.39177180000001
+258,2080006,"July 31, 2021",Michigan,Saginaw,2700  Lynnwood Ave,2,2,"2700  Lynnwood Ave, Saginaw Michigan",43.4021141,-83.931116
+259,2078540,"July 29, 2021",Iowa,Davenport,Pacific St and West Locust St,0,4,"Pacific St and West Locust St, Davenport Iowa",41.5365639,-90.6123128
+260,2077587,"July 29, 2021",Pennsylvania,Pittsburgh,239 Gilkeson Rd,3,2,"239 Gilkeson Rd, Pittsburgh Pennsylvania",40.3578412,-80.0570941
+261,2077549,"July 28, 2021",Alabama,Montgomery,1800  Rosa Parks Ave,1,3,"1800  Rosa Parks Ave, Montgomery Alabama",32.354281,-86.316869
+262,2076889,"July 28, 2021",South Carolina,Charleston,Hanover St and Johnson St,1,4,"Hanover St and Johnson St, Charleston South Carolina",32.8014566,-79.9412037
+263,2072761,"July 24, 2021",Georgia,Macon,Cherry St and Martin Luther King Jr Blvd,2,3,"Cherry St and Martin Luther King Jr Blvd, Macon Georgia",32.834718,-83.62591239999999
+264,2069490,"July 21, 2021",Maryland,Hyattsville (Adelphi),1836 Metzerott Rd,1,4,"1836 Metzerott Rd, Hyattsville (Adelphi) Maryland",39.0049729,-76.97598239999999
+265,2070645,"July 21, 2021",Illinois,Chicago,1647 N La Salle Dr,0,8,"1647 N La Salle Dr, Chicago Illinois",41.9123404,-87.63271429999999
+266,2068568,"July 20, 2021",Texas,Jacksonville,16241 TX-110,4,0,"16241 TX-110, Jacksonville Texas",32.0258479,-95.1033327
+267,2066812,"July 18, 2021",California,Walnut Creek,SOS Dr and San Luis Rd,1,3,"SOS Dr and San Luis Rd, Walnut Creek California",37.91864899999999,-122.0647459
+268,2065634,"July 16, 2021",California,Sacramento,L St and Front St,2,4,"L St and Front St, Sacramento California",38.5813045,-121.5064162
+269,2064992,"July 16, 2021",District of Columbia,Washington,2900  MLK Ave SE,1,5,"2900  MLK Ave SE, Washington District of Columbia",38.8458831,-76.99640339999999
+270,2060293,"July 12, 2021",New Jersey,Iselin,515 US-1,0,4,"515 US-1, Iselin New Jersey",40.55716049999999,-74.31123319999999
+271,2060605,"July 12, 2021",New York,Corona (Queens),180th St and 145th Dr,0,4,"180th St and 145th Dr, Corona (Queens) New York",40.7372144,-73.8597363
+272,2059440,"July 11, 2021",Texas,El Paso (Socorro),1300 Joe Battle Blvd,1,5,"1300 Joe Battle Blvd, El Paso (Socorro) Texas",31.71496699999999,-106.2698439
+273,2059404,"July 10, 2021",Pennsylvania,Philadelphia,W Butler St and N 9th St,0,6,"W Butler St and N 9th St, Philadelphia Pennsylvania",40.0097504,-75.1424421
+274,2057427,"July 8, 2021",Connecticut,Hartford,Nelson St and Garden St,0,4,"Nelson St and Garden St, Hartford Connecticut",41.7887104,-72.6819204
+275,2053262,"July 5, 2021",Ohio,Toledo,Lawrence Ave and Wall St,1,11,"Lawrence Ave and Wall St, Toledo Ohio",41.6737027,-83.56489739999999
+276,2052524,"July 4, 2021",California,Thermal,Jackson St and Airport Blvd,0,4,"Jackson St and Airport Blvd, Thermal California",33.642147,-116.2160362
+277,2054233,"July 4, 2021",Ohio,Cleveland,Kinsman Rd and E 139th St,0,4,"Kinsman Rd and E 139th St, Cleveland Ohio",41.464595,-81.585925
+278,2053786,"July 4, 2021",Missouri,Kansas City,E 43rd St and Indiana Ave,0,4,"E 43rd St and Indiana Ave, Kansas City Missouri",39.0478837,-94.5447604
+279,2045579,"June 26, 2021",Illinois,Chicago,6100  N McCormick Blvd,1,3,"6100  N McCormick Blvd, Chicago Illinois",41.9945372,-87.71400810000002
+280,2044701,"June 25, 2021",New York,Bronx,Zerega Ave and Watson Ave,0,5,"Zerega Ave and Watson Ave, Bronx New York",40.830599,-73.844415
+281,2041363,"June 20, 2021",Florida,Wildwood,9605 Co Rd 235,1,10,"9605 Co Rd 235, Wildwood Florida",28.8960343,-82.0945413
+282,2039457,"June 19, 2021",Alaska,Anchorage,East 3rd Ave and Gambell St,1,4,"East 3rd Ave and Gambell St, Anchorage Alaska",61.21954119999999,-149.8710412
+283,2039441,"June 18, 2021",Minnesota,Minneapolis,400  14th Ave SE,0,5,"400  14th Ave SE, Minneapolis Minnesota",44.9805432,-93.235508
+284,2037813,"June 17, 2021",Virginia,Petersburg,Virginia Ave and Melville St,0,4,"Virginia Ave and Melville St, Petersburg Virginia",37.213073,-77.40942
+285,2038152,"June 17, 2021",New Jersey,Paterson,Rosa Parks Blvd and Hamilton Ave,0,4,"Rosa Parks Blvd and Hamilton Ave, Paterson New Jersey",40.9199744,-74.1591267
+286,2036121,"June 15, 2021",Illinois,Chicago,3800  W Monroe,0,5,"3800  W Monroe, Chicago Illinois",41.880043,-87.72137130000002
+287,2033905,"June 13, 2021",Ohio,West Salem,9161 Rainbow Hwy,1,6,"9161 Rainbow Hwy, West Salem Ohio",40.987079,-82.0953399
+288,2033123,"June 12, 2021",Ohio,Cincinnati,McHenry Ave and Cavanaugh Ave,0,5,"McHenry Ave and Cavanaugh Ave, Cincinnati Ohio",39.1446869,-84.573944
+289,2030720,"June 10, 2021",Michigan,Detroit,1600 block Calvert Ave,1,3,"1600 block Calvert Ave, Detroit Michigan",42.3839461,-83.1010379
+290,2029078,"June 8, 2021",Tennessee,Nashville,Clarksville Pike and Buena Vista Pike,1,3,"Clarksville Pike and Buena Vista Pike, Nashville Tennessee",36.1938952,-86.83157
+291,2027046,"June 7, 2021",Florida,Homestead,12550 SW 282nd St,3,3,"12550 SW 282nd St, Homestead Florida",25.5107197,-80.3849621
+292,2026651,"June 6, 2021",North Carolina,Snow Hill,50  Katie Ct,0,4,"50  Katie Ct, Snow Hill North Carolina",35.4850999,-77.5858655
+293,2022129,"May 31, 2021",Ohio,Cleveland (Garfield Heights),13000  Alvin Ave,1,5,"13000  Alvin Ave, Cleveland (Garfield Heights) Ohio",41.4352612,-81.5920495
+294,2019622,"May 30, 2021",Florida,Hialeah,7630 NW 186th St,3,20,"7630 NW 186th St, Hialeah Florida",25.941666,-80.32565360000001
+295,2018495,"May 27, 2021",North Carolina,Durham,1200  Fayetteville St,0,5,"1200  Fayetteville St, Durham North Carolina",35.9828683,-78.8988521
+296,2013059,"May 23, 2021",New Jersey,Paterson,Hillman St and E Main St,0,5,"Hillman St and E Main St, Paterson New Jersey",40.9292191,-74.16828749999999
+297,2012765,"May 22, 2021",South Carolina,North Charleston,Piggly Wiggly Dr and W Jimtown Dr,1,14,"Piggly Wiggly Dr and W Jimtown Dr, North Charleston South Carolina",32.8718716,-80.0010901
+298,2011569,"May 22, 2021",Minnesota,Minneapolis,322 N 1st Ave,2,7,"322 N 1st Ave, Minneapolis Minnesota",44.9817762,-93.272576
+299,2012633,"May 22, 2021",New Jersey,Bridgeton,1029 E Commerce St,3,11,"1029 E Commerce St, Bridgeton New Jersey",39.4217536,-75.18567879999999
+300,2011077,"May 21, 2021",New York,Albany,1st St and Quail St,1,5,"1st St and Quail St, Albany New York",42.667183,-73.7703877
+301,2006204,"May 16, 2021",Georgia,Stone Mountain,4766 Redan Rd,1,5,"4766 Redan Rd, Stone Mountain Georgia",33.7622544,-84.1970182
+302,1999909,"May 9, 2021",California,Los Angeles,6112 W Afton Pl,1,3,"6112 W Afton Pl, Los Angeles California",34.09502,-118.322826
+303,2000132,"May 9, 2021",South Carolina,Charleston,500 Block of King St,0,5,"500 Block of King St, Charleston South Carolina",32.7908771,-79.939334
+304,1998476,"May 8, 2021",Maryland,Gwynn Oak (Woodlawn),7300  Maury Rd,4,1,"7300  Maury Rd, Gwynn Oak (Woodlawn) Maryland",39.3101843,-76.7726373
+305,1999434,"May 6, 2021",New Jersey,Paterson,22nd Ave and E 30th St,0,5,"22nd Ave and E 30th St, Paterson New Jersey",40.9033994,-74.14782079999999
+306,1992534,"May 1, 2021",Louisiana,New Orleans,St Bernard Ave and N Claiborne Ave,2,4,"St Bernard Ave and N Claiborne Ave, New Orleans Louisiana",29.9725872,-90.0654565
+307,1992469,"May 1, 2021",Florida,Clewiston,1117 Harlem Academy Ave,1,3,"1117 Harlem Academy Ave, Clewiston Florida",26.7376574,-80.95358039999999
+308,1989840,"April 28, 2021",North Carolina,Boone,553 Hardaman Cir,5,0,"553 Hardaman Cir, Boone North Carolina",36.2124213,-81.6042866
+309,1987241,"April 26, 2021",Louisiana,Houma,656 Corporate Dr,0,5,"656 Corporate Dr, Houma Louisiana",29.6098623,-90.7582942
+310,1988326,"April 26, 2021",Oregon,Gresham,SE Stark St and SE 174th Ave,0,7,"SE Stark St and SE 174th Ave, Gresham Oregon",45.5191451,-122.484608
+311,1987235,"April 25, 2021",Alabama,Phenix City,1700 Highway 280 Bypass,0,4,"1700 Highway 280 Bypass, Phenix City Alabama",32.4609911,-85.0191653
+312,1981521,"April 18, 2021",Michigan,Detroit,Ward Ave and W McNichols Rd,1,5,"Ward Ave and W McNichols Rd, Detroit Michigan",42.4166243,-83.1742467
+313,1980971,"April 17, 2021",Louisiana,La Place (Laplace),624 Golfview Dr,0,9,"624 Golfview Dr, La Place (Laplace) Louisiana",30.0843142,-90.4843125
+314,1979684,"April 16, 2021",Michigan,Detroit,Conant St and Minnesota St,0,4,"Conant St and Minnesota St, Detroit Michigan",42.4237923,-83.06714099999999
+315,1978616,"April 15, 2021",Florida,Pensacola,700 Truman Ave,0,6,"700 Truman Ave, Pensacola Florida",30.4508854,-87.2525044
+316,1975405,"April 10, 2021",Connecticut,Waterbury,36 Gasparri Ln,0,4,"36 Gasparri Ln, Waterbury Connecticut",41.5444505,-73.0118552
+317,1971410,"April 7, 2021",South Carolina,Rock Hill,4456 Marshall Rd,7,0,"4456 Marshall Rd, Rock Hill South Carolina",34.8522468,-81.0585637
+318,1973435,"April 7, 2021",Ohio,Dayton,Hoover Ave and Summit Square,0,4,"Hoover Ave and Summit Square, Dayton Ohio",39.7613206,-84.2839135
+319,1970378,"April 5, 2021",Illinois,Chicago,6800  S Justine Ave,0,7,"6800  S Justine Ave, Chicago Illinois",41.7702472,-87.66302569999999
+320,1969633,"April 4, 2021",Texas,Beaumont,6035 S M L King Jr Pkwy,0,4,"6035 S M L King Jr Pkwy, Beaumont Texas",30.02913989999999,-94.0576091
+321,1962934,"March 27, 2021",Mississippi,Yazoo City,Dr Martin Luther King Jr Dr and Shady Dr,0,6,"Dr Martin Luther King Jr Dr and Shady Dr, Yazoo City Mississippi",32.8641025,-90.4112479
+323,1959549,"March 22, 2021",Michigan,Detroit,13300  Davidson St,1,3,"13300  Davidson St, Detroit Michigan",42.3857271,-83.173908
+324,1956001,"March 17, 2021",California,Stockton,Oro Ave and E Main St,0,5,"Oro Ave and E Main St, Stockton California",37.9539772,-121.2342465
+325,1954379,"March 16, 2021",Georgia,Acworth,6468 Hwy 92,8,1,"6468 Hwy 92, Acworth Georgia",34.0881409,-84.5808034
+326,1951681,"March 13, 2021",Florida,Orlando,200  Ring Rd,1,3,"200  Ring Rd, Orlando Florida",28.5387883,-81.4513092
+327,1950346,"March 11, 2021",New Mexico,Ohkay Owingeh (Chamita),89 Rio Arriba Co Rd 56,1,3,"89 Rio Arriba Co Rd 56, Ohkay Owingeh (Chamita) New Mexico",36.0700343,-106.1023748
+328,1948233,"March 8, 2021",Florida,Clearwater,US-19 ALT and Drew St,1,3,"US-19 ALT and Drew St, Clearwater Florida",27.9681608,-82.7959132
+329,1947241,"March 6, 2021",California,Yuba City,Countryside Dr and Littlejohn Dr,2,3,"Countryside Dr and Littlejohn Dr, Yuba City California",39.1254847,-121.6392332
+330,1944507,"March 4, 2021",District of Columbia,Washington,3900 Martin Luther King Jr Ave SW,0,5,"3900 Martin Luther King Jr Ave SW, Washington District of Columbia",38.8324029,-77.0087428
+331,1943271,"February 27, 2021",Mississippi,Columbus,1200  7th St S,0,4,"1200  7th St S, Columbus Mississippi",33.4840314,-88.42451849999999
+332,1935235,"February 21, 2021",North Carolina,Teachey,Thomas Smith Ln and Bay Rd,0,4,"Thomas Smith Ln and Bay Rd, Teachey North Carolina",34.812221,-77.9641444
+333,1928557,"February 13, 2021",California,San Francisco,3rd St and Quesada Ave,0,6,"3rd St and Quesada Ave, San Francisco California",37.7331886,-122.3912154
+334,1924338,"February 9, 2021",Minnesota,Buffalo,755 Crossroads Campus Dr,1,4,"755 Crossroads Campus Dr, Buffalo Minnesota",45.1781559,-93.8632021
+335,1922354,"February 6, 2021",Washington,Tacoma,3634 E McKinley Ave,1,3,"3634 E McKinley Ave, Tacoma Washington",47.2251837,-122.4211963
+336,1924951,"February 5, 2021",Mississippi,Benoit,1017 Lake Bolivar Rd,3,1,"1017 Lake Bolivar Rd, Benoit Mississippi",33.6596266,-91.0540309
+337,1917918,"February 2, 2021",Florida,Fort Lauderdale (Sunrise),10100 Reflections Blvd W,3,3,"10100 Reflections Blvd W, Fort Lauderdale (Sunrise) Florida",26.1779789,-80.28929339999999
+338,1910619,"January 24, 2021",Nevada,Las Vegas,W Wilson Ave and H St,0,5,"W Wilson Ave and H St, Las Vegas Nevada",36.1781985,-115.151847
+339,1909849,"January 22, 2021",Kentucky,Covington,217 E Martin Luther King Jr Blvd,0,5,"217 E Martin Luther King Jr Blvd, Covington Kentucky",39.0781504,-84.5045143
+340,1908542,"January 21, 2021",California,Oakland,107th Ave and Apricot St,1,3,"107th Ave and Apricot St, Oakland California",37.7351411,-122.1720888
+341,1897878,"January 9, 2021",Texas,Houston,5828 Martin Luther King Blvd,1,3,"5828 Martin Luther King Blvd, Houston Texas",29.6963386,-95.3378041
+342,1896252,"January 6, 2021",Virginia,Manassas,10010 Ellis Rd,3,3,"10010 Ellis Rd, Manassas Virginia",38.7374352,-77.42864589999999
+343,1894979,"January 4, 2021",Florida,Tampa,1225 S 78th St,0,5,"1225 S 78th St, Tampa Florida",27.9367999,-82.3690376
+344,1894941,"January 4, 2021",Florida,Fort Lauderdale (Lauderhill),1828 NW 38th Ave,0,7,"1828 NW 38th Ave, Fort Lauderdale (Lauderhill) Florida",26.1488122,-80.1995457
+345,1893953,"January 3, 2021",Oregon,Gresham,NE 181st Ave and NE San Rafael St,0,4,"NE 181st Ave and NE San Rafael St, Gresham Oregon",45.5371044,-122.4772596
