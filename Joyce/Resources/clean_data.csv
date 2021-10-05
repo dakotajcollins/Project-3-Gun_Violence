@@ -1,0 +1,1203 @@
+Incident ID,State,City Or County,Address,# Killed,# Injured,Full_Address,Latitude,Longitude,Date,Year
+1582816,Illinois,Danville,1803  Westview Ave,0,5,"1803  Westview Ave, Danville Illinois",40.1555301092308,-87.61471508589744,December 29, 2019
+1582197,New York,Buffalo,50  Henrietta Ave,1,3,"50  Henrietta Ave, Buffalo New York",42.9563206122449,-78.89934789795919,December 29, 2019
+1583444,California,Ceres,800  Allacante Dr,0,5,"800  Allacante Dr, Ceres California",37.590897,-120.981631,December 29, 2019
+1581590,California,Modesto,1900  Vernon Ave,1,3,"1900  Vernon Ave, Modesto California",37.614474926174495,-121.0279217114094,December 27, 2019
+1581103,Texas,Houston,500  Smart St,2,7,"500  Smart St, Houston Texas",29.95991275,-95.56226793134292,December 27, 2019
+1580308,Florida,Saint Petersburg,4300 6th St S,0,5,"4300 6th St S, Saint Petersburg Florida",27.72960872463256,-82.64059860402041,December 26, 2019
+1579889,California,Oakland,2100  34th Ave,0,4,"2100  34th Ave, Oakland California",37.783701288590606,-122.21961911409396,December 25, 2019
+1579970,Iowa,Coralville,954 Boston Way,1,3,"954 Boston Way, Coralville Iowa",41.68764192201704,-91.59938873301564,December 25, 2019
+1579856,Virginia,Richmond,1800 E Main St,1,3,"1800 E Main St, Richmond Virginia",37.532898,-77.427455,December 25, 2019
+1579266,Louisiana,New Orleans,6400  General Meyer Ave,0,4,"6400  General Meyer Ave, New Orleans Louisiana",29.9239098,-89.9842771,December 24, 2019
+1594317,Illinois,Joliet,1200  Cutter Ave,0,5,"1200  Cutter Ave, Joliet Illinois",41.546468,-88.053247,December 24, 2019
+1579220,North Carolina,High Point,1226 Montlieu Ave,0,6,"1226 Montlieu Ave, High Point North Carolina",35.979168,-79.980115,December 24, 2019
+1577577,Maryland,Baltimore,225 Park Ave,0,7,"225 Park Ave, Baltimore Maryland",39.292552150000006,-76.61785911125338,December 22, 2019
+1577518,Illinois,Chicago,5700  S May St,0,13,"5700  S May St, Chicago Illinois",41.7903938,-87.65389313950436,December 22, 2019
+1578711,Louisiana,Edgard,2555 LA-18,0,4,"2555 LA-18, Edgard Louisiana",30.04650744821958,-90.58454701114955,December 21, 2019
+1577046,Mississippi,Waynesboro,Turner St,1,6,"Turner St, Waynesboro Mississippi",31.6646003,-88.6420331,December 20, 2019
+1577438,Alabama,Tuskegee,2900  Davison St,2,2,"2900  Davison St, Tuskegee Alabama",32.399309,-85.720013,December 20, 2019
+1575175,Texas,San Antonio,2418 SW Military Dr,0,4,"2418 SW Military Dr, San Antonio Texas",29.35655729032258,-98.53322396774192,December 18, 2019
+1573754,Montana,Great Falls,1701 10th Ave S,4,1,"1701 10th Ave S, Great Falls Montana",47.49402992857143,-111.27807394897958,December 17, 2019
+1572275,Georgia,Columbus,600  32nd St,1,4,"600  32nd St, Columbus Georgia",32.493986,-84.984949,December 15, 2019
+1573471,California,Ivanhoe,15700  Paradise Ave,0,4,"15700  Paradise Ave, Ivanhoe California",36.381905,-119.220453,December 14, 2019
+1571348,Missouri,Saint Louis (Moline Acres),9900  Lewis and Clark Blvd,1,3,"9900  Lewis and Clark Blvd, Saint Louis (Moline Acres) Missouri",38.747073,-90.239697,December 12, 2019
+1568230,New Jersey,Jersey City,223 Martin Luther King Dr,6,3,"223 Martin Luther King Dr, Jersey City New Jersey",40.7147116,-74.0754342,December 10, 2019
+1567932,Texas,Desoto,200  W Wintergreen Rd,2,3,"200  W Wintergreen Rd, Desoto Texas",32.618494,-96.858505,December 8, 2019
+1567231,Louisiana,New Orleans,3801 Washington Ave,1,4,"3801 Washington Ave, New Orleans Louisiana",29.9488906,-90.0990511841542,December 8, 2019
+1565216,Florida,Pensacola,280 Taylor Rd,4,8,"280 Taylor Rd, Pensacola Florida",30.4780499,-87.1947105,December 6, 2019
+1564524,Alabama,Montgomery,500 Eastdale Rd S,2,2,"500 Eastdale Rd S, Montgomery Alabama",32.376413,-86.204633,December 4, 2019
+1562043,Louisiana,Cotton Valley,116 Hawthorne Loop,2,3,"116 Hawthorne Loop, Cotton Valley Louisiana",32.813105905196686,-93.42970458367982,December 1, 2019
+1561966,Louisiana,New Orleans,2000  N Dorgenois St,2,2,"2000  N Dorgenois St, New Orleans Louisiana",29.98224,-90.064844,December 1, 2019
+1561813,Illinois,Aurora,700  S 5th St,1,4,"700  S 5th St, Aurora Illinois",41.742544,-88.312058,December 1, 2019
+1561734,Louisiana,New Orleans,700  Canal St,0,12,"700  Canal St, New Orleans Louisiana",29.9530497,-90.0694014,December 1, 2019
+1560645,Texas,Amarillo,2650 Dumas Dr,0,7,"2650 Dumas Dr, Amarillo Texas",35.24087693805399,-101.83087625516222,November 29, 2019
+1557006,Alabama,Birmingham,7 15th St W,1,4,"7 15th St W, Birmingham Alabama",33.499027,-86.861075,November 24, 2019
+1556633,California,Los Angeles,100  E 11th St,0,6,"100  E 11th St, Los Angeles California",34.038948,-118.25808,November 24, 2019
+1556984,Louisiana,Cottonport,3846 LA-29,2,2,"3846 LA-29, Cottonport Louisiana",30.992591870644784,-92.08018617120663,November 24, 2019
+1555879,California,Los Angeles,833 S Spring St,0,4,"833 S Spring St, Los Angeles California",34.0423785,-118.2544884,November 23, 2019
+1556002,Louisiana,Tallulah,Depot St,1,6,"Depot St, Tallulah Louisiana",32.4072437,-91.187437,November 23, 2019
+1555135,California,Long Beach,1100  10th St,0,5,"1100  10th St, Long Beach California",33.77888,-118.178911,November 21, 2019
+1554807,Washington,Everett,120 West Casino Rd,0,4,"120 West Casino Rd, Everett Washington",47.92180774032327,-122.23446184829128,November 21, 2019
+1552068,New Jersey,Newark,139 S 8th St,1,4,"139 S 8th St, Newark New Jersey",40.745734428571424,-74.19613157142858,November 18, 2019
+1551531,California,Fresno,5361 E Lamona Ave,4,6,"5361 E Lamona Ave, Fresno California",36.7607744,-119.71526533333332,November 17, 2019
+1551162,Ohio,Cleveland,7100  Lawn Ave,0,4,"7100  Lawn Ave, Cleveland Ohio",41.47606196385542,-81.73367860240964,November 17, 2019
+1550546,California,San Diego,2152 Flintridge Dr,6,0,"2152 Flintridge Dr, San Diego California",32.677611,-117.069088,November 16, 2019
+1548689,California,Santa Clarita,21900 Centurion Way,3,3,"21900 Centurion Way, Santa Clarita California",34.443057,-118.517993,November 14, 2019
+1547021,Florida,Belle Glade,SW 7th St,0,4,"SW 7th St, Belle Glade Florida",26.680364,-80.67608,November 11, 2019
+1546102,Missouri,Kansas City,4704 Independence Ave,0,4,"4704 Independence Ave, Kansas City Missouri",39.10557589795918,-94.52704771428571,November 10, 2019
+1546038,Tennessee,Memphis,2080 E. Brooks Rd,1,4,"2080 E. Brooks Rd, Memphis Tennessee",35.060725,-89.993934,November 10, 2019
+1546155,Arkansas,Little Rock,3000  W 12th St,0,4,"3000  W 12th St, Little Rock Arkansas",34.740044,-92.307069,November 10, 2019
+1545955,Michigan,Detroit,3800  E McNichols Rd,0,4,"3800  E McNichols Rd, Detroit Michigan",42.418576,-83.06344,November 9, 2019
+1546508,Georgia,Vidalia,Wiggins St,0,4,"Wiggins St, Vidalia Georgia",32.227936,-82.40839,November 9, 2019
+1545027,North Carolina,Raleigh,503 Bragg St,1,3,"503 Bragg St, Raleigh North Carolina",35.765796,-78.632536,November 8, 2019
+1541774,Texas,Houston,5000  Northridge Dr,1,4,"5000  Northridge Dr, Houston Texas",29.671295,-95.348409,November 4, 2019
+1540863,Ohio,Toledo,600  Magnolia St,0,4,"600  Magnolia St, Toledo Ohio",41.661972,-83.521434,November 3, 2019
+1540280,Louisiana,Baton Rouge,137 Taylor St,0,4,"137 Taylor St, Baton Rouge Louisiana",30.42617728367528,-91.18090537456092,November 2, 2019
+1540240,Michigan,Detroit,7000  E. Kirby,1,4,"7000  E. Kirby, Detroit Michigan",42.3607919,-83.06548262690518,November 2, 2019
+1539557,Texas,San Angelo,1616 S Chadbourne St,0,4,"1616 S Chadbourne St, San Angelo Texas",31.444618959183675,-100.43453322448978,November 1, 2019
+1539347,California,Orinda,114 Lucille Way,5,3,"114 Lucille Way, Orinda California",37.87233560202386,-122.18409624452497,October 31, 2019
+1537992,Pennsylvania,Philadelphia,5026 Walton Ave,4,0,"5026 Walton Ave, Philadelphia Pennsylvania",39.94920312244898,-75.22368934693877,October 30, 2019
+1537044,Maryland,Baltimore,4700  Liberty Heights Ave,1,3,"4700  Liberty Heights Ave, Baltimore Maryland",39.33167295,-76.69577977179884,October 29, 2019
+1537672,California,Long Beach,2709 E 7th St,3,9,"2709 E 7th St, Long Beach California",33.7741317,-118.1071982,October 29, 2019
+1536787,Maryland,Baltimore,4160 Pimlico Rd,1,3,"4160 Pimlico Rd, Baltimore Maryland",39.33723375,-76.66307816896551,October 28, 2019
+1535478,Texas,Greenville,2275 US-380,2,6,"2275 US-380, Greenville Texas",33.1403476,-96.1469706,October 26, 2019
+1534704,Oklahoma,Oklahoma City,1900  NW 12th St,2,2,"1900  NW 12th St, Oklahoma City Oklahoma",35.481614,-97.543448,October 24, 2019
+1531326,South Carolina,Sumter,29 Wesmark Blvd,0,4,"29 Wesmark Blvd, Sumter South Carolina",33.9522717093972,-80.37635718739442,October 21, 2019
+1530965,Texas,Port Arthur,1100  Vicksburg Ave,1,3,"1100  Vicksburg Ave, Port Arthur Texas",29.886437,-93.931533,October 20, 2019
+1530407,Pennsylvania,Duquesne,600  Priscilla Ave,0,4,"600  Priscilla Ave, Duquesne Pennsylvania",40.368155,-79.849579,October 19, 2019
+1530276,Texas,El Paso,3812 Truman Ave,1,4,"3812 Truman Ave, El Paso Texas",31.819049897959182,-106.4473873877551,October 19, 2019
+1527528,Ohio,Columbus,1600  Manchester Ave,0,4,"1600  Manchester Ave, Columbus Ohio",40.02198973065733,-82.96854410951934,October 15, 2019
+1526952,Ohio,Akron,Main St,0,4,"Main St, Akron Ohio",41.0650263,-81.51927045825263,October 13, 2019
+1525062,New York,Brooklyn,75 Utica Ave,4,3,"75 Utica Ave, Brooklyn New York",40.676374550000006,-73.93019244999999,October 12, 2019
+1525476,Illinois,Chicago,6733 W Irving Park Rd,5,0,"6733 W Irving Park Rd, Chicago Illinois",41.95247805,-87.79513699911647,October 12, 2019
+1525408,Pennsylvania,Philadelphia,700  W Russell St,1,3,"700  W Russell St, Philadelphia Pennsylvania",40.003625,-75.141578,October 12, 2019
+1525628,Maryland,Baltimore,800  W Lexington St,1,3,"800  W Lexington St, Baltimore Maryland",39.2910158,-76.6331812,October 12, 2019
+1525265,Michigan,Eastpointe,15163 E 10 Mile Rd,1,5,"15163 E 10 Mile Rd, Eastpointe Michigan",42.479624,-82.964476,October 12, 2019
+1524264,Pennsylvania,Philadelphia,900  S 5th St,0,5,"900  S 5th St, Philadelphia Pennsylvania",39.937224,-75.151892,October 10, 2019
+1522979,Massachusetts,Lowell,149 Ennell Street,0,5,"149 Ennell Street, Lowell Massachusetts",42.65734545,-71.30917430120968,October 9, 2019
+1523204,Maryland,Baltimore,1600  W North Ave,1,3,"1600  W North Ave, Baltimore Maryland",39.3102265,-76.6434237,October 9, 2019
+1521226,Massachusetts,Abington,135 Centre Ave,5,0,"135 Centre Ave, Abington Massachusetts",42.10659025,-70.93858896888776,October 7, 2019
+1520425,Indiana,Evansville,1127 Chestnut St,0,5,"1127 Chestnut St, Evansville Indiana",37.97305623295038,-87.56096153409925,October 6, 2019
+1520330,Kansas,Kansas City,1013 Central Ave,4,5,"1013 Central Ave, Kansas City Kansas",39.1009854,-94.6361288,October 6, 2019
+1520547,Missouri,Saint Louis,10035 Crown Point Dr,0,5,"10035 Crown Point Dr, Saint Louis Missouri",38.7508712,-90.260806,October 5, 2019
+1519090,North Carolina,Roxboro,700 South Foushee St,1,3,"700 South Foushee St, Roxboro North Carolina",36.382044,-78.985398,October 3, 2019
+1518859,Missouri,Marshall,S Olson Ave,1,3,"S Olson Ave, Marshall Missouri",39.1128559,-93.1932848,October 3, 2019
+1515242,Wisconsin,Milwaukee,1500  N 29th St,0,4,"1500  N 29th St, Milwaukee Wisconsin",43.050185,-87.949894,September 29, 2019
+1515128,Florida,Jacksonville,2200  Clemente Dr,0,4,"2200  Clemente Dr, Jacksonville Florida",30.324755,-81.68903,September 29, 2019
+1515327,Texas,Beaumont,4100  Highland Ave,4,0,"4100  Highland Ave, Beaumont Texas",30.046732,-94.085528,September 29, 2019
+1511999,Illinois,Chicago,2000  South Hoyne Ave,1,3,"2000  South Hoyne Ave, Chicago Illinois",41.854771,-87.678475,September 24, 2019
+1510411,Indiana,Gary,1600  Connecticut St,2,2,"1600  Connecticut St, Gary Indiana",41.586805,-87.334522,September 23, 2019
+1509721,Missouri,Kansas City,2111 Television Plaza,0,5,"2111 Television Plaza, Kansas City Missouri",39.08385045,-94.4816187,September 22, 2019
+1508804,South Carolina,Lancaster,1399 Old Charlotte Rd,2,8,"1399 Old Charlotte Rd, Lancaster South Carolina",34.741959,-80.777907,September 21, 2019
+1509510,Indiana,Indianapolis,101 W Maryland St,0,6,"101 W Maryland St, Indianapolis Indiana",39.765601,-86.160105,September 21, 2019
+1512486,Ohio,Cleveland,3616 East 144th St,4,0,"3616 East 144th St, Cleveland Ohio",41.461159,-81.581445,September 21, 2019
+1507939,District of Columbia,Washington,1300  Columbia Rd NW,1,5,"1300  Columbia Rd NW, Washington District of Columbia",38.9274452,-77.0300322239827,September 19, 2019
+1507156,Illinois,Chicago,4200  W Madison St,3,1,"4200  W Madison St, Chicago Illinois",41.8809866,-87.73095225936294,September 18, 2019
+1505354,Wyoming,Cheyenne,3436 E 11th St,2,2,"3436 E 11th St, Cheyenne Wyoming",41.13557273417345,-104.76676011301956,September 16, 2019
+1504030,Missouri,Saint Louis,5200  Tennessee Ave,1,3,"5200  Tennessee Ave, Saint Louis Missouri",38.570828,-90.250767,September 14, 2019
+1504012,California,Oakland,38th Ave and MacArthur Blvd,1,4,"38th Ave and MacArthur Blvd, Oakland California",37.7908374,-122.198091,September 14, 2019
+1504387,Georgia,Lagrange,1400  Elm St,0,4,"1400  Elm St, Lagrange Georgia",33.017383,-85.042787,September 14, 2019
+1503207,New Mexico,Albuquerque,1919 Ladera Dr NW,1,4,"1919 Ladera Dr NW, Albuquerque New Mexico",35.10344663265306,-106.73249189795918,September 12, 2019
+1503192,New Mexico,Albuquerque,1028 Lura Pl SW,4,2,"1028 Lura Pl SW, Albuquerque New Mexico",35.06409354788969,-106.68428371910076,September 12, 2019
+1501350,Illinois,Chicago,2200  W Maypole Ave,0,4,"2200  W Maypole Ave, Chicago Illinois",41.883993,-87.681756,September 10, 2019
+1499460,South Carolina,Sumter,1083 Broad St,2,2,"1083 Broad St, Sumter South Carolina",33.95044346026532,-80.37618665929246,September 8, 2019
+1500098,Louisiana,Alexandria,2900  Cypress St,1,3,"2900  Cypress St, Alexandria Louisiana",31.2856856,-92.4439382,September 8, 2019
+1497180,Florida,Jacksonville,400 W 62nd St,0,4,"400 W 62nd St, Jacksonville Florida",30.384363,-81.659059,September 4, 2019
+1494697,North Carolina,Greensboro,5528 W Market St,2,2,"5528 W Market St, Greensboro North Carolina",36.0756862,-79.9120991,September 2, 2019
+1495141,Illinois,Chicago,6200  S King Dr,0,4,"6200  S King Dr, Chicago Illinois",41.709143,-87.6138244,September 2, 2019
+1495192,Alabama,Elkmont,25019 Ridge Road,5,0,"25019 Ridge Road, Elkmont Alabama",34.919752130939884,-86.96812657396381,September 2, 2019
+1494113,Connecticut,Hartford,80 Edgewood St,1,3,"80 Edgewood St, Hartford Connecticut",41.77954933612504,-72.69128948750819,September 1, 2019
+1494669,North Carolina,Rocky Mount,521 Country Club Road,0,4,"521 Country Club Road, Rocky Mount North Carolina",35.967171809877215,-77.8260413182094,September 1, 2019
+1494548,Alabama,Valley,502 Boulevard,0,7,"502 Boulevard, Valley Alabama",32.79451040242053,-85.18508639763151,September 1, 2019
+1493374,Ohio,Toledo,3257 Stickney Ave,0,4,"3257 Stickney Ave, Toledo Ohio",41.6827107,-83.52712725,September 1, 2019
+1492778,North Carolina,Charlotte,10035 Dabney Dr,1,3,"10035 Dabney Dr, Charlotte North Carolina",35.31171448409232,-80.71789182683781,August 31, 2019
+1492441,Texas,Odessa,8250 TX 191,8,23,"8250 TX 191, Odessa Texas",31.923482,-102.288585,August 31, 2019
+1492264,Pennsylvania,Philadelphia,4600  4th St,2,2,"4600  4th St, Philadelphia Pennsylvania",40.021012,-75.132089,August 31, 2019
+1493429,Maryland,Baltimore,900  N Monroe St,0,4,"900  N Monroe St, Baltimore Maryland",39.299089,-76.6477431875,August 31, 2019
+1492297,Maryland,Frederick,600  N Market St,0,4,"600  N Market St, Frederick Maryland",39.421697,-77.409874,August 31, 2019
+1493038,Illinois,Chicago,7100  S Paulina St,2,3,"7100  S Paulina St, Chicago Illinois",41.7643,-87.66634,August 31, 2019
+1491495,Maryland,Baltimore,1600  E 29th St,1,3,"1600  E 29th St, Baltimore Maryland",39.3248153,-76.5928564038286,August 30, 2019
+1492087,Alabama,Mobile,1621 Virginia St,0,6,"1621 Virginia St, Mobile Alabama",30.67435983333333,-88.07331191666667,August 30, 2019
+1490466,Maryland,Baltimore,2500  E Monument St,1,3,"2500  E Monument St, Baltimore Maryland",39.298949,-76.582165,August 29, 2019
+1487729,New Mexico,Hobbs,1700  E Bond St,3,4,"1700  E Bond St, Hobbs New Mexico",32.70355761080692,-103.11641533443787,August 25, 2019
+1487573,Illinois,Chicago,8200  S Maryland Ave,1,3,"8200  S Maryland Ave, Chicago Illinois",41.745686,-87.60392,August 25, 2019
+1487224,Massachusetts,Lynn,Warren Street,1,3,"Warren Street, Lynn Massachusetts",42.4612775,-70.9601164,August 24, 2019
+1486232,Texas,Houston,4900  Southwind St,3,2,"4900  Southwind St, Houston Texas",29.67796808942835,-95.35040567071152,August 23, 2019
+1489373,Georgia,Dublin,200 Riverview Park Dr,0,4,"200 Riverview Park Dr, Dublin Georgia",32.518076,-82.898599,August 23, 2019
+1486675,Missouri,Saint Louis,1122 Union Blvd,1,3,"1122 Union Blvd, Saint Louis Missouri",38.658188,-90.272548,August 23, 2019
+1485340,South Carolina,Columbia,851 Bush River Rd,2,2,"851 Bush River Rd, Columbia South Carolina",34.030272969734334,-81.10083529843436,August 22, 2019
+1485548,California,Los Angeles,300  West Fifth St,0,4,"300  West Fifth St, Los Angeles California",34.0518393,-118.4140469,August 22, 2019
+1484335,Georgia,Atlanta,111 James P Brawley Dr SW,0,4,"111 James P Brawley Dr SW, Atlanta Georgia",33.7515384,-84.41355964476884,August 20, 2019
+1482199,Missouri,Kansas City,770 W 47th St,0,4,"770 W 47th St, Kansas City Missouri",39.04278205,-94.59566391298652,August 18, 2019
+1481989,Texas,Houston,12500  Mylla St,0,6,"12500  Mylla St, Houston Texas",29.762516,-95.215302,August 17, 2019
+1480326,Alabama,Montgomery,847 N University Dr,2,3,"847 N University Dr, Montgomery Alabama",32.371463,-86.187053,August 15, 2019
+1479894,Pennsylvania,Philadelphia,1400  W Conlyn St,0,5,"1400  W Conlyn St, Philadelphia Pennsylvania",40.041924,-75.144206,August 15, 2019
+1478869,Pennsylvania,Philadelphia,3716 N 15th St,0,6,"3716 N 15th St, Philadelphia Pennsylvania",40.00980371428572,-75.15291130612245,August 14, 2019
+1478480,Mississippi,Greenwood,200 Young St,0,4,"200 Young St, Greenwood Mississippi",33.519195,-90.174034,August 12, 2019
+1475924,Illinois,Chicago,3500  W Lake St,0,6,"3500  W Lake St, Chicago Illinois",41.8849162,-87.7136872,August 11, 2019
+1475361,Virginia,Richmond,6346 Midlothian Turnpike,0,4,"6346 Midlothian Turnpike, Richmond Virginia",37.5044843,-77.51480841972634,August 10, 2019
+1476271,California,San Francisco,1100 Fillmore St,0,4,"1100 Fillmore St, San Francisco California",37.7798311,-122.43170806268444,August 10, 2019
+1475208,Illinois,Chicago,7300  S Artesian Ave,0,4,"7300  S Artesian Ave, Chicago Illinois",41.7608977,-87.68464345000001,August 9, 2019
+1472641,Missouri,Saint Louis,4900  Plover Ave,3,1,"4900  Plover Ave, Saint Louis Missouri",38.695208,-90.256476,August 7, 2019
+1469344,New York,Brooklyn,216 Buffalo Ave,0,4,"216 Buffalo Ave, Brooklyn New York",40.67172995,-73.92551270178228,August 5, 2019
+1468190,Illinois,Chicago,1800 S Kildare Ave,1,7,"1800 S Kildare Ave, Chicago Illinois",41.856805,-87.73268,August 4, 2019
+1468799,Tennessee,Memphis,443 E Shelby Dr,1,3,"443 E Shelby Dr, Memphis Tennessee",35.02074732543872,-90.04891650349556,August 4, 2019
+1468091,Illinois,Chicago,2900  W Roosevelt Rd,0,7,"2900  W Roosevelt Rd, Chicago Illinois",41.8669802,-87.6614615,August 4, 2019
+1467828,Ohio,Dayton,419 E 5th St,10,17,"419 E 5th St, Dayton Ohio",39.7572779,-84.1844036,August 4, 2019
+1466705,Texas,El Paso,7101 Gateway Blvd,23,23,"7101 Gateway Blvd, El Paso Texas",29.5755935,-98.33547529537049,August 3, 2019
+1467157,Virginia,Suffolk,200  N Broad St,2,3,"200  N Broad St, Suffolk Virginia",36.731671,-76.593012,August 2, 2019
+1462317,Ohio,Columbus,1280 E Long St,0,5,"1280 E Long St, Columbus Ohio",39.96890416,-82.96724344,July 30, 2019
+1460630,Pennsylvania,Philadelphia,2600  Carroll St,1,5,"2600  Carroll St, Philadelphia Pennsylvania",39.917617,-75.233541,July 28, 2019
+1460448,California,Gilroy,7050 Miller Ave,4,17,"7050 Miller Ave, Gilroy California",36.99768975,-121.58546605,July 28, 2019
+1459941,District of Columbia,Washington,637 T St NW,0,4,"637 T St NW, Washington District of Columbia",38.9157192,-77.0213818,July 28, 2019
+1460726,Illinois,Chicago,3938 W Roosevelt Rd,0,4,"3938 W Roosevelt Rd, Chicago Illinois",41.8665863,-87.7245379,July 28, 2019
+1459389,Kansas,Wichita,505 N Rock Rd,1,3,"505 N Rock Rd, Wichita Kansas",37.69403223262288,-97.24464049170918,July 27, 2019
+1459718,New York,Brooklyn,1555 Linden Blvd,1,11,"1555 Linden Blvd, Brooklyn New York",40.65627315,-73.90271889104511,July 27, 2019
+1459201,Washington,Kennewick,E 10th Ave,1,3,"E 10th Ave, Kennewick Washington",46.1981609,-119.1110864,July 26, 2019
+1453327,Illinois,Chicago,3900  Roosevelt Rd,0,4,"3900  Roosevelt Rd, Chicago Illinois",41.86644785,-87.72294486378736,July 21, 2019
+1453884,District of Columbia,Washington,2300  15th St NE,0,4,"2300  15th St NE, Washington District of Columbia",38.92104979601156,-76.98265523623947,July 21, 2019
+1453350,Maryland,Baltimore,2800  Boarman Ave,1,3,"2800  Boarman Ave, Baltimore Maryland",39.3380494,-76.667863705625,July 20, 2019
+1452654,Pennsylvania,Clairton,501 Waddell Ave,0,4,"501 Waddell Ave, Clairton Pennsylvania",40.2942909,-79.886323,July 20, 2019
+1452617,Illinois,Chicago,2401 N Lake Shore Dr,0,7,"2401 N Lake Shore Dr, Chicago Illinois",41.902162,-87.6243207,July 20, 2019
+1450767,Illinois,Chicago,3427 W Fulton Blvd,1,3,"3427 W Fulton Blvd, Chicago Illinois",41.8860294,-87.71226262272117,July 18, 2019
+1449602,Texas,San Antonio,6989 San Pedro Ave,0,4,"6989 San Pedro Ave, San Antonio Texas",29.50685344897959,-98.4993681632653,July 16, 2019
+1448578,Georgia,Atlanta,1572 Hardee St NE,0,4,"1572 Hardee St NE, Atlanta Georgia",33.7554917,-84.33616286666667,July 15, 2019
+1447456,Illinois,Chicago,4600  W Erie St,0,4,"4600  W Erie St, Chicago Illinois",41.89250675,-87.7415413442209,July 14, 2019
+1446611,Illinois,Chicago,7900  S Loomis Blvd,1,4,"7900  S Loomis Blvd, Chicago Illinois",41.749896,-87.658686,July 13, 2019
+1447057,Pennsylvania,Philadelphia,5433 Lansdowne Ave,0,7,"5433 Lansdowne Ave, Philadelphia Pennsylvania",39.977018,-75.231047,July 13, 2019
+1445066,Texas,Houston,5901 Royal Palms St,0,4,"5901 Royal Palms St, Houston Texas",29.697095,-95.331705,July 11, 2019
+1441396,Illinois,Chicago,5600  S Paulina St,0,4,"5600  S Paulina St, Chicago Illinois",41.7920571,-87.6672798290678,July 7, 2019
+1441296,Illinois,Chicago,600  W 61st Pl,0,4,"600  W 61st Pl, Chicago Illinois",41.782649,-87.640231,July 7, 2019
+1441317,New Mexico,Albuquerque,211 Gold Ave SW,0,4,"211 Gold Ave SW, Albuquerque New Mexico",35.08337002040817,-106.64965375510204,July 7, 2019
+1441427,California,San Jose,3036 Quinto Way,0,4,"3036 Quinto Way, San Jose California",37.2680284,-121.91415463138289,July 6, 2019
+1441721,Missouri,Saint Louis,1921 Chambers Rd,5,0,"1921 Chambers Rd, Saint Louis Missouri",38.7496985,-90.2638313,July 6, 2019
+1440510,Massachusetts,Boston,Maple St,0,6,"Maple St, Boston Massachusetts",42.254349,-71.122409,July 5, 2019
+1440879,Nevada,Reno,600  Spokane St,1,5,"600  Spokane St, Reno Nevada",39.534819,-119.800639,July 5, 2019
+1439593,Illinois,Chicago,1600  E 67th St,0,5,"1600  E 67th St, Chicago Illinois",41.773424,-87.58559,July 5, 2019
+1440765,Illinois,Rockford,1100  Preston St,0,4,"1100  Preston St, Rockford Illinois",42.271411,-89.106486,July 4, 2019
+1439737,California,Los Angeles,1900  Adair St,0,4,"1900  Adair St, Los Angeles California",34.027866,-118.258251,July 4, 2019
+1438971,Illinois,Chicago,800  N Homan Ave,1,3,"800  N Homan Ave, Chicago Illinois",41.895628,-87.71155,July 4, 2019
+1439765,California,Fresno,4700  E Hamilton Ave,1,3,"4700  E Hamilton Ave, Fresno California",36.724541,-119.740701,July 4, 2019
+1438602,Missouri,Saint Louis (Wellston),6250 Page Ave,0,4,"6250 Page Ave, Saint Louis (Wellston) Missouri",38.67147251619031,-90.2926157625026,July 2, 2019
+1437094,Maryland,Baltimore,1200  N Luzerne Ave,0,4,"1200  N Luzerne Ave, Baltimore Maryland",39.3049054,-76.58146990584476,July 1, 2019
+1435804,California,Oakland,3000  Brookdale Ave,0,4,"3000  Brookdale Ave, Oakland California",37.79235585764368,-122.21584005806436,June 30, 2019
+1436545,California,Yucaipa,12700  California St,0,5,"12700  California St, Yucaipa California",34.0230177700218,-117.03892398120674,June 30, 2019
+1436254,Texas,Dallas,3535 Munger Ave,2,2,"3535 Munger Ave, Dallas Texas",32.8000263,-96.789442,June 30, 2019
+1434931,Illinois,Chicago,2400  W Jackson Blvd,0,5,"2400  W Jackson Blvd, Chicago Illinois",41.877624,-87.687052,June 29, 2019
+1435028,Louisiana,Baton Rouge,7132 Florida Blvd,0,7,"7132 Florida Blvd, Baton Rouge Louisiana",30.4561834,-91.0744703,June 29, 2019
+1434882,New Jersey,Paterson,50  Jefferson St,0,4,"50  Jefferson St, Paterson New Jersey",40.92593566666667,-74.17172783333334,June 28, 2019
+1434602,Connecticut,Hamden,937 Choate Ave,0,5,"937 Choate Ave, Hamden Connecticut",41.4219389,-72.9375443,June 28, 2019
+1434893,New Jersey,Jersey City,167 Armstrong Ave,0,4,"167 Armstrong Ave, Jersey City New Jersey",40.70279005263158,-74.08737336842105,June 28, 2019
+1435217,Minnesota,Saint Paul,909 Desoto St,0,5,"909 Desoto St, Saint Paul Minnesota",44.96861155102041,-93.08128487755104,June 28, 2019
+1432930,Ohio,Akron,900  Rowe St,1,3,"900  Rowe St, Akron Ohio",41.05362595437136,-81.50195224695278,June 26, 2019
+1433857,Wisconsin,Milwaukee,2800  N 34th St,0,4,"2800  N 34th St, Milwaukee Wisconsin",43.069848,-87.956103,June 26, 2019
+1429475,California,La Jolla,7500  Draper Ave,1,3,"7500  Draper Ave, La Jolla California",32.839766,-117.276225,June 23, 2019
+1429810,California,San Jose,568 Habbitts Court,5,0,"568 Habbitts Court, San Jose California",37.30102635,-121.84166990248572,June 23, 2019
+1429047,Indiana,South Bend,1150 E Mishawaka Ave,1,10,"1150 E Mishawaka Ave, South Bend Indiana",41.6642161,-86.220977,June 23, 2019
+1429480,Ohio,Columbus,1767 Genessee Ave,0,5,"1767 Genessee Ave, Columbus Ohio",40.0188615,-82.96345600000001,June 23, 2019
+1429338,South Carolina,Abbeville,1108 Cambridge St,3,1,"1108 Cambridge St, Abbeville South Carolina",34.186326,-82.368428,June 23, 2019
+1429022,Pennsylvania,Philadelphia,2400  Moore St,0,4,"2400  Moore St, Philadelphia Pennsylvania",39.930082,-75.185414,June 22, 2019
+1428595,Maryland,Baltimore,800  N Port St,1,4,"800  N Port St, Baltimore Maryland",39.30019005,-76.58325428130952,June 22, 2019
+1428788,Michigan,Saginaw,1506 N Charles St,1,3,"1506 N Charles St, Saginaw Michigan",43.42952536734694,-83.96779981632653,June 21, 2019
+1427483,Illinois,Chicago,6300  S King Dr,0,4,"6300  S King Dr, Chicago Illinois",41.709143,-87.6138244,June 21, 2019
+1428229,California,Richmond,700  14th St,0,5,"700  14th St, Richmond California",37.942231,-122.356299,June 21, 2019
+1426537,Pennsylvania,Allentown,343 Hamilton St,0,10,"343 Hamilton St, Allentown Pennsylvania",40.60498455,-75.46273601403823,June 20, 2019
+1425193,New Jersey,Newark,700  Dr Martin Luther King Jr Blvd,1,4,"700  Dr Martin Luther King Jr Blvd, Newark New Jersey",40.72910671052632,-74.18250686842106,June 18, 2019
+1424957,Tennessee,Memphis,2872 Coach Dr,0,5,"2872 Coach Dr, Memphis Tennessee",35.20400746494646,-89.92512708370938,June 17, 2019
+1423697,Pennsylvania,Philadelphia,6900  Reedbird Pl,1,5,"6900  Reedbird Pl, Philadelphia Pennsylvania",39.914285,-75.231178,June 16, 2019
+1423435,Iowa,Des Moines,1200  Sampson St,0,6,"1200  Sampson St, Des Moines Iowa",41.600962,-93.592815,June 16, 2019
+1422981,Louisiana,Shreveport,2500  Hollywood Ave,0,4,"2500  Hollywood Ave, Shreveport Louisiana",32.456562,-93.776939,June 15, 2019
+1420933,North Carolina,Charlotte,305 N Graham St,1,3,"305 N Graham St, Charlotte North Carolina",35.23256130612245,-80.84442993877552,June 12, 2019
+1419305,Colorado,Aurora,12500  E Kansas Pl,0,4,"12500  E Kansas Pl, Aurora Colorado",39.694709,-104.84240783333334,June 11, 2019
+1418533,Ohio,Cleveland,17218 Tarkington Ave,1,3,"17218 Tarkington Ave, Cleveland Ohio",41.43123415362592,-81.55956234942828,June 9, 2019
+1418548,New York,Buffalo,2081 Niagara St,0,4,"2081 Niagara St, Buffalo New York",42.9410149,-78.9053141,June 9, 2019
+1418457,Tennessee,Henning,265 N Main St,1,3,"265 N Main St, Henning Tennessee",35.67375047163006,-89.57296024211253,June 9, 2019
+1417570,Illinois,Chicago,3500  W North Ave,0,4,"3500  W North Ave, Chicago Illinois",41.9106332,-87.6677584,June 8, 2019
+1417716,Texas,Austin,8220 TX-71,0,5,"8220 TX-71, Austin Texas",30.2192219,-97.7569018,June 7, 2019
+1416374,Illinois,Chicago,2500  N Lake Shore Dr,1,3,"2500  N Lake Shore Dr, Chicago Illinois",41.902162,-87.6243207,June 6, 2019
+1415399,California,Santa Rosa,828 W 9th Street,0,4,"828 W 9th Street, Santa Rosa California",38.4413913,-122.735294,June 5, 2019
+1412419,South Carolina,Allendale,473 Main St S,0,5,"473 Main St S, Allendale South Carolina",33.037093,-81.228465,June 1, 2019
+1411598,Illinois,Chicago,300  East Chicago Ave,0,4,"300  East Chicago Ave, Chicago Illinois",41.8963583,-87.61971008254562,June 1, 2019
+1411408,Virginia,Portsmouth,1100  Mt Vernon Ave,1,3,"1100  Mt Vernon Ave, Portsmouth Virginia",36.8363664,-76.3359843,June 1, 2019
+1412243,Illinois,Chicago,5600  West Madison St,0,4,"5600  West Madison St, Chicago Illinois",41.8805897,-87.76571860764109,June 1, 2019
+1411963,Georgia,Atlanta,12 Broad Street,0,5,"12 Broad Street, Atlanta Georgia",33.7546729,-84.3914043,June 1, 2019
+1410442,Virginia,Virginia Beach,2405 Courthouse Drive,13,4,"2405 Courthouse Drive, Virginia Beach Virginia",36.7509517,-76.05747685,May 31, 2019
+1411661,California,West Covina,306 N Hollow Ave,1,3,"306 N Hollow Ave, West Covina California",34.07518857142857,-117.93646820408162,May 31, 2019
+1410329,Illinois,Robbins,14000  Grace Ave,0,5,"14000  Grace Ave, Robbins Illinois",41.638272,-87.706032,May 30, 2019
+1408289,Texas,Cleveland,26311 TX-321,3,2,"26311 TX-321, Cleveland Texas",30.3428716,-95.089437,May 29, 2019
+1409255,Louisiana,Reserve,300  Homewood Place,1,3,"300  Homewood Place, Reserve Louisiana",29.901432,-90.132499,May 29, 2019
+1407941,Missouri,Saint Louis,5900  Goodfellow Blvd,2,2,"5900  Goodfellow Blvd, Saint Louis Missouri",38.713505,-90.254577,May 27, 2019
+1406330,District of Columbia,Washington,1200  Sumner Rd SE,0,5,"1200  Sumner Rd SE, Washington District of Columbia",38.8610111,-76.9973132,May 27, 2019
+1405445,District of Columbia,Washington,3509 Wheeler Rd SE,1,3,"3509 Wheeler Rd SE, Washington District of Columbia",38.8391879,-76.9939661,May 26, 2019
+1406070,California,Stockton,600  E Oak St,1,3,"600  E Oak St, Stockton California",37.959742,-121.284725,May 26, 2019
+1404417,New Jersey,Trenton,225 Brunswick Ave,0,9,"225 Brunswick Ave, Trenton New Jersey",40.228188,-74.7613154,May 25, 2019
+1404580,Michigan,Detroit,3400  Devonshire,3,2,"3400  Devonshire, Detroit Michigan",42.390306,-82.934373,May 25, 2019
+1405317,Maryland,Baltimore,500  N Belnord Ave,0,4,"500  N Belnord Ave, Baltimore Maryland",39.2971774,-76.5788139657672,May 25, 2019
+1400095,Oklahoma,Tulsa,8118 E 16th St,2,2,"8118 E 16th St, Tulsa Oklahoma",36.13882750251256,-95.88627592964824,May 20, 2019
+1400146,Louisiana,Alexandria,1900  Bacon Street,1,4,"1900  Bacon Street, Alexandria Louisiana",31.286469,-92.455848,May 20, 2019
+1400561,Ohio,Columbus,2424 Sullivant Ave,0,4,"2424 Sullivant Ave, Columbus Ohio",39.945496,-83.06337676923077,May 20, 2019
+1399820,Oregon,Portland,226 SE Madison St,0,5,"226 SE Madison St, Portland Oregon",45.51285467346938,-122.66342134693878,May 19, 2019
+1398553,Alabama,Atmore,100 Martin Luther King Avenue,1,8,"100 Martin Luther King Avenue, Atmore Alabama",31.030228,-87.479607,May 18, 2019
+1398538,Indiana,Muncie,2410 W. Euclid Ave,1,6,"2410 W. Euclid Ave, Muncie Indiana",40.207164310860506,-85.41425244545269,May 18, 2019
+1398593,California,Long Beach,1616 West Pacific Coast Highway,1,4,"1616 West Pacific Coast Highway, Long Beach California",33.7573294,-118.1095781,May 18, 2019
+1398584,Iowa,Cedar Rapids,70 Kirkwood Ct SW,2,2,"70 Kirkwood Ct SW, Cedar Rapids Iowa",41.921432,-91.65560066666666,May 18, 2019
+1400934,Nebraska,Omaha,2825 Y St,0,4,"2825 Y St, Omaha Nebraska",41.19736645,-95.95533831834864,May 18, 2019
+1399346,North Carolina,Winston Salem (Winston-salem),4252 Cody Drive,2,4,"4252 Cody Drive, Winston Salem (Winston-salem) North Carolina",36.15021566666667,-80.25097179166667,May 18, 2019
+1398876,California,Sacramento,7326 Stockton Blvd,1,3,"7326 Stockton Blvd, Sacramento California",38.4752525,-121.4194754,May 17, 2019
+1397521,Ohio,Cleveland,9500 Cardwell Ave,0,4,"9500 Cardwell Ave, Cleveland Ohio",41.43490942068966,-81.61731299310345,May 16, 2019
+1396491,Louisiana,Saint Rose,100  St. Rose Ave,0,4,"100  St. Rose Ave, Saint Rose Louisiana",29.947063,-90.317306,May 15, 2019
+1395560,California,Los Angeles,1248 W 47th St,0,4,"1248 W 47th St, Los Angeles California",34.000551959183674,-118.29718353061224,May 14, 2019
+1394330,Missouri,Saint Louis,4047 Shreve Ave,4,1,"4047 Shreve Ave, Saint Louis Missouri",38.67709588534537,-90.24347266300552,May 13, 2019
+1391971,Pennsylvania,Philadelphia,1900  N Croskey St,0,5,"1900  N Croskey St, Philadelphia Pennsylvania",39.983625,-75.171131,May 10, 2019
+1392313,Missouri,Saint Louis,4000  Ashland Ave,0,6,"4000  Ashland Ave, Saint Louis Missouri",38.662636,-90.226736,May 10, 2019
+1386962,New Jersey,North Bergen,2033 45th Street,1,4,"2033 45th Street, North Bergen New Jersey",40.784431265306125,-74.03441848979593,May 5, 2019
+1386929,Indiana,Indianapolis,101 W Maryland St,0,4,"101 W Maryland St, Indianapolis Indiana",39.765601,-86.160105,May 4, 2019
+1387245,California,Stockton,5105 Holiday Dr,1,4,"5105 Holiday Dr, Stockton California",38.00176548484848,-121.29773948484848,May 4, 2019
+1386481,Texas,Dallas,5400 Cedar Springs Rd,1,3,"5400 Cedar Springs Rd, Dallas Texas",32.7964853,-96.805436,May 3, 2019
+1386085,Maryland,Baltimore,1900  Ramsay St,0,5,"1900  Ramsay St, Baltimore Maryland",39.2833062,-76.64718180980961,May 3, 2019
+1385642,Maryland,Baltimore,2500  E Biddle St,0,4,"2500  E Biddle St, Baltimore Maryland",39.30492815,-76.58252792422567,May 3, 2019
+1384553,Massachusetts,Boston,32 Windermere Rd,1,3,"32 Windermere Rd, Boston Massachusetts",42.31442178249974,-71.06232870353652,May 1, 2019
+1381857,Tennessee,Nashville,1407 Dr DB Todd Jr Blvd,0,7,"1407 Dr DB Todd Jr Blvd, Nashville Tennessee",36.17199037368962,-86.80777886520225,April 28, 2019
+1382099,Alabama,Birmingham,514 19th St Ensley,0,4,"514 19th St Ensley, Birmingham Alabama",33.51308807692308,-86.89666526923078,April 28, 2019
+1381979,Maryland,Baltimore,2544 Edmondson Ave,1,7,"2544 Edmondson Ave, Baltimore Maryland",39.29490475,-76.6577294,April 28, 2019
+1381771,Mississippi,Jackson,700  Monterey St,1,3,"700  Monterey St, Jackson Mississippi",32.2765134,-90.2295984,April 27, 2019
+1381273,California,Poway,16934 Chabad Way,1,3,"16934 Chabad Way, Poway California",33.019129,-117.053245,April 27, 2019
+1377519,Pennsylvania,Philadelphia,1500  South 31st St,0,4,"1500  South 31st St, Philadelphia Pennsylvania",39.935137,-75.195835,April 21, 2019
+1376873,Tennessee,Memphis,761 Chestnut Ave,0,6,"761 Chestnut Ave, Memphis Tennessee",35.1021911557802,-90.03702962771573,April 20, 2019
+1376883,Kansas,Wichita,1628 S George Washington Blvd,0,4,"1628 S George Washington Blvd, Wichita Kansas",37.663970146841,-97.30050247532,April 19, 2019
+1375235,Kentucky,Louisville,4000  Bells Ln,0,4,"4000  Bells Ln, Louisville Kentucky",38.22314908264546,-85.82778844677718,April 18, 2019
+1373557,Maryland,Germantown,18700  Curry Powder Ln,1,3,"18700  Curry Powder Ln, Germantown Maryland",39.162116,-77.264593,April 16, 2019
+1371024,California,Vallejo,100  Princeton Ave,1,3,"100  Princeton Ave, Vallejo California",38.15069,-122.251439,April 14, 2019
+1371065,California,Stockton,2539 E Main St,0,4,"2539 E Main St, Stockton California",37.95489767346939,-121.25132636734692,April 14, 2019
+1374920,California,Moreno Valley,23500  Alessandro Blvd,0,4,"23500  Alessandro Blvd, Moreno Valley California",33.917348,-117.252284,April 13, 2019
+1370269,Illinois,Carbondale,119 N Washington St,0,4,"119 N Washington St, Carbondale Illinois",37.72759638775511,-89.21531165306122,April 12, 2019
+1368597,Maryland,Baltimore,2200  Ruskin Ave,1,3,"2200  Ruskin Ave, Baltimore Maryland",39.3151669,-76.6479371304878,April 11, 2019
+1369148,Arizona,Phoenix,7112 W Minnezona Ave,3,2,"7112 W Minnezona Ave, Phoenix Arizona",33.5032,-112.1053058,April 11, 2019
+1367011,Missouri,Kansas City,5339 Michigan Ave,1,3,"5339 Michigan Ave, Kansas City Missouri",39.02971408163265,-94.5630452244898,April 9, 2019
+1365052,North Carolina,Winston Salem (Winston-salem),515 N Cherry St,0,7,"515 N Cherry St, Winston Salem (Winston-salem) North Carolina",36.1532058,-80.2641373,April 7, 2019
+1365077,Indiana,Indianapolis,3600  Roosevelt Ave,2,2,"3600  Roosevelt Ave, Indianapolis Indiana",39.789843,-86.1314439,April 7, 2019
+1365173,Delaware,Wilmington,940 N Pine St,0,6,"940 N Pine St, Wilmington Delaware",39.74248582378655,-75.54188569878677,April 7, 2019
+1365100,Louisiana,Shreveport,433 Flournoy Lucas Rd,0,4,"433 Flournoy Lucas Rd, Shreveport Louisiana",32.390921201189705,-93.7642496840795,April 7, 2019
+1364443,Florida,Tallahassee,500  Kissimmee St,0,4,"500  Kissimmee St, Tallahassee Florida",30.422674,-84.28979,April 6, 2019
+1364540,Illinois,Chicago,6300  S Seeley Ave,0,6,"6300  S Seeley Ave, Chicago Illinois",41.779177,-87.675231,April 6, 2019
+1363737,Florida,Panama City,100  Allen Ave,1,3,"100  Allen Ave, Panama City Florida",30.14606295,-85.6543396,April 4, 2019
+1362364,Mississippi,Hermanville,13195 MS 18,0,4,"13195 MS 18, Hermanville Mississippi",31.974832,-90.817924,April 2, 2019
+1362182,Kentucky,Covington,337 E 13th St,0,5,"337 E 13th St, Covington Kentucky",39.07729873469388,-84.5026462244898,April 2, 2019
+1360333,Georgia,Atlanta,3041 Landrum Dr SW,1,4,"3041 Landrum Dr SW, Atlanta Georgia",33.70872145,-84.4872344817,March 31, 2019
+1359599,South Carolina,North Charleston,1900  Jacksonville Rd,0,7,"1900  Jacksonville Rd, North Charleston South Carolina",32.846181,-79.963371,March 31, 2019
+1359455,Illinois,Chicago,500  N Hamlin Ave,1,4,"500  N Hamlin Ave, Chicago Illinois",41.890026,-87.721149,March 31, 2019
+1357591,Maryland,Baltimore,6200  Boston St,0,4,"6200  Boston St, Baltimore Maryland",39.278098,-76.541534,March 28, 2019
+1353714,California,San Francisco,1300 Fillmore St,1,5,"1300 Fillmore St, San Francisco California",37.7819302,-122.4319907998516,March 24, 2019
+1354049,Arizona,Phoenix,2202 W McDowell Rd,0,7,"2202 W McDowell Rd, Phoenix Arizona",33.46619405,-112.10670592054822,March 24, 2019
+1350494,Arizona,Phoenix,8526 N 27th Ave,2,4,"8526 N 27th Ave, Phoenix Arizona",33.5613975,-112.117213,March 19, 2019
+1348844,Georgia,Augusta,900  Broad St,0,4,"900  Broad St, Augusta Georgia",33.4835038,-81.9906278,March 17, 2019
+1347974,New Jersey,Camden,619 Ferry Ave,1,3,"619 Ferry Ave, Camden New Jersey",39.921734650000005,-75.11723325858608,March 16, 2019
+1348291,Alabama,Mobile,515 Dauphin Island Pkwy,2,4,"515 Dauphin Island Pkwy, Mobile Alabama",30.672699125,-88.086980625,March 15, 2019
+1347894,Montana,Missoula,5145 Airway Blvd,1,3,"5145 Airway Blvd, Missoula Montana",46.9212779,-114.07162631808843,March 14, 2019
+1344488,New Jersey,Paterson,291 12th Ave,0,4,"291 12th Ave, Paterson New Jersey",40.92052028571428,-74.15216314285715,March 11, 2019
+1343330,Louisiana,Shreveport,2700  San Jacinto Ave,0,4,"2700  San Jacinto Ave, Shreveport Louisiana",32.486633,-93.793027,March 10, 2019
+1343274,Colorado,Denver,15th St and Market St,1,4,"15th St and Market St, Denver Colorado",39.74340455,-104.99364640604428,March 10, 2019
+1338860,California,Oakland,316 14th St,0,4,"316 14th St, Oakland California",37.8032918,-122.26794521119812,March 3, 2019
+1338765,Illinois,Chicago,2900  E 79th St,0,6,"2900  E 79th St, Chicago Illinois",41.75221155,-87.55384788111007,March 3, 2019
+1338790,Arkansas,Pine Bluff,723 East 25th Ave,1,4,"723 East 25th Ave, Pine Bluff Arkansas",34.204705476510064,-91.99490406711408,March 2, 2019
+1337498,California,Oakland,9755 Edes Ave,1,3,"9755 Edes Ave, Oakland California",37.7363465,-122.18419511122462,February 28, 2019
+1333480,Alabama,Birmingham,1100  Carnation Dr,2,2,"1100  Carnation Dr, Birmingham Alabama",33.610463,-86.69705,February 22, 2019
+1331974,Maryland,Baltimore,500  Bloom St,1,4,"500  Bloom St, Baltimore Maryland",39.308274,-76.63653,February 21, 2019
+1332507,Kentucky,Elizabethtown,600 N Miles St,2,2,"600 N Miles St, Elizabethtown Kentucky",37.702497,-85.857174,February 21, 2019
+1332429,Texas,Houston,12800  Eastbrook Dr,2,2,"12800  Eastbrook Dr, Houston Texas",29.7921,-95.211611,February 21, 2019
+1332181,Tennessee,Covington,529 N College St,0,4,"529 N College St, Covington Tennessee",35.57053263802318,-89.64834806637732,February 20, 2019
+1329144,Texas,Henderson,504 S Van Buren St,2,2,"504 S Van Buren St, Henderson Texas",32.14775867591488,-94.80123919324824,February 17, 2019
+1328792,Indiana,Evansville,664 E Illinois St,0,5,"664 E Illinois St, Evansville Indiana",37.97915273659588,-87.55511207052606,February 17, 2019
+1329075,Louisiana,New Orleans,Tulane Ave and Elk Pl,1,5,"Tulane Ave and Elk Pl, New Orleans Louisiana",29.9547806,-90.0747492,February 17, 2019
+1328562,Mississippi,Clinton,1214 Foxhill Dr,5,0,"1214 Foxhill Dr, Clinton Mississippi",32.35158449983749,-90.32070767375632,February 16, 2019
+1327321,Illinois,Aurora,641 Archer Ave,6,6,"641 Archer Ave, Aurora Illinois",41.75467578885646,-88.33155768609075,February 15, 2019
+1323448,Virginia,Petersburg,109 Perry St,0,4,"109 Perry St, Petersburg Virginia",37.2249136,-77.4075702,February 9, 2019
+1321021,New York,Brooklyn,1778 Fulton St,1,3,"1778 Fulton St, Brooklyn New York",40.6790201,-73.92839927208658,February 6, 2019
+1321093,Texas,San Antonio,538 Hot Wells Blvd,2,2,"538 Hot Wells Blvd, San Antonio Texas",29.368589743589745,-98.45872261538462,February 5, 2019
+1319333,District of Columbia,Washington,2341 Pennsylvania Ave SE,0,5,"2341 Pennsylvania Ave SE, Washington District of Columbia",38.873655,-76.97176536726741,February 4, 2019
+1319325,Louisiana,Baton Rouge,4000  Topeka St,0,4,"4000  Topeka St, Baton Rouge Louisiana",30.485756,-91.161039,February 4, 2019
+1318391,Illinois,Chicago,938 E 75th St,2,5,"938 E 75th St, Chicago Illinois",41.7588587,-87.60135651427973,February 3, 2019
+1318187,California,San Diego,6800  Springfield St,0,4,"6800  Springfield St, San Diego California",32.728102574201074,-117.05255378116574,February 1, 2019
+1314289,Texas,Houston,7815 Harding St,2,5,"7815 Harding St, Houston Texas",29.709265666666663,-95.28200703030303,January 28, 2019
+1314253,Alabama,Birmingham,Avenue O and Warrior Rd,0,5,"Avenue O and Warrior Rd, Birmingham Alabama",33.493207,-86.887492,January 27, 2019
+1312284,Louisiana,Gonzales,42350 Church Point Rd,5,0,"42350 Church Point Rd, Gonzales Louisiana",30.240077,-90.9117197,January 26, 2019
+1312463,Indiana,Indianapolis,2957 N Sherman Dr,0,5,"2957 N Sherman Dr, Indianapolis Indiana",39.809869181818186,-86.10245087878788,January 26, 2019
+1313291,New Jersey,Newark,612 Bergen St,1,3,"612 Bergen St, Newark New Jersey",40.723154,-74.199366,January 26, 2019
+1310775,Pennsylvania,State College,1450 S Atherton St,4,1,"1450 S Atherton St, State College Pennsylvania",40.7841103,-77.83927003044751,January 24, 2019
+1310397,Georgia,Rockmart,319 Williamson St,4,1,"319 Williamson St, Rockmart Georgia",33.9989894,-85.0592112,January 24, 2019
+1309114,Florida,Sebring,1901 US 27 S,5,0,"1901 US 27 S, Sebring Florida",27.4744766,-81.4705353,January 23, 2019
+1306920,Florida,Miami,26133 SW 139th Ave,0,4,"26133 SW 139th Ave, Miami Florida",25.52410962,-80.41663603,January 20, 2019
+1305563,Pennsylvania,Lebanon,1140 Church St,0,4,"1140 Church St, Lebanon Pennsylvania",40.34363326470588,-76.43149617647059,January 19, 2019
+1305679,South Carolina,Gaffney,1435 Wilcox Ave,1,4,"1435 Wilcox Ave, Gaffney South Carolina",35.0999315,-81.6485701,January 19, 2019
+1305516,Illinois,Chicago,4400  W Madison St,0,4,"4400  W Madison St, Chicago Illinois",41.8810143,-87.73579477526249,January 19, 2019
+1305538,Florida,Jacksonville,11445 Brian Lakes Drive,3,2,"11445 Brian Lakes Drive, Jacksonville Florida",30.26923336912752,-81.85716811409395,January 19, 2019
+1305294,Texas,Houston,7041 Sherman St,3,2,"7041 Sherman St, Houston Texas",29.73744773469388,-95.3004930612245,January 19, 2019
+1303486,Kentucky,Owensboro,940 Audubon Ave,3,1,"940 Audubon Ave, Owensboro Kentucky",37.76559798564758,-87.12733799076985,January 17, 2019
+1301778,Arkansas,Little Rock,5420 Baseline Rd,1,4,"5420 Baseline Rd, Little Rock Arkansas",34.668979,-92.338487,January 15, 2019
+1299680,Arizona,Phoenix,2445 E Van Buren St,1,5,"2445 E Van Buren St, Phoenix Arizona",33.45126563636364,-112.0286641818182,January 13, 2019
+1295294,New Mexico,Roswell,1300  W College Blvd,0,4,"1300  W College Blvd, Roswell New Mexico",33.40857048965517,-104.54021768965517,January 6, 2019
+1293054,California,Torrance,22501 Hawthorne Blvd,3,4,"22501 Hawthorne Blvd, Torrance California",33.8240713,-118.35243636862069,January 4, 2019
+1291779,Arkansas,Jonesboro,3516 Galaxy St,1,3,"3516 Galaxy St, Jonesboro Arkansas",35.822098204081634,-90.65854204081631,January 2, 2019
+1289618,Florida,Tallahassee,2020 W Pensacola St,0,5,"2020 W Pensacola St, Tallahassee Florida",30.4420076,-84.3209528,January 1, 2019
+1891461,Indiana,Indianapolis,8215 Center Run Road,1,3,"8215 Center Run Road, Indianapolis Indiana",39.9114061,-86.0579872,December 31, 2020
+1890946,Oregon,Happy Valley,9200  SE Idleman Rd,0,4,"9200  SE Idleman Rd, Happy Valley Oregon",45.4468814,-122.5455682,December 31, 2020
+1886974,Illinois,Rockford,4007 E State St,3,3,"4007 E State St, Rockford Illinois",42.26478065,-89.03591104308833,December 26, 2020
+1886141,Florida,Lakeland,1500  Amos Ave,1,4,"1500  Amos Ave, Lakeland Florida",28.064394,-81.96728,December 24, 2020
+1882214,Connecticut,Bridgeport,456 Connecticut Ave,2,2,"456 Connecticut Ave, Bridgeport Connecticut",41.1790316,-73.1685631,December 20, 2020
+1881213,Illinois,Chicago,8936 S Cottage Grove Ave,0,6,"8936 S Cottage Grove Ave, Chicago Illinois",41.73187625,-87.6051181851272,December 19, 2020
+1877043,California,San Bernardino,900  N Sierra Way,1,3,"900  N Sierra Way, San Bernardino California",34.115939,-117.285271,December 12, 2020
+1876231,New York,Copiague,2336 Great Neck Rd,2,2,"2336 Great Neck Rd, Copiague New York",40.68517279591837,-73.4013027755102,December 12, 2020
+1876039,New York,Brooklyn,574 Warren St,0,4,"574 Warren St, Brooklyn New York",40.6815732,-73.9822647,December 12, 2020
+1877628,Georgia,Tifton,700  17 1/2 St,0,4,"700  17 1/2 St, Tifton Georgia",31.442481,-83.523826,December 10, 2020
+1877122,Mississippi,Jackson,1805 Hospital Dr,0,5,"1805 Hospital Dr, Jackson Mississippi",32.28600085856195,-90.25381152770268,December 10, 2020
+1873798,Louisiana,Lacombe,28399 Palmer Dr,2,3,"28399 Palmer Dr, Lacombe Louisiana",30.297749,-89.936108,December 8, 2020
+1870827,Texas,Venus,6100 N FM 157,0,6,"6100 N FM 157, Venus Texas",32.457022,-97.118458,December 6, 2020
+1871627,California,Hayward,25000  Eldridge Ave,1,3,"25000  Eldridge Ave, Hayward California",37.6400767,-122.0896277,December 5, 2020
+1869748,Illinois,Chicago,4400  W Adams St,0,4,"4400  W Adams St, Chicago Illinois",41.87835895,-87.73628820535262,December 4, 2020
+1866100,Alaska,Palmer,335 N Valley Way,4,0,"335 N Valley Way, Palmer Alaska",61.60936946472229,-149.1085195271135,November 30, 2020
+1864683,Mississippi,Grenada,Highway 8 East,0,11,"Highway 8 East, Grenada Mississippi",33.7810718,-89.763332,November 29, 2020
+1865110,Tennessee,Memphis,3492 W Metropolitan Cir,2,3,"3492 W Metropolitan Cir, Memphis Tennessee",35.05331714141414,-89.94050187878788,November 29, 2020
+1863726,South Carolina,Aiken,1695 Richland Ave E,1,10,"1695 Richland Ave E, Aiken South Carolina",33.55508294779116,-81.70199562048192,November 28, 2020
+1864177,Louisiana,New Orleans,7001 Lawrence Rd,0,4,"7001 Lawrence Rd, New Orleans Louisiana",30.02929202020202,-89.99792624242424,November 28, 2020
+1862947,Georgia,Macon,425 Cherry St,1,5,"425 Cherry St, Macon Georgia",32.8350135,-83.6262445,November 27, 2020
+1863099,Ohio,Toledo,3257 Stickney Ave,0,6,"3257 Stickney Ave, Toledo Ohio",41.6827107,-83.52712725,November 27, 2020
+1858455,Illinois,Chicago,700  E 101st St,1,3,"700  E 101st St, Chicago Illinois",41.71107365,-87.60532948997053,November 22, 2020
+1859390,New York,Brooklyn,15 Albany Ave,1,6,"15 Albany Ave, Brooklyn New York",40.6802905,-73.93807015832444,November 22, 2020
+1859186,Louisiana,New Orleans,9232 Chef Menteur Hwy,1,3,"9232 Chef Menteur Hwy, New Orleans Louisiana",30.0157379,-89.97793159874563,November 22, 2020
+1858965,Nebraska,Bellevue,1307 Cornhusker Rd,2,2,"1307 Cornhusker Rd, Bellevue Nebraska",41.15822676463454,-95.932753293723,November 21, 2020
+1857040,Wisconsin,Milwaukee (Wauwatosa),2500 N Mayfair Rd,0,8,"2500 N Mayfair Rd, Milwaukee (Wauwatosa) Wisconsin",43.0351663,-88.0469057,November 20, 2020
+1856417,Florida,Haines City,422 N 15th St,1,3,"422 N 15th St, Haines City Florida",28.113707154098723,-81.61965974793983,November 19, 2020
+1855276,Texas,Houston,11614 Manor Park Dr,3,2,"11614 Manor Park Dr, Houston Texas",29.74820632249355,-95.58289164637128,November 18, 2020
+1856338,South Carolina,Florence,500  Gaillard St,0,4,"500  Gaillard St, Florence South Carolina",34.190412,-79.757099,November 18, 2020
+1854207,Tennessee,Jackson,Honey Bear Cove,0,4,"Honey Bear Cove, Jackson Tennessee",35.6542059,-88.8659825,November 17, 2020
+1854149,Florida,Miami,200  S Biscayne River Dr,0,4,"200  S Biscayne River Dr, Miami Florida",25.913662700000003,-80.20393278844838,November 16, 2020
+1853615,Illinois,Chicago,700  S Pulaski Rd,0,4,"700  S Pulaski Rd, Chicago Illinois",41.8724183,-87.72571934999999,November 16, 2020
+1854076,Illinois,Chicago,2700  S State St,0,4,"2700  S State St, Chicago Illinois",41.8241182,-87.6264245,November 16, 2020
+1852831,Louisiana,Shreveport,300  Douglas St,0,5,"300  Douglas St, Shreveport Louisiana",32.510891,-93.754692,November 15, 2020
+1852604,South Carolina,Sumter,1008 Marilyn Ave,3,1,"1008 Marilyn Ave, Sumter South Carolina",33.947538,-80.346871,November 14, 2020
+1852853,Missouri,Fulton,1915 N Bluff St,0,4,"1915 N Bluff St, Fulton Missouri",38.8666874960214,-91.94392001840868,November 14, 2020
+1852161,Ohio,Cincinnati,400  Kings Run Dr,0,4,"400  Kings Run Dr, Cincinnati Ohio",39.179708,-84.515756,November 14, 2020
+1850981,Florida,Tampa,1200  E Palifox St,2,4,"1200  E Palifox St, Tampa Florida",27.98741,-82.446911,November 12, 2020
+1850693,North Carolina,Gastonia,1225 Union Rd,0,6,"1225 Union Rd, Gastonia North Carolina",35.24796863265306,-81.17437318367347,November 12, 2020
+1847840,Texas,Fort Worth,5310 E Rosedale St,0,4,"5310 E Rosedale St, Fort Worth Texas",32.7294397,-97.2246089,November 9, 2020
+1846712,Virginia,Virginia Beach,3700  Whitney Ct,0,4,"3700  Whitney Ct, Virginia Beach Virginia",36.797646,-76.105616,November 8, 2020
+1846764,Kansas,Ogden,225 Riley Ave,0,4,"225 Riley Ave, Ogden Kansas",39.1164763,-96.7099404,November 7, 2020
+1845690,South Carolina,Rock Hill,241 Albright Rd,1,3,"241 Albright Rd, Rock Hill South Carolina",34.91290869387755,-81.00946263265307,November 7, 2020
+1845477,Louisiana,New Orleans,8622 Belfast St,2,2,"8622 Belfast St, New Orleans Louisiana",29.961879,-90.1228922,November 6, 2020
+1844573,Ohio,Toledo,2125 Parkwood Ave,3,2,"2125 Parkwood Ave, Toledo Ohio",41.662610040816325,-83.55723195918368,November 5, 2020
+1843360,Missouri,Jefferson City,1299 Lafayette St,0,4,"1299 Lafayette St, Jefferson City Missouri",38.561373,-92.17623,November 4, 2020
+1842362,Nevada,Henderson,1445 Stonelake Cove Ave,4,1,"1445 Stonelake Cove Ave, Henderson Nevada",36.036878,-115.0491305,November 3, 2020
+1842421,Ohio,Mansfield,136 Sturges Ave,0,5,"136 Sturges Ave, Mansfield Ohio",40.75505649204708,-82.52353369865747,November 2, 2020
+1840265,Indiana,Evansville,664 E Illinois St,0,4,"664 E Illinois St, Evansville Indiana",37.97915273659588,-87.55511207052606,November 1, 2020
+1840364,Oklahoma,Oklahoma City,10601 S Western Ave,1,3,"10601 S Western Ave, Oklahoma City Oklahoma",35.35929969696969,-97.529900489899,November 1, 2020
+1840600,Arizona,Tucson,2500  E Aerospace Parkway,2,2,"2500  E Aerospace Parkway, Tucson Arizona",32.0834341,-110.9448075,November 1, 2020
+1840310,New Jersey,Atlantic City,2721 Arctic Ave,1,4,"2721 Arctic Ave, Atlantic City New Jersey",39.356735,-74.446434,November 1, 2020
+1839628,California,Sacramento,2800  Normington Dr,0,4,"2800  Normington Dr, Sacramento California",38.615656,-121.480179,October 31, 2020
+1839462,California,Anaheim,1210 S State College Blvd,0,4,"1210 S State College Blvd, Anaheim California",33.8049331,-117.8892983,October 31, 2020
+1840544,Nevada,North Las Vegas,3700  Iverson Ln,0,4,"3700  Iverson Ln, North Las Vegas Nevada",36.227211,-115.171358,October 31, 2020
+1840041,Maryland,College Park,7700 Baltimore Ave,0,7,"7700 Baltimore Ave, College Park Maryland",38.9990301,-76.9314133,October 31, 2020
+1839112,Maryland,Waldorf,2177 Crain Hwy,1,3,"2177 Crain Hwy, Waldorf Maryland",38.65161456800392,-76.88198554132691,October 30, 2020
+1839065,Illinois,Chicago,11613 S Vincennes Ave,1,3,"11613 S Vincennes Ave, Chicago Illinois",41.6979977,-87.6592612,October 30, 2020
+1838368,Florida,Winter Garden,Center St and 11th St,0,4,"Center St and 11th St, Winter Garden Florida",28.56675262774404,-81.575101197571,October 29, 2020
+1837146,Virginia,Roanoke,1400  Rorer Ave SW,0,4,"1400  Rorer Ave SW, Roanoke Virginia",37.273674,-79.96475,October 28, 2020
+1837429,New Jersey,Newark,381 S 6th St,1,3,"381 S 6th St, Newark New Jersey",40.7345143046875,-74.1988283671875,October 28, 2020
+1834216,Texas,Fort Worth,1900  Carver Ave,2,3,"1900  Carver Ave, Fort Worth Texas",32.77281265,-97.32193390557693,October 25, 2020
+1835030,Texas,San Antonio,2800  W Hutchins Pl,1,3,"2800  W Hutchins Pl, San Antonio Texas",29.34552595785157,-98.55036692551816,October 25, 2020
+1834280,North Carolina,Raleigh,1731 Trawick Rd,1,3,"1731 Trawick Rd, Raleigh North Carolina",35.79893447133144,-78.57785881541996,October 25, 2020
+1832977,Louisiana,Rayne,I-10,0,5,"I-10, Rayne Louisiana",30.2524537,-92.2700489,October 22, 2020
+1831091,Maryland,Baltimore,500  W Franklin St,0,4,"500  W Franklin St, Baltimore Maryland",39.2949659,-76.6227837,October 22, 2020
+1830822,Mississippi,Canton,1427 W Peace St,2,2,"1427 W Peace St, Canton Mississippi",32.6097419,-90.0571763,October 21, 2020
+1830092,Texas,Houston,2117 Chenevert St,3,1,"2117 Chenevert St, Houston Texas",29.7437676,-95.3646646,October 20, 2020
+1829132,Ohio,Mansfield,136 Sturges Ave,0,5,"136 Sturges Ave, Mansfield Ohio",40.75505649204708,-82.52353369865747,October 19, 2020
+1828796,Louisiana,New Orleans,2599 N Prieur St,1,3,"2599 N Prieur St, New Orleans Louisiana",29.977273,-90.04853,October 19, 2020
+1827437,Maryland,Annapolis,100  Clay St,1,3,"100  Clay St, Annapolis Maryland",38.9798655,-76.49833742714418,October 18, 2020
+1828080,Illinois,Chicago,200  N Sacramento Blvd,1,4,"200  N Sacramento Blvd, Chicago Illinois",41.88504,-87.701427,October 18, 2020
+1828019,Tennessee,Nashville,1100  W Grove Ave,0,4,"1100  W Grove Ave, Nashville Tennessee",36.134798,-86.78715,October 18, 2020
+1826680,New York,Lockport,43 S Niagara St,1,5,"43 S Niagara St, Lockport New York",43.170086,-78.6961874,October 17, 2020
+1826613,South Carolina,Rock Hill,524 N Anderson Rd,0,5,"524 N Anderson Rd, Rock Hill South Carolina",34.95187364110874,-80.99748093800996,October 17, 2020
+1826444,California,San Jose,175 S Capitol Ave,2,4,"175 S Capitol Ave, San Jose California",37.35954529999999,-121.8337092022589,October 16, 2020
+1826655,Arizona,Mesa,2115 Guadalupe Rd,1,6,"2115 Guadalupe Rd, Mesa Arizona",33.36394451515152,-111.8790723939394,October 16, 2020
+1824979,Louisiana,Lafayette,100  Laser Ln,2,2,"100  Laser Ln, Lafayette Louisiana",30.270331,-92.033135,October 15, 2020
+1825896,Maryland,Baltimore,2900  Westwood Ave,0,7,"2900  Westwood Ave, Baltimore Maryland",39.3083083,-76.66625540508456,October 15, 2020
+1824073,Pennsylvania,Philadelphia,3900   Buist Ave,0,4,"3900   Buist Ave, Philadelphia Pennsylvania",39.9181715,-75.2330066,October 14, 2020
+1821574,South Carolina,Myrtle Beach,1012 US-501,2,3,"1012 US-501, Myrtle Beach South Carolina",33.695636729505054,-78.8915696331207,October 12, 2020
+1821496,Georgia,Atlanta,330 W Peachtree St NW,0,4,"330 W Peachtree St NW, Atlanta Georgia",33.7635436,-84.38786587462067,October 11, 2020
+1820156,Illinois,Chicago,100  S Keeler Ave,1,3,"100  S Keeler Ave, Chicago Illinois",41.879577,-87.730647,October 10, 2020
+1819955,Missouri,Saint Louis (Jennings),8800  Shannon Fox Cir,2,2,"8800  Shannon Fox Cir, Saint Louis (Jennings) Missouri",38.731843,-90.257334,October 10, 2020
+1818055,Pennsylvania,Philadelphia,4935 Frankford Ave,1,6,"4935 Frankford Ave, Philadelphia Pennsylvania",40.01984744444445,-75.0807091111111,October 8, 2020
+1817184,New York,Brooklyn,181 Hegeman Ave,1,3,"181 Hegeman Ave, Brooklyn New York",40.65680635,-73.90521497650553,October 7, 2020
+1815308,District of Columbia,Washington,400  Orange St SE,1,3,"400  Orange St SE, Washington District of Columbia",38.84684995,-77.00376007469552,October 5, 2020
+1813872,Indiana,Indianapolis,5462 Massachusetts Ave,3,4,"5462 Massachusetts Ave, Indianapolis Indiana",39.81497953350742,-86.07509677020012,October 4, 2020
+1814148,Georgia,Atlanta,1570 Joseph E Boone Blvd NW,1,5,"1570 Joseph E Boone Blvd NW, Atlanta Georgia",33.76348957142857,-84.43887385714285,October 4, 2020
+1813306,Tennessee,Clarksville,100  Tiny Town Rd,0,5,"100  Tiny Town Rd, Clarksville Tennessee",36.630173,-87.432776,October 3, 2020
+1812838,Washington,Seattle,9700  59th Ave S,0,4,"9700  59th Ave S, Seattle Washington",47.515073,-122.259246,October 2, 2020
+1812049,Michigan,Detroit,15018 Houston Whittier St,0,5,"15018 Houston Whittier St, Detroit Michigan",42.42066918181818,-82.96716281818182,October 1, 2020
+1810696,North Carolina,Greensboro,700  Milton St,0,4,"700  Milton St, Greensboro North Carolina",36.06751,-79.825684,September 30, 2020
+1810881,Florida,Jacksonville,12517 Beach Blvd,0,4,"12517 Beach Blvd, Jacksonville Florida",30.2887629,-81.4915596,September 30, 2020
+1810358,Wisconsin,Milwaukee,4217 W Fond du Lac Ave,0,7,"4217 W Fond du Lac Ave, Milwaukee Wisconsin",43.081938541666666,-87.96591439583334,September 30, 2020
+1809910,Pennsylvania,Philadelphia,4500  N 19th St,0,5,"4500  N 19th St, Philadelphia Pennsylvania",40.022635,-75.156589,September 29, 2020
+1809484,Ohio,Painesville,100  Morse Ave,2,2,"100  Morse Ave, Painesville Ohio",41.723862936900055,-81.25117325991226,September 29, 2020
+1807325,Michigan,Detroit,6609 Michigan Ave,0,6,"6609 Michigan Ave, Detroit Michigan",42.33104742857143,-83.12473442857143,September 28, 2020
+1808628,California,San Bernardino,900  N Sierra Way,1,3,"900  N Sierra Way, San Bernardino California",34.115939,-117.285271,September 27, 2020
+1807096,Tennessee,Nashville,619 Millwood Dr,0,4,"619 Millwood Dr, Nashville Tennessee",36.13109732754723,-86.7138425929531,September 27, 2020
+1807046,Pennsylvania,Philadelphia,100  N Lindenwood St,0,4,"100  N Lindenwood St, Philadelphia Pennsylvania",39.961863,-75.225933,September 26, 2020
+1806035,Alabama,Enterprise,507 Glover Ave,1,3,"507 Glover Ave, Enterprise Alabama",31.31934407025397,-85.84701851908962,September 26, 2020
+1806002,Iowa,Waterloo,501 W 4th St,2,6,"501 W 4th St, Waterloo Iowa",42.492634,-92.342537,September 26, 2020
+1805722,Illinois,Chicago,2400  W Lithuanian Plaza Ct,0,4,"2400  W Lithuanian Plaza Ct, Chicago Illinois",41.7682602,-87.6882371,September 26, 2020
+1806368,Missouri,Saint Louis,4700  Vernon Ave,0,5,"4700  Vernon Ave, Saint Louis Missouri",38.65687464646464,-90.2545756969697,September 26, 2020
+1806500,Pennsylvania,Philadelphia,1300  Sanger St,0,4,"1300  Sanger St, Philadelphia Pennsylvania",40.026701,-75.078768,September 25, 2020
+1802862,Minnesota,Minneapolis,200 W Broadway Ave,0,5,"200 W Broadway Ave, Minneapolis Minnesota",45.011374,-93.3167106,September 23, 2020
+1800886,Ohio,Struthers,111 Perry St,1,4,"111 Perry St, Struthers Ohio",41.0514621346764,-80.58748364955382,September 21, 2020
+1799748,Illinois,Chicago,12200  S May St,0,4,"12200  S May St, Chicago Illinois",41.67209,-87.6505352306892,September 19, 2020
+1799703,Illinois,Chicago,6900  S Claremont Ave,0,4,"6900  S Claremont Ave, Chicago Illinois",41.767767,-87.68212,September 19, 2020
+1800188,New Jersey,Plainfield,523 W 3rd St,0,4,"523 W 3rd St, Plainfield New Jersey",40.61288316326531,-74.4268060612245,September 19, 2020
+1799307,New York,Rochester,278 Pennsylvania Ave,2,14,"278 Pennsylvania Ave, Rochester New York",43.1666065,-77.5828153,September 19, 2020
+1800779,Arkansas,West Memphis,900  Winchell St,0,5,"900  Winchell St, West Memphis Arkansas",35.1347,-90.190041,September 19, 2020
+1799160,Arkansas,Little Rock,5311 Mabelvale Pike,0,4,"5311 Mabelvale Pike, Little Rock Arkansas",34.70139724410778,-92.3414465931537,September 18, 2020
+1797620,Pennsylvania,Philadelphia,1800 Wallace St,2,3,"1800 Wallace St, Philadelphia Pennsylvania",39.965893,-75.167398,September 16, 2020
+1796684,California,San Jose,600  S 8th St,2,4,"600  S 8th St, San Jose California",37.330548,-121.876208,September 15, 2020
+1796638,Illinois,Chicago,3500  W Lawrence Ave,0,5,"3500  W Lawrence Ave, Chicago Illinois",41.9685564,-87.71613464269521,September 15, 2020
+1795391,Louisiana,Baker,Burgess Dr,0,4,"Burgess Dr, Baker Louisiana",30.6040888,-91.1532834,September 14, 2020
+1794138,Tennessee,Manchester,I-24 and McMinnville Hwy,3,3,"I-24 and McMinnville Hwy, Manchester Tennessee",35.5131424,-86.0410641,September 13, 2020
+1793826,Michigan,Grand Rapids,3950 Stahl Dr SE,0,7,"3950 Stahl Dr SE, Grand Rapids Michigan",42.9145322,-85.5705967,September 13, 2020
+1793559,Florida,Tampa,5110 N 40th St,0,4,"5110 N 40th St, Tampa Florida",27.991831591836736,-82.41418920408162,September 13, 2020
+1794086,Illinois,Chicago,6100  S Throop St,1,3,"6100  S Throop St, Chicago Illinois",41.783084,-87.65725,September 13, 2020
+1793521,New Jersey,New Brunswick,32 Delafield St,2,7,"32 Delafield St, New Brunswick New Jersey",40.49909351724138,-74.45650310344827,September 13, 2020
+1792650,Illinois,Chicago,100  N Pine Ave,2,4,"100  N Pine Ave, Chicago Illinois",41.882387,-87.763371,September 12, 2020
+1791482,Louisiana,New Orleans,4100  Rayne Dr,3,2,"4100  Rayne Dr, New Orleans Louisiana",29.999099,-90.072074,September 10, 2020
+1788401,Maryland,Baltimore,2300  Greenmount Ave,0,5,"2300  Greenmount Ave, Baltimore Maryland",39.31536404444444,-76.60963104444444,September 8, 2020
+1788168,Louisiana,New Orleans,1500  Freret St,0,4,"1500  Freret St, New Orleans Louisiana",29.943825,-90.084386,September 7, 2020
+1787977,Tennessee,Memphis,6555 Lost Oak Dr,0,4,"6555 Lost Oak Dr, Memphis Tennessee",35.061264137052326,-89.84410174104657,September 6, 2020
+1786829,Colorado,Commerce City,6700  Birch St,0,4,"6700  Birch St, Commerce City Colorado",39.81845866085633,-104.9364530307874,September 6, 2020
+1787286,Missouri,Kansas City,3999 Swope Pkwy,0,6,"3999 Swope Pkwy, Kansas City Missouri",39.03844825120736,-94.5475482353184,September 6, 2020
+1786890,Missouri,Saint Louis,5700  Minerva Ave,1,3,"5700  Minerva Ave, Saint Louis Missouri",38.667466,-90.281083,September 6, 2020
+1787006,Louisiana,New Iberia,1752 Center St,0,5,"1752 Center St, New Iberia Louisiana",29.987502666666668,-91.83781988888887,September 6, 2020
+1787387,Maryland,Baltimore,4900  Reisterstown Rd,0,4,"4900  Reisterstown Rd, Baltimore Maryland",39.34198445,-76.67815505857888,September 6, 2020
+1786488,Texas,Houston,9940 Fondren Rd,0,4,"9940 Fondren Rd, Houston Texas",29.6560782,-95.5083596,September 5, 2020
+1786449,Maryland,Baltimore,2000  W Lexington St,1,3,"2000  W Lexington St, Baltimore Maryland",39.290591,-76.648993,September 5, 2020
+1786806,Arkansas,Little Rock,400 President Clinton Ave,0,4,"400 President Clinton Ave, Little Rock Arkansas",34.7476875,-92.2665069,September 5, 2020
+1805455,South Carolina,Anderson,R St and Chase Ave,1,3,"R St and Chase Ave, Anderson South Carolina",34.527349,-82.48418,September 3, 2020
+1785358,Florida,Miami,2000  NW 71st St,1,3,"2000  NW 71st St, Miami Florida",25.839341,-80.230413,September 3, 2020
+1785108,Pennsylvania,Philadelphia,700  E Chelten Ave,0,6,"700  E Chelten Ave, Philadelphia Pennsylvania",40.044289,-75.1659,September 3, 2020
+1785593,Arkansas,Little Rock,19 Nandina Cir,0,4,"19 Nandina Cir, Little Rock Arkansas",34.654174,-92.431086,September 3, 2020
+1783582,Pennsylvania,Philadelphia,1800  Moore St,2,2,"1800  Moore St, Philadelphia Pennsylvania",39.928806,-75.175465,September 2, 2020
+1784141,Georgia,Albany,1400  E Residence Ave,1,3,"1400  E Residence Ave, Albany Georgia",31.582041,-84.1198,September 2, 2020
+1825993,Pennsylvania,Philadelphia,1500  W Clearfield St,0,5,"1500  W Clearfield St, Philadelphia Pennsylvania",40.00016,-75.155078,August 31, 2020
+1782962,Florida,Tallahassee,2660 Old Bainbridge Rd,0,4,"2660 Old Bainbridge Rd, Tallahassee Florida",30.480035810313662,-84.31675680395956,August 31, 2020
+1780301,Kentucky,Lexington,545 N Upper St,0,7,"545 N Upper St, Lexington Kentucky",38.0546493,-84.48873401231398,August 30, 2020
+1780199,Illinois,Zion,2300  Joppa Ave,1,3,"2300  Joppa Ave, Zion Illinois",42.45402,-87.853372,August 30, 2020
+1779981,New York,Buffalo,500  Fillmore Ave,1,4,"500  Fillmore Ave, Buffalo New York",42.88705066542078,-78.83935373592054,August 30, 2020
+1784122,Pennsylvania,Philadelphia,5317 Oxford Ave,0,4,"5317 Oxford Ave, Philadelphia Pennsylvania",40.02890888,-75.08520088,August 30, 2020
+1779718,Illinois,Chicago,11601 S Western Ave,1,4,"11601 S Western Ave, Chicago Illinois",41.682405,-87.68046094091581,August 30, 2020
+1780091,Kentucky,Madisonville,400  Elm St,0,5,"400  Elm St, Madisonville Kentucky",37.335783,-87.504939,August 30, 2020
+1778571,Illinois,Rock Island,1800 2nd Ave,1,5,"1800 2nd Ave, Rock Island Illinois",41.510145,-90.513777,August 29, 2020
+1778435,Minnesota,Minneapolis,2400  Irving Ave N,0,4,"2400  Irving Ave N, Minneapolis Minnesota",44.9781921,-93.2994505,August 28, 2020
+1778542,Pennsylvania,Chester,2900  W 2nd St,1,3,"2900  W 2nd St, Chester Pennsylvania",39.8363627,-75.3793086,August 28, 2020
+1779023,Texas,Dallas,2600  Elm St,1,4,"2600  Elm St, Dallas Texas",32.784043,-96.786382,August 28, 2020
+1777607,Oregon,Portland,10500  NE Halsey St,1,3,"10500  NE Halsey St, Portland Oregon",45.5335814,-122.5758782,August 27, 2020
+1777180,Michigan,Pontiac,252 Carriage Circle Dr,3,1,"252 Carriage Circle Dr, Pontiac Michigan",42.63206786058176,-83.26167142451234,August 26, 2020
+1777400,Pennsylvania,Philadelphia,5500  Chew Ave,0,4,"5500  Chew Ave, Philadelphia Pennsylvania",40.04332,-75.161499,August 26, 2020
+1776189,Virginia,Norfolk,800  E Princess Anne Rd,0,5,"800  E Princess Anne Rd, Norfolk Virginia",36.857574,-76.276222,August 25, 2020
+1775249,New York,Rochester,70  Flower St,0,4,"70  Flower St, Rochester New York",43.17648205263158,-77.61593194736842,August 25, 2020
+1774123,Michigan,Detroit,11938 E McNichols Rd,0,4,"11938 E McNichols Rd, Detroit Michigan",42.4193932,-83.0288484,August 24, 2020
+1773194,California,Sacramento,1200  Helena Ave,1,3,"1200  Helena Ave, Sacramento California",38.616462,-121.439084,August 24, 2020
+1774138,Florida,West Palm Beach,1000  18th St,0,4,"1000  18th St, West Palm Beach Florida",26.729438,-80.06132,August 24, 2020
+1773996,Virginia,Richmond,2300  Bethel St,1,4,"2300  Bethel St, Richmond Virginia",37.555212,-77.418447,August 24, 2020
+1772623,Arkansas,Pine Bluff,2901 W 28th Ave,0,7,"2901 W 28th Ave, Pine Bluff Arkansas",34.2019,-92.032557,August 23, 2020
+1772513,New York,Brooklyn,2946 W 23rd St,1,3,"2946 W 23rd St, Brooklyn New York",40.574682512195125,-73.98992443902439,August 23, 2020
+1772438,Illinois,Champaign,100  Kenwood Rd,0,4,"100  Kenwood Rd, Champaign Illinois",40.11358046625767,-88.28620325460122,August 23, 2020
+1773006,Illinois,Chicago,6600 S Halsted St,0,4,"6600 S Halsted St, Chicago Illinois",41.77403595,-87.64501918937961,August 23, 2020
+1772764,Illinois,Rockford,1300  10th St,1,3,"1300  10th St, Rockford Illinois",42.254077,-89.075189,August 22, 2020
+1769444,Pennsylvania,Philadelphia,700  S 55th St,0,4,"700  S 55th St, Philadelphia Pennsylvania",39.949594,-75.233242,August 19, 2020
+1769489,Illinois,Chicago,8500  S Parnell Ave,0,6,"8500  S Parnell Ave, Chicago Illinois",41.739499,-87.637764,August 19, 2020
+1767747,Illinois,Rockford,3001 Harney Ct,0,4,"3001 Harney Ct, Rockford Illinois",42.261662,-89.048798,August 18, 2020
+1767402,Texas,Dayton,County Rd 4901,3,2,"County Rd 4901, Dayton Texas",39.745144,-84.265202,August 17, 2020
+1765624,Ohio,Cincinnati,700  Chalfonte Pl,1,3,"700  Chalfonte Pl, Cincinnati Ohio",39.150064,-84.487695,August 16, 2020
+1765636,Ohio,Cincinnati,70 E McMicken Ave,2,9,"70 E McMicken Ave, Cincinnati Ohio",39.11525489473684,-84.51499547368421,August 16, 2020
+1765658,Kentucky,Lexington,1000  Newtown Ct,1,3,"1000  Newtown Ct, Lexington Kentucky",38.077166,-84.493804,August 16, 2020
+1766423,Ohio,Cincinnati,700  Chalfonte Pl,1,3,"700  Chalfonte Pl, Cincinnati Ohio",39.150064,-84.487695,August 16, 2020
+1766380,Colorado,Denver,W Alameda Ave and S Federal Blvd,2,4,"W Alameda Ave and S Federal Blvd, Denver Colorado",39.7110066,-105.0244649,August 16, 2020
+1765890,New York,Rochester,501 Thurston Rd,0,5,"501 Thurston Rd, Rochester New York",43.1349323,-77.6512,August 15, 2020
+1764756,Alabama,Troy,4100 US-231 S,2,3,"4100 US-231 S, Troy Alabama",31.8039165,-85.9865788,August 15, 2020
+1764619,New York,New York (Manhattan),111 Lenox Ave,0,4,"111 Lenox Ave, New York (Manhattan) New York",40.80184335,-73.95030280009885,August 14, 2020
+1762951,New Jersey,Newark,N 12th St,1,4,"N 12th St, Newark New Jersey",40.7675713,-74.188803,August 12, 2020
+1762997,Ohio,Dayton,2049 Catalpa Dr,1,3,"2049 Catalpa Dr, Dayton Ohio",39.78505657249993,-84.22573275124083,August 12, 2020
+1759873,Colorado,Denver,1400  W Byers Pl,0,9,"1400  W Byers Pl, Denver Colorado",39.712066,-105.006436,August 9, 2020
+1758966,District of Columbia,Washington,3300  Dubois Pl SE,1,21,"3300  Dubois Pl SE, Washington District of Columbia",38.8853842,-76.9595747746435,August 9, 2020
+1760207,Mississippi,Jackson,3600  Cromwell St,0,4,"3600  Cromwell St, Jackson Mississippi",32.34316,-90.214896,August 9, 2020
+1760261,Texas,Houston,9700 Homestead Rd,0,4,"9700 Homestead Rd, Houston Texas",29.85213175,-95.29994565,August 9, 2020
+1759425,Kentucky,Paducah,900  Boyd St,1,4,"900  Boyd St, Paducah Kentucky",37.091411,-88.610443,August 8, 2020
+1758838,Pennsylvania,Philadelphia,1101 N 38th St,0,6,"1101 N 38th St, Philadelphia Pennsylvania",39.973368,-75.199158,August 8, 2020
+1759439,Massachusetts,Brockton,124 Laureston St,0,5,"124 Laureston St, Brockton Massachusetts",42.0682128,-71.01905978436238,August 8, 2020
+1759237,Alabama,Birmingham (Ensley),426 18th St,1,5,"426 18th St, Birmingham (Ensley) Alabama",33.5145258,-86.89695564,August 8, 2020
+1758774,New York,Albany,First St and Quail St,1,3,"First St and Quail St, Albany New York",42.659046,-73.7798318,August 8, 2020
+1757380,California,Oakland,4500  Fairfax Ave,1,3,"4500  Fairfax Ave, Oakland California",37.780711,-122.205662,August 6, 2020
+1756248,Illinois,Chicago,700  S Karlov Ave,0,4,"700  S Karlov Ave, Chicago Illinois",41.872194,-87.727947,August 5, 2020
+1755566,Wisconsin,Madison,333 S Rosa Rd,0,4,"333 S Rosa Rd, Madison Wisconsin",43.06290366666666,-89.47832911111111,August 4, 2020
+1755297,District of Columbia,Washington,5400  Georgia Ave NW,0,4,"5400  Georgia Ave NW, Washington District of Columbia",38.955262,-77.028003,August 4, 2020
+1754640,Missouri,Saint Louis,5300  Bircher Blvd,1,3,"5300  Bircher Blvd, Saint Louis Missouri",38.688115,-90.251733,August 4, 2020
+1754672,Connecticut,Hartford,818 Windsor St,1,5,"818 Windsor St, Hartford Connecticut",41.7899986,-72.6684319,August 4, 2020
+1754363,New York,Bronx,450 St Ann's Ave,0,4,"450 St Ann's Ave, Bronx New York",40.81186176635514,-73.91423343925234,August 3, 2020
+1753320,Pennsylvania,Philadelphia,3100  Weymouth St,0,4,"3100  Weymouth St, Philadelphia Pennsylvania",39.995488,-75.117296,August 2, 2020
+1753561,New Jersey,Newark,200  6th Ave,0,5,"200  6th Ave, Newark New Jersey",40.75615548275862,-74.18607765517243,August 2, 2020
+1752100,Illinois,Chicago,100  N Laporte Ave,1,4,"100  N Laporte Ave, Chicago Illinois",41.883205,-87.749159,August 1, 2020
+1753235,Texas,Pointblank,4411 Counts Rd,2,3,"4411 Counts Rd, Pointblank Texas",30.74811199837565,-95.21901162156549,August 1, 2020
+1751949,Colorado,Denver,3000  W Virginia Ave,1,4,"3000  W Virginia Ave, Denver Colorado",39.707572,-105.025238,August 1, 2020
+1752790,Alabama,Montgomery,1100  Eastern Blvd,0,4,"1100  Eastern Blvd, Montgomery Alabama",32.3272497,-86.2401396,August 1, 2020
+1752019,Pennsylvania,Philadelphia,2500  Ingersoll St,2,2,"2500  Ingersoll St, Philadelphia Pennsylvania",39.976312,-75.176862,July 31, 2020
+1750250,Michigan,Detroit,5200  Canton St,0,4,"5200  Canton St, Detroit Michigan",42.374295,-83.022426,July 29, 2020
+1749873,Ohio,Elyria,537 Willow Park Rd,5,0,"537 Willow Park Rd, Elyria Ohio",41.383729200603575,-82.11427101491965,July 29, 2020
+1749746,Missouri,Saint Louis,5500  Floy Ave,3,2,"5500  Floy Ave, Saint Louis Missouri",38.708065,-90.257294,July 29, 2020
+1749281,Delaware,Wilmington,1100  Beech St,2,2,"1100  Beech St, Wilmington Delaware",39.738206,-75.566528,July 28, 2020
+1749535,Wisconsin,Milwaukee,2600  W Atkinson Ave,0,4,"2600  W Atkinson Ave, Milwaukee Wisconsin",43.096515,-87.945855,July 28, 2020
+1748134,Washington,Federal Way,2410 S 312th St,1,3,"2410 S 312th St, Federal Way Washington",47.32239316617167,-122.30251612199484,July 27, 2020
+1747700,Illinois,Chicago,705 E 92nd Pl,1,4,"705 E 92nd Pl, Chicago Illinois",41.72650279781471,-87.60668831691311,July 27, 2020
+1746441,Michigan,Flint,4462 Corunna Rd,1,3,"4462 Corunna Rd, Flint Michigan",43.00212723026316,-83.77052888157894,July 26, 2020
+1746282,Kentucky,Louisville,I-64,1,3,"I-64, Louisville Kentucky",38.2768762,-85.8203253,July 26, 2020
+1746417,Colorado,Commerce City,6300  Ivanhoe St,1,3,"6300  Ivanhoe St, Commerce City Colorado",39.811185,-104.920958,July 26, 2020
+1748023,Arkansas,Magnolia,1000  W Monroe St,0,4,"1000  W Monroe St, Magnolia Arkansas",33.26436434149236,-93.25306942836718,July 26, 2020
+1746582,Michigan,Flint,4813 Clio Rd,0,6,"4813 Clio Rd, Flint Michigan",43.058102,-83.733281,July 25, 2020
+1745903,North Carolina,Raleigh,503 Bragg St,0,4,"503 Bragg St, Raleigh North Carolina",35.765796,-78.632536,July 25, 2020
+1746160,Florida,Miami,2900  Northwest 51st St,1,3,"2900  Northwest 51st St, Miami Florida",25.8205684,-80.2427800243618,July 25, 2020
+1746674,Texas,Dallas,525 S Riverfront Blvd,0,4,"525 S Riverfront Blvd, Dallas Texas",32.7693768,-96.81126402135374,July 25, 2020
+1745737,California,Manteca,4447 Woodward Ave,0,7,"4447 Woodward Ave, Manteca California",37.775761,-121.201137,July 25, 2020
+1743488,Virginia,Petersburg,Wesley St,0,4,"Wesley St, Petersburg Virginia",37.216612,-77.409919,July 23, 2020
+1743108,Michigan,Warren,28200  Lawson St,0,4,"28200  Lawson St, Warren Michigan",42.4643892,-82.9777377,July 22, 2020
+1741838,Illinois,Chicago,1018 W 79th St,0,15,"1018 W 79th St, Chicago Illinois",41.75079035,-87.6496915125546,July 21, 2020
+1740533,Virginia,Richmond,6850 Forest Hill Ave,1,4,"6850 Forest Hill Ave, Richmond Virginia",37.53844715,-77.52110760000001,July 20, 2020
+1740013,Illinois,Chicago,11300  South Carpenter St,2,3,"11300  South Carpenter St, Chicago Illinois",41.6885179,-87.64862526962982,July 19, 2020
+1739658,District of Columbia,Washington,3600  14th St NW,1,8,"3600  14th St NW, Washington District of Columbia",38.9364355,-77.032968,July 19, 2020
+1739917,Michigan,Detroit,9122 Dexter Ave,4,0,"9122 Dexter Ave, Detroit Michigan",42.36973034693877,-83.11722279591837,July 19, 2020
+1738635,Illinois,Chicago,1600  S Keeler Ave,1,4,"1600  S Keeler Ave, Chicago Illinois",41.858675,-87.729947,July 18, 2020
+1739413,Florida,Madison,SW Louisiana Terrace,0,4,"SW Louisiana Terrace, Madison Florida",32.397692,-91.188204,July 17, 2020
+1736383,Louisiana,Shreveport,6725 Buncombe Rd,1,3,"6725 Buncombe Rd, Shreveport Louisiana",32.4141907871838,-93.8836042167449,July 15, 2020
+1733702,New York,Brooklyn,Remsen Ave,0,6,"Remsen Ave, Brooklyn New York",40.6355996,-73.9008128,July 13, 2020
+1734064,Kentucky,Louisville,1200  W Hill St,1,3,"1200  W Hill St, Louisville Kentucky",38.2272155,-85.7754851,July 13, 2020
+1734058,Washington,Kent,23201 Pacific Hwy South,0,6,"23201 Pacific Hwy South, Kent Washington",47.3936528,-122.29557396174896,July 13, 2020
+1732485,Louisiana,Baton Rouge,4718 Plank Rd,1,7,"4718 Plank Rd, Baton Rouge Louisiana",30.49306125,-91.155320125,July 12, 2020
+1732688,Michigan,Lansing,3029 BeauJardin Dr,0,5,"3029 BeauJardin Dr, Lansing Michigan",42.684566,-84.507645,July 12, 2020
+1732365,Florida,Fort Lauderdale,3000  NW 12th Ct,2,2,"3000  NW 12th Ct, Fort Lauderdale Florida",26.1410007,-80.1633554,July 12, 2020
+1733188,Illinois,Chicago,700  W 66th Pl,1,3,"700  W 66th Pl, Chicago Illinois",41.773497,-87.642807,July 12, 2020
+1732229,Illinois,Chicago,1100  N Lawndale Ave,1,4,"1100  N Lawndale Ave, Chicago Illinois",41.9010195,-87.71921196847458,July 12, 2020
+1731349,New York,Rochester,485 N Clinton Ave,0,6,"485 N Clinton Ave, Rochester New York",43.1669771,-77.6112202,July 11, 2020
+1732321,Delaware,Wilmington,600  N Pine St,0,5,"600  N Pine St, Wilmington Delaware",39.739464,-75.543967,July 11, 2020
+1727567,Illinois,Chicago,1305 W 76th St,0,6,"1305 W 76th St, Chicago Illinois",41.75516015,-87.65671567348535,July 6, 2020
+1725883,Illinois,Chicago,3700  W Jackson Blvd,0,4,"3700  W Jackson Blvd, Chicago Illinois",41.8774916,-87.6912769,July 5, 2020
+1725802,Iowa,Davenport,1000  W 3rd St,1,3,"1000  W 3rd St, Davenport Iowa",41.52245745454545,-90.58754514141414,July 5, 2020
+1725167,New York,New York (Manhattan),549 Academy St,0,5,"549 Academy St, New York (Manhattan) New York",40.8628867,-73.92246177804714,July 5, 2020
+1725108,South Carolina,Greenville,1701 White Horse Rd,2,8,"1701 White Horse Rd, Greenville South Carolina",34.794080050000005,-82.42025024976623,July 5, 2020
+1726770,Arkansas,Helena,1317 Perry St,1,3,"1317 Perry St, Helena Arkansas",34.5296177160107,-90.60062249590749,July 5, 2020
+1725379,Wisconsin,Milwaukee,5800  W Hope Ave,0,4,"5800  W Hope Ave, Milwaukee Wisconsin",43.093677,-87.98666,July 5, 2020
+1726446,Texas,Houston,Service Rd and Holcombe Blvd,0,4,"Service Rd and Holcombe Blvd, Houston Texas",29.7061465,-95.4302439,July 5, 2020
+1725327,Maryland,Cambridge,700  Weaver Ave,0,4,"700  Weaver Ave, Cambridge Maryland",38.566703,-76.089648,July 5, 2020
+1725145,Illinois,Chicago,1500  S Millard Ave,1,5,"1500  S Millard Ave, Chicago Illinois",41.860663,-87.716583,July 5, 2020
+1727515,Mississippi,Greenville,Union St,0,4,"Union St, Greenville Mississippi",33.4173296,-91.0563379,July 5, 2020
+1725670,Georgia,Atlanta,1600  Lakewood Ave,0,5,"1600  Lakewood Ave, Atlanta Georgia",33.6991263,-84.392375,July 4, 2020
+1725407,Massachusetts,Lynn,134 Fayette St,1,4,"134 Fayette St, Lynn Massachusetts",42.47124625,-70.93807985000001,July 4, 2020
+1724231,Michigan,Detroit,8340 Homer St,2,3,"8340 Homer St, Detroit Michigan",42.30403949246232,-83.12580181909549,July 4, 2020
+1725098,Illinois,Chicago,8300  S Kingston Ave,1,3,"8300  S Kingston Ave, Chicago Illinois",41.744003,-87.562579,July 4, 2020
+1725081,Illinois,Chicago,6100  S Carpenter St,4,4,"6100  S Carpenter St, Chicago Illinois",41.783172,-87.651058,July 4, 2020
+1724887,Louisiana,Baton Rouge,11300  Greenwell Springs Rd,0,4,"11300  Greenwell Springs Rd, Baton Rouge Louisiana",30.4940674750622,-91.05655743439236,July 4, 2020
+1724219,Mississippi,Jackson,6340 Ridgewood Ct Dr,1,3,"6340 Ridgewood Ct Dr, Jackson Mississippi",32.3959625,-90.1430988,July 4, 2020
+1724273,Maryland,Baltimore,700  S Woodington Rd,0,4,"700  S Woodington Rd, Baltimore Maryland",39.2751187,-76.69005543358168,July 3, 2020
+1723184,California,Delano,2100  Oleander St,2,3,"2100  Oleander St, Delano California",35.7850441010101,-119.23971004040403,July 2, 2020
+1723352,Massachusetts,Somerville,5 River Rd,0,4,"5 River Rd, Somerville Massachusetts",42.3972495,-71.09330782103265,July 2, 2020
+1729506,Louisiana,Lake Charles,1600  Moss St,0,4,"1600  Moss St, Lake Charles Louisiana",30.218897,-93.212707,July 1, 2020
+1721964,Iowa,Davenport,1400  Pershing Ave,0,5,"1400  Pershing Ave, Davenport Iowa",41.534187,-90.571282,June 30, 2020
+1720781,Georgia,Atlanta,Parkway Dr,1,4,"Parkway Dr, Atlanta Georgia",33.776033,-84.39884086001581,June 30, 2020
+1721669,Massachusetts,Boston,14 Circuit St,1,3,"14 Circuit St, Boston Massachusetts",42.323674,-71.084724,June 30, 2020
+1720761,Illinois,Chicago,350 W Chicago Ave,0,4,"350 W Chicago Ave, Chicago Illinois",41.8968052,-87.6377642248503,June 30, 2020
+1721572,Ohio,Dayton,3500  Stanford Pl,0,4,"3500  Stanford Pl, Dayton Ohio",39.777844,-84.243752,June 30, 2020
+1720655,South Dakota,Sioux Falls,902 N Prairie Ave,1,3,"902 N Prairie Ave, Sioux Falls South Dakota",43.55788311111111,-96.73700211111112,June 29, 2020
+1719693,Pennsylvania,Philadelphia,1900  E Somerset St,2,2,"1900  E Somerset St, Philadelphia Pennsylvania",39.990139,-75.121548,June 28, 2020
+1718966,Illinois,Chicago,3100  S Rhodes Ave,2,2,"3100  S Rhodes Ave, Chicago Illinois",41.838347,-87.613607,June 27, 2020
+1718847,California,Red Bluff,10815 State Hwy 99W,3,4,"10815 State Hwy 99W, Red Bluff California",40.147234,-122.215856,June 27, 2020
+1718463,Illinois,Peoria,1400  SW Jefferson St,0,4,"1400  SW Jefferson St, Peoria Illinois",40.682648,-89.606426,June 27, 2020
+1718238,New York,Brooklyn,Rockaway Pkwy and Ave B,0,4,"Rockaway Pkwy and Ave B, Brooklyn New York",40.6625582,-73.9088634,June 27, 2020
+1719645,Arkansas,Blytheville,600  Parkway Dr,3,1,"600  Parkway Dr, Blytheville Arkansas",35.925502,-89.893429,June 27, 2020
+1717828,Colorado,Aurora,698 Peoria St,0,5,"698 Peoria St, Aurora Colorado",39.7270501,-104.8442755,June 26, 2020
+1718292,California,Fresno,Pico Ave,0,4,"Pico Ave, Fresno California",36.8018776,-119.6663551,June 26, 2020
+1717173,Arizona,Phoenix,5035 W McDowell Rd,0,4,"5035 W McDowell Rd, Phoenix Arizona",33.4659641,-112.1726089,June 26, 2020
+1716944,Connecticut,Bridgeport,527 Huntington Rd,1,3,"527 Huntington Rd, Bridgeport Connecticut",41.2002227,-73.1821103,June 25, 2020
+1715616,Tennessee,Jackson,Melwood St,0,4,"Melwood St, Jackson Tennessee",35.640962,-88.8163247,June 24, 2020
+1714504,Illinois,Chicago,9100  South Ellis Ave,0,4,"9100  South Ellis Ave, Chicago Illinois",41.72929305,-87.60010554642227,June 23, 2020
+1712342,North Carolina,Charlotte,1800  Beatties Ford Rd,4,5,"1800  Beatties Ford Rd, Charlotte North Carolina",35.3451262,-80.8835594,June 22, 2020
+1713075,California,San Francisco,200  Leavenworth St,0,5,"200  Leavenworth St, San Francisco California",37.782929,-122.413976,June 22, 2020
+1713790,New York,Brooklyn,Sterling St and Brooklyn Ave,0,5,"Sterling St and Brooklyn Ave, Brooklyn New York",40.6630955,-73.9508689,June 22, 2020
+1712898,Minnesota,Minneapolis,627 W Broadway,0,4,"627 W Broadway, Minneapolis Minnesota",44.999056,-93.28737663636365,June 22, 2020
+1712408,Illinois,Chicago,200 S Central Park Blvd,0,5,"200 S Central Park Blvd, Chicago Illinois",41.878141,-87.715915,June 22, 2020
+1712386,Illinois,Chicago,5200  S Lowe Ave,0,4,"5200  S Lowe Ave, Chicago Illinois",41.799707,-87.641758,June 22, 2020
+1713668,Ohio,Columbus,1910 Fountainview Ct,1,4,"1910 Fountainview Ct, Columbus Ohio",39.94069510471778,-82.83436654573885,June 22, 2020
+1711626,Texas,Austin,500  E 7th St,0,5,"500  E 7th St, Austin Texas",30.2679596,-97.73748069840951,June 21, 2020
+1711410,Minnesota,Minneapolis,2939 Hennepin Ave S,0,11,"2939 Hennepin Ave S, Minneapolis Minnesota",44.9488126,-93.2980878,June 21, 2020
+1711690,Alabama,Auburn,600  Railroad Ave,0,4,"600  Railroad Ave, Auburn Alabama",32.6099953605961,-85.49270899380721,June 21, 2020
+1713493,Texas,Corpus Christi,5802 Everhart Rd,1,3,"5802 Everhart Rd, Corpus Christi Texas",27.704110043823803,-97.39081782115008,June 21, 2020
+1711487,Illinois,Chicago,2600  W Potomac Ave,1,3,"2600  W Potomac Ave, Chicago Illinois",41.904877,-87.692165,June 21, 2020
+1710849,Wisconsin,Janesville,6530 S US-51,0,5,"6530 S US-51, Janesville Wisconsin",42.704586,-89.031005,June 20, 2020
+1710920,North Carolina,Pinetops,715 E Lashley St,2,2,"715 E Lashley St, Pinetops North Carolina",35.7888797,-77.6375318,June 20, 2020
+1710680,New Jersey,Jersey City,Union St and Ocean Ave,1,4,"Union St and Ocean Ave, Jersey City New Jersey",40.7132854,-74.0738258,June 20, 2020
+1711397,Kansas,Wichita,3741 N Rock Rd,0,5,"3741 N Rock Rd, Wichita Kansas",37.7510739,-97.2462799760516,June 20, 2020
+1711134,New York,Bronx,Mapes Ave,0,4,"Mapes Ave, Bronx New York",40.845204,-73.886746,June 20, 2020
+1708889,New York,Albany,8 Albany St,0,7,"8 Albany St, Albany New York",42.6685981,-73.74093845,June 18, 2020
+1708432,Illinois,Chicago,1323 W 76th St,0,4,"1323 W 76th St, Chicago Illinois",41.75557245,-87.65722204562024,June 17, 2020
+1706994,Iowa,Fort Dodge,900  10th Ave SW,2,2,"900  10th Ave SW, Fort Dodge Iowa",42.497186,-94.185466,June 16, 2020
+1706710,Illinois,Chicago,W Diversey Ave,0,4,"W Diversey Ave, Chicago Illinois",41.9308894,-87.7958055,June 15, 2020
+1704879,Minnesota,Minneapolis,328 W Broadway Ave,1,6,"328 W Broadway Ave, Minneapolis Minnesota",45.011374,-93.3167106,June 14, 2020
+1704862,Kentucky,Louisville,531 Franklin St,1,4,"531 Franklin St, Louisville Kentucky",38.2565537,-85.7395964,June 14, 2020
+1704873,Louisiana,Lafayette,400  Jefferson St,0,5,"400  Jefferson St, Lafayette Louisiana",30.226567,-92.017561,June 14, 2020
+1705050,Louisiana,Lake Charles,3945 US-90,0,4,"3945 US-90, Lake Charles Louisiana",30.235765,-93.211348,June 14, 2020
+1705346,Louisiana,New Orleans,600  S Lopez St,2,2,"600  S Lopez St, New Orleans Louisiana",29.964051,-90.096012,June 14, 2020
+1704116,Missouri,Saint Louis,3103 N Grand Blvd,2,4,"3103 N Grand Blvd, Saint Louis Missouri",38.65869465,-90.2188811864572,June 13, 2020
+1704415,New York,Wyandanch,76 Grand Blvd,1,7,"76 Grand Blvd, Wyandanch New York",40.75276795,-73.35363497926456,June 13, 2020
+1704727,District of Columbia,Washington,3100  Waclark Pl SE,2,5,"3100  Waclark Pl SE, Washington District of Columbia",38.844528,-77.001945,June 13, 2020
+1703985,Texas,San Antonio,8134 Broadway St,0,8,"8134 Broadway St, San Antonio Texas",29.284773845162707,-94.8621156465432,June 12, 2020
+1702276,Virginia,Richmond,800  N 1st St,0,4,"800  N 1st St, Richmond Virginia",37.549946,-77.436569,June 11, 2020
+1702172,District of Columbia,Washington,1200  Mt Olivet Rd NE,0,7,"1200  Mt Olivet Rd NE, Washington District of Columbia",38.910224,-76.984804,June 11, 2020
+1703044,Louisiana,Monroe,1101 Richwood Road 2,6,0,"1101 Richwood Road 2, Monroe Louisiana",32.437622,-92.095934,June 11, 2020
+1703055,Texas,Houston,5840 Glenmont Dr,2,4,"5840 Glenmont Dr, Houston Texas",29.71998781632653,-95.48366980612244,June 11, 2020
+1702372,California,Sacramento,68th Avenue and Della Circle,1,4,"68th Avenue and Della Circle, Sacramento California",38.4890326,-121.493799,June 10, 2020
+1701382,Ohio,Toledo,1100  Baker St,1,3,"1100  Baker St, Toledo Ohio",41.667816,-83.532573,June 10, 2020
+1701714,California,Paso Robles,900 Park St,2,4,"900 Park St, Paso Robles California",35.6238003,-120.6894332,June 10, 2020
+1701491,California,Vallejo,100  Cynthia Ave,2,3,"100  Cynthia Ave, Vallejo California",38.146599,-122.230545,June 9, 2020
+1700371,New York,Brooklyn,512 Bristol St,0,4,"512 Bristol St, Brooklyn New York",40.65838145,-73.91004475,June 8, 2020
+1700250,Tennessee,Memphis,1525 E McLemore Ave,0,4,"1525 E McLemore Ave, Memphis Tennessee",35.11537874835584,-90.0114558729665,June 8, 2020
+1699193,Tennessee,Dyersburg,1305 Grant St,0,5,"1305 Grant St, Dyersburg Tennessee",36.023533460073835,-89.37178538562243,June 7, 2020
+1700234,Illinois,Robbins,13600  Central Park Ave,1,3,"13600  Central Park Ave, Robbins Illinois",41.64569,-87.70891,June 7, 2020
+1699211,Missouri,Sikeston,915 Plantation Blvd,2,7,"915 Plantation Blvd, Sikeston Missouri",36.86635561320944,-89.56915054944332,June 7, 2020
+1698987,Illinois,Chicago,50  S Seeley Ave,1,3,"50  S Seeley Ave, Chicago Illinois",41.88064772688836,-87.67795919498228,June 7, 2020
+1699667,Illinois,Chicago,3700  S State St,0,6,"3700  S State St, Chicago Illinois",41.8328296,-87.6264755,June 7, 2020
+1698306,Missouri,Kansas City,E 18th St and Vine St,1,4,"E 18th St and Vine St, Kansas City Missouri",39.0912231,-94.56489,June 6, 2020
+1700812,Mississippi,Drew,Wilson Ave,0,5,"Wilson Ave, Drew Mississippi",33.811111,-90.525839,June 6, 2020
+1698276,Ohio,Ironton,1305 S 3rd St,0,4,"1305 S 3rd St, Ironton Ohio",38.52568465306122,-82.67766367346938,June 6, 2020
+1697541,Colorado,Denver,4900  Wheeling St,0,4,"4900  Wheeling St, Denver Colorado",39.786347,-104.835741,June 5, 2020
+1695998,Texas,Dallas,7460 S Westmoreland Rd,1,3,"7460 S Westmoreland Rd, Dallas Texas",32.655139250000005,-96.88443174400145,June 2, 2020
+1695645,Illinois,Chicago,8404 S Colfax Ave,0,4,"8404 S Colfax Ave, Chicago Illinois",41.7424569,-87.56147820849515,June 2, 2020
+1694735,Missouri,Saint Louis,1915 Olive St,0,4,"1915 Olive St, Saint Louis Missouri",38.63181551353224,-90.2073416371566,June 1, 2020
+1693580,Pennsylvania,Philadelphia,700  E Clearfield St,0,4,"700  E Clearfield St, Philadelphia Pennsylvania",39.995315,-75.117589,May 31, 2020
+1692513,New Jersey,Paterson,E 23rd St and 10th Ave,0,4,"E 23rd St and 10th Ave, Paterson New Jersey",40.93980015384615,-74.14530515384615,May 30, 2020
+1692912,District of Columbia,Washington,300  37th St SE,0,4,"300  37th St SE, Washington District of Columbia",38.88560445,-76.9527091624161,May 30, 2020
+1693064,Texas,Houston,9635 Scott St,1,4,"9635 Scott St, Houston Texas",29.7263588,-95.3500267,May 30, 2020
+1692496,North Carolina,Gastonia,3000  Earl Ln,1,5,"3000  Earl Ln, Gastonia North Carolina",35.229602,-81.207509,May 30, 2020
+1692102,Virginia,Portsmouth,500  Edwards St,0,5,"500  Edwards St, Portsmouth Virginia",36.822662,-76.299267,May 29, 2020
+1691221,Kentucky,Louisville,601 W Jefferson St,0,7,"601 W Jefferson St, Louisville Kentucky",38.2546263,-85.76055713323035,May 28, 2020
+1691440,Pennsylvania,Philadelphia,300  N 55th St,1,3,"300  N 55th St, Philadelphia Pennsylvania",39.965486,-75.230002,May 28, 2020
+1690369,Massachusetts,Boston,5 Ames St,1,4,"5 Ames St, Boston Massachusetts",42.29051973022516,-71.08656634127814,May 27, 2020
+1690524,Ohio,Cleveland,12800 Euclid Ave,1,3,"12800 Euclid Ave, Cleveland Ohio",41.5618381,-81.5435014,May 27, 2020
+1690439,California,San Jose,1100  William Ct,0,5,"1100  William Ct, San Jose California",37.341383,-121.862117,May 27, 2020
+1689419,Pennsylvania,Philadelphia,1800  Hart Ln,0,4,"1800  Hart Ln, Philadelphia Pennsylvania",39.991852,-75.121559,May 27, 2020
+1688610,Mississippi,Vicksburg,4045 Clay St,0,4,"4045 Clay St, Vicksburg Mississippi",32.34388044532813,-90.8382052866988,May 26, 2020
+1687999,Louisiana,Lake Charles,6780 US-90,0,6,"6780 US-90, Lake Charles Louisiana",30.235765,-93.211348,May 25, 2020
+1686222,Texas,Houston,2900 Travis St,0,4,"2900 Travis St, Houston Texas",29.7436386,-95.3771975,May 23, 2020
+1686747,Florida,Daytona Beach,13 S Atlantic Ave,0,6,"13 S Atlantic Ave, Daytona Beach Florida",29.22645540815455,-81.00792014110364,May 23, 2020
+1686685,Illinois,Chicago,3911 W Grenshaw St,1,3,"3911 W Grenshaw St, Chicago Illinois",41.866884,-87.72328964283832,May 23, 2020
+1687381,Mississippi,Jackson,2300  Oakhurst Dr,1,4,"2300  Oakhurst Dr, Jackson Mississippi",32.276406,-90.218735,May 23, 2020
+1686015,Ohio,Cleveland,11921 Miles Ave,1,3,"11921 Miles Ave, Cleveland Ohio",41.44516866666667,-81.60007983333333,May 22, 2020
+1683810,Texas,Houston,6918 Landor St,2,3,"6918 Landor St, Houston Texas",29.83020337593985,-95.30436089473685,May 20, 2020
+1683653,Illinois,Decatur,300  West Leafland Ave,0,5,"300  West Leafland Ave, Decatur Illinois",39.853622,-88.959289,May 19, 2020
+1682322,California,Bakersfield,901 W Columbus St,0,5,"901 W Columbus St, Bakersfield California",35.39806473825503,-119.0120047181208,May 18, 2020
+1681602,South Carolina,Charleston,23 Cannon St,0,4,"23 Cannon St, Charleston South Carolina",32.791493122448976,-79.94275124489795,May 17, 2020
+1681887,Maryland,District Heights,6800  Atwood St,1,3,"6800  Atwood St, District Heights Maryland",38.8617687,-76.8907335,May 17, 2020
+1686369,Florida,Gainesville,2305 SE Hawthorne Rd,0,5,"2305 SE Hawthorne Rd, Gainesville Florida",29.6506205,-82.3047189,May 15, 2020
+1850080,Pennsylvania,Philadelphia,4300  Germantown Ave,0,4,"4300  Germantown Ave, Philadelphia Pennsylvania",40.0194688,-75.1560664,May 15, 2020
+1680027,New Mexico,Albuquerque,820 Louisiana SE,0,5,"820 Louisiana SE, Albuquerque New Mexico",35.079933,-106.5685844,May 14, 2020
+1679086,Illinois,Rockford,2914 W State St,1,4,"2914 W State St, Rockford Illinois",42.2769959,-89.1321728,May 13, 2020
+1678589,Kentucky,Garrison,6151 Kinney Rd,1,4,"6151 Kinney Rd, Garrison Kentucky",38.59812753360951,-83.18641376512181,May 13, 2020
+1679356,Tennessee,Memphis,3500  Commerce Cir,0,4,"3500  Commerce Cir, Memphis Tennessee",35.051388,-89.920955,May 13, 2020
+1676515,Louisiana,Baton Rouge,2944 Plank Rd,0,5,"2944 Plank Rd, Baton Rouge Louisiana",30.474906081632653,-91.16171616326533,May 10, 2020
+1676579,Texas,Fort Worth,4750 Wilbarger St,0,5,"4750 Wilbarger St, Fort Worth Texas",32.698324,-97.25329772585262,May 10, 2020
+1676121,Missouri,Saint Louis,3500  Arkansas Ave,0,4,"3500  Arkansas Ave, Saint Louis Missouri",38.592874,-90.241805,May 9, 2020
+1674802,Maryland,Baltimore,5100  Stafford Rd,0,4,"5100  Stafford Rd, Baltimore Maryland",39.280396,-76.700728,May 7, 2020
+1673989,Texas,Houston,14200  Bridgeport Rd,3,1,"14200  Bridgeport Rd, Houston Texas",29.600819,-95.419505,May 6, 2020
+1673633,Georgia,Albany,1900  Meadow Dr,1,3,"1900  Meadow Dr, Albany Georgia",31.604471,-84.108133,May 6, 2020
+1671289,Ohio,Columbus,300  S Ashburton Rd,0,4,"300  S Ashburton Rd, Columbus Ohio",39.96578546162264,-82.91256853073997,May 3, 2020
+1671624,Florida,Jacksonville,2100  Brooklyn Rd,1,3,"2100  Brooklyn Rd, Jacksonville Florida",30.374807,-81.695997,May 3, 2020
+1671078,Illinois,Chicago,3700 W 13th St,0,5,"3700 W 13th St, Chicago Illinois",41.864507,-87.718724,May 3, 2020
+1670970,Pennsylvania,Philadelphia,200  S Cecil St,0,4,"200  S Cecil St, Philadelphia Pennsylvania",39.958248,-75.236948,May 2, 2020
+1668470,Indiana,Indianapolis,451 E Stop 11 Rd,0,4,"451 E Stop 11 Rd, Indianapolis Indiana",39.65076615863085,-86.15054358547285,April 29, 2020
+1666945,Wisconsin,Milwaukee,2800  N 12th St,5,0,"2800  N 12th St, Milwaukee Wisconsin",43.069601,-87.926674,April 27, 2020
+1666461,New York,Troy,Jefferson St and 3rd St,0,4,"Jefferson St and 3rd St, Troy New York",42.72183975,-73.6947415,April 26, 2020
+1666600,North Carolina,Salisbury,900  E Lafayette St,1,4,"900  E Lafayette St, Salisbury North Carolina",35.66461458,-80.4539341,April 26, 2020
+1665834,Tennessee,Memphis,500  Josephine St,0,7,"500  Josephine St, Memphis Tennessee",35.11825674984839,-89.96942923056186,April 25, 2020
+1664933,Texas,Houston,4714 Ward St,3,1,"4714 Ward St, Houston Texas",29.688232,-95.349975,April 24, 2020
+1665735,Indiana,Fort Wayne,3233 Diplomat Dr,0,4,"3233 Diplomat Dr, Fort Wayne Indiana",41.0504021,-85.0955932,April 24, 2020
+1660797,North Carolina,Greensboro,4400  Beckford Dr,1,3,"4400  Beckford Dr, Greensboro North Carolina",36.044858,-79.868855,April 17, 2020
+1661218,Massachusetts,Springfield,College St,1,4,"College St, Springfield Massachusetts",42.11654,-72.558776,April 17, 2020
+1659966,Mississippi,Jackson,1200  Wood Village Dr,1,3,"1200  Wood Village Dr, Jackson Mississippi",32.2943458,-90.2428098,April 15, 2020
+1656265,Michigan,Muskegon,800  Oak St,0,4,"800  Oak St, Muskegon Michigan",43.359924,-86.066688,April 10, 2020
+1655674,Michigan,Detroit,1200  Payton St,0,4,"1200  Payton St, Detroit Michigan",42.424329,-82.959439,April 8, 2020
+1656373,Alaska,Anchorage,10600  Elmore Rd,0,4,"10600  Elmore Rd, Anchorage Alaska",61.1836822,-149.8080398,April 8, 2020
+1654341,Illinois,Chicago,86th Street and Damen Avenue,1,3,"86th Street and Damen Avenue, Chicago Illinois",41.7377266,-87.6729474,April 7, 2020
+1652642,New York,Brooklyn,181 Rockaway Pky,0,4,"181 Rockaway Pky, Brooklyn New York",40.6624256,-73.92106911367696,April 5, 2020
+1653012,South Carolina,Lancaster,Mahaffey Line Dr,1,4,"Mahaffey Line Dr, Lancaster South Carolina",34.708094,-80.805136,April 5, 2020
+1652601,Texas,Vidor,100  Hebert St,0,4,"100  Hebert St, Vidor Texas",30.122249,-94.016602,April 4, 2020
+1652073,Texas,Lubbock,2107 49th St,2,2,"2107 49th St, Lubbock Texas",33.54962293877551,-101.86203069387756,April 4, 2020
+1652328,Florida,Hialeah,W 69th St and 24th Ave,1,4,"W 69th St and 24th Ave, Hialeah Florida",25.885179,-80.302188,April 4, 2020
+1651742,Kentucky,Louisville,1000  Cecil Ave,0,4,"1000  Cecil Ave, Louisville Kentucky",38.2454635,-85.82131205588769,April 3, 2020
+1649473,Georgia,Macon,571 Moreland Ave,3,1,"571 Moreland Ave, Macon Georgia",32.7956456,-83.6460238,March 31, 2020
+1648832,Pennsylvania,Philadelphia,2000  W Harold St,0,5,"2000  W Harold St, Philadelphia Pennsylvania",39.991159,-75.142802,March 30, 2020
+1647661,Maryland,Baltimore,1100  Washington Blvd,1,3,"1100  Washington Blvd, Baltimore Maryland",39.28294695,-76.63280194422336,March 28, 2020
+1644111,Texas,San Antonio,6700  Hickory Springs Dr,0,4,"6700  Hickory Springs Dr, San Antonio Texas",29.556572,-98.624721,March 23, 2020
+1643775,South Carolina,Hanahan,Edinburgh Drive,0,4,"Edinburgh Drive, Hanahan South Carolina",32.9079454,-80.0035853,March 22, 2020
+1643157,Virginia,Norfolk,800  Lincoln St,0,4,"800  Lincoln St, Norfolk Virginia",36.855057,-76.280526,March 20, 2020
+1642826,Missouri,Saint Louis,1923 Prairie Ave,0,4,"1923 Prairie Ave, Saint Louis Missouri",38.65222391967871,-90.22795789558232,March 20, 2020
+1641923,Florida,Jacksonville,11501 Harts Rd,1,4,"11501 Harts Rd, Jacksonville Florida",30.443218,-81.658183,March 18, 2020
+1641216,Maryland,Baltimore,300  McMechen St,0,7,"300  McMechen St, Baltimore Maryland",39.307537833333335,-76.62735033333333,March 17, 2020
+1640317,Missouri,Springfield,3264 E Battlefield Rd,5,2,"3264 E Battlefield Rd, Springfield Missouri",37.15827750974875,-93.22903457308502,March 15, 2020
+1640007,Michigan,Saginaw,4100  Gallagher St,2,2,"4100  Gallagher St, Saginaw Michigan",43.401896,-83.90906,March 14, 2020
+1639542,New Mexico,Albuquerque,620  Arno SE,1,3,"620  Arno SE, Albuquerque New Mexico",35.0883455308074,-106.64234017091349,March 14, 2020
+1639413,Illinois,Rockford,4104 Auburn St,0,4,"4104 Auburn St, Rockford Illinois",42.28819063265156,-89.12305791855563,March 13, 2020
+1637520,Pennsylvania,Chester,200  Broomall Street,2,2,"200  Broomall Street, Chester Pennsylvania",39.839108,-75.374511,March 10, 2020
+1636471,Illinois,South Holland,I-94 and E 162nd St,0,4,"I-94 and E 162nd St, South Holland Illinois",41.600796,-87.616863,March 8, 2020
+1635796,Maryland,Rosedale,6247 Kenwood Ave,1,5,"6247 Kenwood Ave, Rosedale Maryland",39.3423717,-76.506567,March 8, 2020
+1636564,California,Ceres,3600  Spruce Ave,1,3,"3600  Spruce Ave, Ceres California",37.585505,-120.954165,March 8, 2020
+1635750,Ohio,Cleveland,3804 E 93rd St,1,18,"3804 E 93rd St, Cleveland Ohio",41.45522,-81.62149,March 7, 2020
+1635570,New Mexico,Albuquerque,1700  Rayo Del Sol Dr SW,0,4,"1700  Rayo Del Sol Dr SW, Albuquerque New Mexico",35.052057,-106.714378,March 7, 2020
+1635411,Illinois,Chicago,900  E 79th St,0,7,"900  E 79th St, Chicago Illinois",41.751405,-87.601986,March 7, 2020
+1635118,District of Columbia,Washington,6219 Dix St NE,0,6,"6219 Dix St NE, Washington District of Columbia",38.89413745,-76.91142433058077,March 6, 2020
+1634128,California,Tulare,111 W Tulare Ave,1,5,"111 W Tulare Ave, Tulare California",36.20765474126262,-119.3495604318342,March 4, 2020
+1631040,Missouri,Kansas City,510 Westport Rd,1,4,"510 Westport Rd, Kansas City Missouri",39.052781375,-94.5918175625,February 29, 2020
+1629488,Wisconsin,Milwaukee,3939 W Highland Blvd,6,0,"3939 W Highland Blvd, Milwaukee Wisconsin",43.04448073676797,-87.96241307979783,February 26, 2020
+1629042,Illinois,Chicago,1238 E 79th St,1,4,"1238 E 79th St, Chicago Illinois",41.75148441778838,-87.59407541250626,February 25, 2020
+1627713,Texas,Houston,8712 Airline Dr,0,7,"8712 Airline Dr, Houston Texas",29.9145754,-95.4049323,February 23, 2020
+1625553,Idaho,Caldwell,4321 S 10th Ave,2,3,"4321 S 10th Ave, Caldwell Idaho",43.6655354,-116.6842437,February 20, 2020
+1622406,Connecticut,Hartford,451 Franklin Ave,1,5,"451 Franklin Ave, Hartford Connecticut",41.7368899,-72.675571,February 16, 2020
+1622962,Florida,Pensacola,517 W Gadsden St,1,4,"517 W Gadsden St, Pensacola Florida",30.41913848979592,-87.22389218367347,February 16, 2020
+1622340,Louisiana,New Orleans,Dryades St and 2nd St,0,4,"Dryades St and 2nd St, New Orleans Louisiana",29.9293835,-90.1036266,February 15, 2020
+1622233,Tennessee,Memphis,2800  Riverport Rd,0,7,"2800  Riverport Rd, Memphis Tennessee",35.0682477,-90.1502649,February 15, 2020
+1621821,Illinois,Chicago,6500  S King Dr,0,6,"6500  S King Dr, Chicago Illinois",41.709143,-87.6138244,February 14, 2020
+1619064,Delaware,Dover,200  W Reed St,1,4,"200  W Reed St, Dover Delaware",39.159132,-75.528872,February 10, 2020
+1616964,Texas,Houston,1000  Calvin St,1,3,"1000  Calvin St, Houston Texas",29.864899,-95.426817,February 8, 2020
+1615155,Indiana,Indianapolis,4100  Shady Oak Dr,4,0,"4100  Shady Oak Dr, Indianapolis Indiana",39.832806,-85.987715,February 5, 2020
+1613020,Maine,Machias,323 Kennebec Rd,3,1,"323 Kennebec Rd, Machias Maine",44.6804334,-67.4677161,February 3, 2020
+1612716,California,Lebec,8968 Grapevine Rd,1,5,"8968 Grapevine Rd, Lebec California",34.94054895,-118.92827674684986,February 3, 2020
+1612597,Mississippi,Philadelphia,257 W Beacon St,0,4,"257 W Beacon St, Philadelphia Mississippi",32.7715117091485,-89.11805650661447,February 1, 2020
+1610782,Louisiana,Shreveport,2000 Grimmett Dr,0,4,"2000 Grimmett Dr, Shreveport Louisiana",32.54336746607798,-93.77029641737626,January 31, 2020
+1611037,Florida,Boynton Beach,200  NE 1st Ct,1,3,"200  NE 1st Ct, Boynton Beach Florida",26.5485819,-80.0641892,January 31, 2020
+1610240,California,Merced,100  W 18th St,0,4,"100  W 18th St, Merced California",37.300195,-120.476949,January 30, 2020
+1606554,Connecticut,Bridgeport,172 Golden Hill St,0,4,"172 Golden Hill St, Bridgeport Connecticut",41.1805364,-73.19090101483368,January 27, 2020
+1605948,Missouri,Cape Girardeau,631 S Sprigg St,0,5,"631 S Sprigg St, Cape Girardeau Missouri",37.29419514773953,-89.52860977502691,January 26, 2020
+1605798,New York,Newburgh,1571 NY-300,3,1,"1571 NY-300, Newburgh New York",41.5393938,-74.0627176,January 26, 2020
+1605752,South Carolina,Hartsville,115 W Camden Ave,3,3,"115 W Camden Ave, Hartsville South Carolina",34.3695001,-80.0718743,January 26, 2020
+1603241,Washington,Seattle,1530 3rd Ave,1,7,"1530 3rd Ave, Seattle Washington",47.6107012,-122.3383912,January 22, 2020
+1600787,Missouri,Kansas City,4802 Noland Rd,2,15,"4802 Noland Rd, Kansas City Missouri",39.033917776701294,-94.41585204331864,January 19, 2020
+1600221,Tennessee,Memphis,6761 Winchester Rd,1,4,"6761 Winchester Rd, Memphis Tennessee",35.04928650593368,-89.83786398611589,January 19, 2020
+1600522,Texas,San Antonio,1011 Avenue B,2,5,"1011 Avenue B, San Antonio Texas",29.435253020408165,-98.48141508163266,January 19, 2020
+1600350,Texas,South Houston,700  Virginia St,2,2,"700  Virginia St, South Houston Texas",29.663606,-95.240161,January 18, 2020
+1599331,Utah,Grantsville,93 Eastmoor Dr,4,1,"93 Eastmoor Dr, Grantsville Utah",40.59792724886975,-112.43100555748865,January 17, 2020
+1598447,Illinois,Chicago,234 N Pulaski Rd,0,5,"234 N Pulaski Rd, Chicago Illinois",41.9793267,-87.7283299,January 16, 2020
+1594173,Colorado,Aurora,17158 E Adriatic Place,0,5,"17158 E Adriatic Place, Aurora Colorado",39.67651731242952,-104.78751081951438,January 11, 2020
+1592655,Mississippi,Bay Saint Louis,10 Bay Park Way,2,2,"10 Bay Park Way, Bay Saint Louis Mississippi",30.31298485,-89.36899266833807,January 8, 2020
+1588919,Georgia,Atlanta,1008 Brady Ave NW,0,4,"1008 Brady Ave NW, Atlanta Georgia",33.7824946,-84.41437331642393,January 5, 2020
+1588308,Florida,Ocala,800  NW 6th Ter,1,3,"800  NW 6th Ter, Ocala Florida",29.194467,-82.143987,January 4, 2020
+1586839,New York,Brooklyn,6120 3rd Ave,0,4,"6120 3rd Ave, Brooklyn New York",40.6411691,-74.0217785,January 2, 2020
+1585746,Ohio,Cleveland,1437 St Clair Ave NE,0,4,"1437 St Clair Ave NE, Cleveland Ohio",41.5062536442953,-81.6859113624161,January 1, 2020
+1585394,West Virginia,Huntington,1113 4th Ave,0,7,"1113 4th Ave, Huntington West Virginia",38.4213917,-82.439813,January 1, 2020
+1585894,Missouri,Saint Louis,3000  S Jefferson Ave,3,2,"3000  S Jefferson Ave, Saint Louis Missouri",38.59970955,-90.22382028928202,January 1, 2020
+2125953,California,Oakland,1400  8th Ave,0,4,"1400  8th Ave, Oakland California",37.793585,-122.251171,September 26, 2021
+2125790,Illinois,Chicago,800  S Albany Ave,0,0,"800  S Albany Ave, Chicago Illinois",41.870857,-87.703481,September 26, 2021
+2125613,New York,Utica,800  Mohawk St,0,4,"800  Mohawk St, Utica New York",43.095665,-75.21945,September 25, 2021
+2124396,South Carolina,Aiken,749 Silver Bluff Rd,4,1,"749 Silver Bluff Rd, Aiken South Carolina",33.502291,-81.74383922222222,September 24, 2021
+2124887,California,Los Angeles,11600  Willowbrook Ave,0,4,"11600  Willowbrook Ave, Los Angeles California",33.9292137,-118.2379133,September 24, 2021
+2123395,Tennessee,Collierville,240 New Byhalia Rd,2,14,"240 New Byhalia Rd, Collierville Tennessee",35.05066769462499,-89.68760058564871,September 23, 2021
+2121381,District of Columbia,Washington,2200  Alabama Ave SE,0,5,"2200  Alabama Ave SE, Washington District of Columbia",38.85095564864864,-76.97460989189189,September 21, 2021
+2121031,Missouri,Saint Louis,2000  St Charles St,1,3,"2000  St Charles St, Saint Louis Missouri",38.633445,-90.208076,September 20, 2021
+2119950,South Carolina,Yemassee,145 Yemassee Hwy,1,7,"145 Yemassee Hwy, Yemassee South Carolina",32.69371625,-80.85710031175779,September 19, 2021
+2119701,Florida,Miami,14900  Pierce St,0,4,"14900  Pierce St, Miami Florida",25.6306703,-80.36943786899316,September 19, 2021
+2119736,California,Oakland,300  17th St,1,3,"300  17th St, Oakland California",37.8054855,-122.2664576210868,September 19, 2021
+2119609,Illinois,Chicago,900  N Massasoit Ave,0,5,"900  N Massasoit Ave, Chicago Illinois",41.89674425,-87.76934517733353,September 19, 2021
+2119583,New York,Rochester,300  Driving Park Ave,2,2,"300  Driving Park Ave, Rochester New York",43.18102104,-77.63797332,September 19, 2021
+2119101,Illinois,Danville,3164 E Main St,2,2,"3164 E Main St, Danville Illinois",40.13229892553192,-87.57697864893618,September 18, 2021
+2119478,Louisiana,Opelousas,500  Sapphire St,0,5,"500  Sapphire St, Opelousas Louisiana",30.539282,-92.094044,September 18, 2021
+2118451,Georgia,Augusta,519 Broad St,0,4,"519 Broad St, Augusta Georgia",33.47335765562453,-81.95944383729822,September 17, 2021
+2116343,Maryland,Baltimore,1700  N Milton Ave,0,4,"1700  N Milton Ave, Baltimore Maryland",39.3101607,-76.58321038642046,September 14, 2021
+2116205,Ohio,Cleveland,2747 Cedar Ave,0,6,"2747 Cedar Ave, Cleveland Ohio",41.49878394630873,-81.66905233557047,September 14, 2021
+2115522,Wisconsin,Milwaukee,3073 N Sherman Blvd,0,5,"3073 N Sherman Blvd, Milwaukee Wisconsin",43.07465459183673,-87.9674858367347,September 13, 2021
+2114626,Texas,Temple,900  S 24th St,0,4,"900  S 24th St, Temple Texas",31.083263,-97.330984,September 12, 2021
+2114481,Michigan,Detroit,2700  Halleck St,2,4,"2700  Halleck St, Detroit Michigan",42.407714,-83.06699,September 12, 2021
+2113841,Illinois,Chicago,300  E Kensington Ave,1,5,"300  E Kensington Ave, Chicago Illinois",41.68405,-87.61661,September 11, 2021
+2114510,Alabama,Dothan,2000 Reeves St,0,5,"2000 Reeves St, Dothan Alabama",31.251099776531344,-85.38973487150997,September 11, 2021
+2113623,Illinois,Chicago,900  E 79th St,1,3,"900  E 79th St, Chicago Illinois",41.751405,-87.601986,September 11, 2021
+2114583,New York,Utica,700  Noyes St,0,4,"700  Noyes St, Utica New York",43.096175,-75.24702,September 11, 2021
+2112450,Florida,Orlando,5526 S Orange Blossom Trl,0,4,"5526 S Orange Blossom Trl, Orlando Florida",28.534486,-81.397238,September 10, 2021
+2111858,Illinois,East Saint Louis,510 Martin Luther King Dr,0,7,"510 Martin Luther King Dr, East Saint Louis Illinois",38.6278473,-90.1548355,September 9, 2021
+2112252,Alabama,Montgomery,1800  Cotton Court,1,3,"1800  Cotton Court, Montgomery Alabama",32.405553,-86.284456,September 9, 2021
+2111895,Missouri,Saint Louis,4000  St Ferdinand Ave,0,4,"4000  St Ferdinand Ave, Saint Louis Missouri",38.655446,-90.231833,September 8, 2021
+2110077,Kansas,Wichita,351 N Mosley St,1,5,"351 N Mosley St, Wichita Kansas",37.69076085657335,-97.32765547259648,September 7, 2021
+2109075,Georgia,Atlanta,868 Joseph E Boone Blvd NW,0,5,"868 Joseph E Boone Blvd NW, Atlanta Georgia",33.7635543,-84.4344881,September 6, 2021
+2108892,Missouri,Independence,116 W Lexington Ave,0,4,"116 W Lexington Ave, Independence Missouri",39.0922272244898,-94.416038,September 5, 2021
+2108560,New York,Bronx,4848 White Plains Rd,0,4,"4848 White Plains Rd, Bronx New York",40.906462,-73.8486916,September 5, 2021
+2108414,Texas,Houston,7518 Imogene St,4,0,"7518 Imogene St, Houston Texas",29.683501375,-95.5186459375,September 5, 2021
+2109384,Ohio,Cincinnati,6308 Corbly Rd,0,4,"6308 Corbly Rd, Cincinnati Ohio",39.09417,-84.38322857142857,September 5, 2021
+2107828,Louisiana,Monroe,1600  Winnsboro Rd,1,3,"1600  Winnsboro Rd, Monroe Louisiana",32.484304,-92.085926,September 4, 2021
+2107916,Alabama,Birmingham,9164 Parkway E,2,2,"9164 Parkway E, Birmingham Alabama",33.58648514285714,-86.70146285714286,September 4, 2021
+2107930,District of Columbia,Washington,700  Longfellow St NW,3,3,"700  Longfellow St NW, Washington District of Columbia",38.95725255,-77.0225406663882,September 4, 2021
+2107875,Pennsylvania,Pittsburgh,7300  Hamilton Ave,0,4,"7300  Hamilton Ave, Pittsburgh Pennsylvania",40.454092,-79.895548,September 4, 2021
+2107476,Illinois,Chicago,1400  S Tripp Ave,0,5,"1400  S Tripp Ave, Chicago Illinois",41.862307,-87.73128,September 4, 2021
+2107621,Texas,Austin,9345 US-290,1,3,"9345 US-290, Austin Texas",30.328789,-97.64201996186976,September 3, 2021
+2107467,Louisiana,New Iberia,927 S Lewis St,1,3,"927 S Lewis St, New Iberia Louisiana",29.99100272973269,-91.8133210328958,September 3, 2021
+2107198,New York,Niagara Falls,336 19th St,0,4,"336 19th St, Niagara Falls New York",43.087948,-79.03917075333334,September 2, 2021
+2104181,Illinois,Normal,2000  Lambert Dr,3,3,"2000  Lambert Dr, Normal Illinois",40.545333,-88.984227,August 30, 2021
+2103256,Tennessee,Nashville,2621 Jefferson St,0,5,"2621 Jefferson St, Nashville Tennessee",36.16798760311176,-86.81734463048073,August 29, 2021
+2102991,Nevada,Las Vegas,1700  S Rainbow Blvd,1,3,"1700  S Rainbow Blvd, Las Vegas Nevada",36.1737737,-115.2442846,August 29, 2021
+2103035,California,San Diego,3100  Mission Blvd,0,4,"3100  Mission Blvd, San Diego California",32.7979758,-117.2559199,August 28, 2021
+2102694,Illinois,Chicago,2800  W 12th Pl,0,4,"2800  W 12th Pl, Chicago Illinois",41.865748,-87.69601,August 28, 2021
+2101774,West Virginia,Huntington,300  Oney Ave,2,2,"300  Oney Ave, Huntington West Virginia",38.411009,-82.40544,August 27, 2021
+2101199,California,Los Angeles,8400  Fountain Ave,0,4,"8400  Fountain Ave, Los Angeles California",34.0943344,-118.3447743,August 27, 2021
+2100578,Minnesota,Minneapolis,3006 Lyndale Ave,0,7,"3006 Lyndale Ave, Minneapolis Minnesota",44.947932,-93.2883654,August 26, 2021
+2097075,Illinois,Chicago,3400  W Lake St,1,4,"3400  W Lake St, Chicago Illinois",41.884728,-87.711275,August 22, 2021
+2098321,Oregon,Portland,322 NW Everett St,0,5,"322 NW Everett St, Portland Oregon",45.5251305,-122.674072,August 22, 2021
+2097481,Illinois,Carbondale,501 W Cherry St,1,3,"501 W Cherry St, Carbondale Illinois",37.72301,-89.220948,August 22, 2021
+2097494,Colorado,Denver,19th St and Blake St,1,5,"19th St and Blake St, Denver Colorado",39.753144,-104.995433,August 22, 2021
+2097271,Michigan,Grand Rapids,1500  Linden Ave SE,1,3,"1500  Linden Ave SE, Grand Rapids Michigan",42.935314,-85.651134,August 22, 2021
+2096687,Illinois,Chicago,3500  W Walnut St,0,4,"3500  W Walnut St, Chicago Illinois",41.8855767,-87.7137146,August 21, 2021
+2097063,Illinois,Chicago,1600  E 87th Pl,1,5,"1600  E 87th Pl, Chicago Illinois",41.736103,-87.584187,August 21, 2021
+2095800,Michigan,Flint,2905 Saginaw St,1,3,"2905 Saginaw St, Flint Michigan",43.0424629,-83.6943251,August 20, 2021
+2095116,Illinois,Chicago,300  E 47th St,0,4,"300  E 47th St, Chicago Illinois",41.809421,-87.61943,August 19, 2021
+2095087,Pennsylvania,Philadelphia,5100  Germantown Ave,1,4,"5100  Germantown Ave, Philadelphia Pennsylvania",40.0534865,-75.1862483,August 19, 2021
+2095394,Maryland,Edgewood,1700  Crimson Tree Way,1,3,"1700  Crimson Tree Way, Edgewood Maryland",39.430747,-76.319613,August 19, 2021
+2094421,Maryland,Germantown,19575 Scenery Dr,1,3,"19575 Scenery Dr, Germantown Maryland",39.17656735950029,-77.23573156451792,August 18, 2021
+2094071,Ohio,Youngstown,619 Samuel Ave,2,4,"619 Samuel Ave, Youngstown Ohio",41.07985957575757,-80.64428351515151,August 18, 2021
+2093581,New York,Brooklyn,422 Mother Gaston Blvd,0,5,"422 Mother Gaston Blvd, Brooklyn New York",40.668739571428574,-73.90672452380953,August 17, 2021
+2092469,New York,Brooklyn,927 DeKalb Ave,0,8,"927 DeKalb Ave, Brooklyn New York",40.6932185,-73.9385875914312,August 16, 2021
+2092227,Michigan,Detroit,4421 Central Ave,1,3,"4421 Central Ave, Detroit Michigan",42.34178624045471,-82.97379665472806,August 16, 2021
+2091597,Texas,San Antonio,1621 S New Braunfels Ave,3,2,"1621 S New Braunfels Ave, San Antonio Texas",29.40358320408163,-98.461333,August 15, 2021
+2091489,Illinois,Chicago,1300  E 75th St,0,4,"1300  E 75th St, Chicago Illinois",41.75890055,-87.5930517,August 15, 2021
+2090971,Ohio,Akron,271 Maiden Ln,0,5,"271 Maiden Ln, Akron Ohio",41.078191958333335,-81.52004266666667,August 14, 2021
+2090924,New Jersey,Trenton,875 New Willow St,0,4,"875 New Willow St, Trenton New Jersey",40.23363176530613,-74.76103391836735,August 14, 2021
+2092110,Texas,Wichita Falls,2406 Sheppard Access Rd,0,4,"2406 Sheppard Access Rd, Wichita Falls Texas",33.94316902040816,-98.5129813265306,August 14, 2021
+2089972,Nevada,Las Vegas,3100  E Sunset Rd,1,6,"3100  E Sunset Rd, Las Vegas Nevada",36.0711992,-115.1718007,August 13, 2021
+2088659,Pennsylvania,Philadelphia,5500 Rising Sun Ave,1,4,"5500 Rising Sun Ave, Philadelphia Pennsylvania",40.033185,-75.116089,August 11, 2021
+2087433,Oregon,Portland,NE Milton St,2,4,"NE Milton St, Portland Oregon",45.5488601,-122.577485,August 10, 2021
+2086236,Michigan,Flint,3201 Hammerberg Rd,2,4,"3201 Hammerberg Rd, Flint Michigan",42.980992,-83.703676,August 9, 2021
+2086148,Massachusetts,Boston,27 Irma St,1,5,"27 Irma St, Boston Massachusetts",42.28719670731707,-71.0875935609756,August 9, 2021
+2085396,New York,Brooklyn,101 Wortman Ave,3,2,"101 Wortman Ave, Brooklyn New York",40.655264,-73.889075,August 8, 2021
+2085401,Illinois,Chicago,8300  S Halsted St,1,4,"8300  S Halsted St, Chicago Illinois",41.7432263,-87.64419414119348,August 8, 2021
+2085438,District of Columbia,Washington,3600  New York Ave NE,0,4,"3600  New York Ave NE, Washington District of Columbia",38.91699315,-76.95503094977258,August 8, 2021
+2085388,Illinois,Chicago,1800  W 87th St,1,6,"1800  W 87th St, Chicago Illinois",41.73599025,-87.6683910459947,August 8, 2021
+2085542,Louisiana,New Orleans,700  Bourbon St,0,5,"700  Bourbon St, New Orleans Louisiana",29.9586069,-90.0654573,August 8, 2021
+2085256,Alabama,Montgomery,200  John Morris Ave,0,4,"200  John Morris Ave, Montgomery Alabama",32.324269994029656,-86.30287467683466,August 7, 2021
+2085071,Illinois,Chicago,211 S Maplewood Ave,0,4,"211 S Maplewood Ave, Chicago Illinois",41.877969,-87.68973672548299,August 7, 2021
+2084884,Virginia,Norfolk,700  Granby St,0,4,"700  Granby St, Norfolk Virginia",36.8850053,-76.2814404,August 7, 2021
+2084889,Tennessee,Nashville,1000  43rd Ave North,0,4,"1000  43rd Ave North, Nashville Tennessee",36.161281,-86.838934,August 6, 2021
+2082957,Pennsylvania,Philadelphia,3653 Germantown Ave,0,4,"3653 Germantown Ave, Philadelphia Pennsylvania",40.00856776923077,-75.15050564102563,August 4, 2021
+2081884,Illinois,Urbana,1204 W Church St,1,3,"1204 W Church St, Urbana Illinois",40.118464876897725,-88.22425846698944,August 3, 2021
+2081131,South Carolina,Greenwood,101 Heddy Rd,3,1,"101 Heddy Rd, Greenwood South Carolina",34.091028,-82.101248,August 2, 2021
+2080733,South Carolina,Columbia,6908 Two Notch Rd,0,9,"6908 Two Notch Rd, Columbia South Carolina",34.0393736,-81.0006244,August 2, 2021
+2079920,Louisiana,New Orleans,1600  Iberville St,1,3,"1600  Iberville St, New Orleans Louisiana",29.959396,-90.076211,August 1, 2021
+2080390,Texas,Nacogdoches,1400  Dolph St,1,3,"1400  Dolph St, Nacogdoches Texas",31.6110925,-94.6679723,August 1, 2021
+2080536,Rhode Island,Providence,77 Reservoir Ave,0,5,"77 Reservoir Ave, Providence Rhode Island",41.79438905,-71.42705003621379,August 1, 2021
+2079913,Louisiana,New Orleans,Bourbon St and Orleans Ave,0,5,"Bourbon St and Orleans Ave, New Orleans Louisiana",29.9626394,-90.0620412,August 1, 2021
+2079044,Ohio,Columbus,1662 W Mound St,1,5,"1662 W Mound St, Columbus Ohio",39.944113,-83.042211,July 31, 2021
+2078897,Illinois,Chicago,1600  E Hayes Dr,1,3,"1600  E Hayes Dr, Chicago Illinois",41.7805978,-87.5864569,July 31, 2021
+2079271,Indiana,Indianapolis,1134 W 30th St,0,5,"1134 W 30th St, Indianapolis Indiana",39.81014448387097,-86.18174383870968,July 31, 2021
+2079516,New York,Corona (Queens),97-07 37th Ave,0,10,"97-07 37th Ave, Corona (Queens) New York",40.7520729,-73.86964250737705,July 31, 2021
+2081480,Ohio,Cleveland,3100  W 25th St,0,5,"3100  W 25th St, Cleveland Ohio",41.469811,-81.699841,July 31, 2021
+2079533,Kentucky,Lexington,414 East 5th St,0,5,"414 East 5th St, Lexington Kentucky",38.047578125,-84.48322575,July 31, 2021
+2077018,District of Columbia,Washington,3400  22nd St SE,0,4,"3400  22nd St SE, Washington District of Columbia",38.847275,-76.972734,July 28, 2021
+2074353,Michigan,Detroit,16342 W McNichols Rd,0,6,"16342 W McNichols Rd, Detroit Michigan",42.4155762,-83.2177399,July 25, 2021
+2074406,California,Wasco,1718 1st St,5,1,"1718 1st St, Wasco California",35.60072309090909,-119.34666963636364,July 25, 2021
+2073472,Illinois,Chicago,4800  W Race Ave,0,5,"4800  W Race Ave, Chicago Illinois",41.890551,-87.746423,July 25, 2021
+2073597,Washington,Seattle,100  Occidental Ave S,2,3,"100  Occidental Ave S, Seattle Washington",47.601595,-122.332755,July 25, 2021
+2072782,Ohio,Columbus,N High St and E 4th Ave,0,4,"N High St and E 4th Ave, Columbus Ohio",39.9851721,-83.0050202,July 24, 2021
+2072962,Texas,Amarillo,1306 NE 3rd Ave,0,6,"1306 NE 3rd Ave, Amarillo Texas",35.213806254237284,-101.82011523728814,July 24, 2021
+2072342,South Carolina,Spartanburg,151 Palisade St,2,2,"151 Palisade St, Spartanburg South Carolina",34.9325555,-81.9296405,July 23, 2021
+2071982,South Carolina,Darlington,505 Oleander Dr,0,4,"505 Oleander Dr, Darlington South Carolina",34.32437989041096,-79.86312430136987,July 23, 2021
+2072896,California,San Rafael,842 4th St,2,4,"842 4th St, San Rafael California",37.9730409,-122.52480928638708,July 23, 2021
+2071343,Texas,Houston,9717 N Houston Rosslyn Rd,1,5,"9717 N Houston Rosslyn Rd, Houston Texas",29.8811753125,-95.49435775,July 22, 2021
+2070329,Illinois,Chicago,1400  S Ridgeway Ave,0,5,"1400  S Ridgeway Ave, Chicago Illinois",41.861576,-87.71905,July 21, 2021
+2070310,Illinois,Chicago,3300  W Douglas Blvd,2,3,"3300  W Douglas Blvd, Chicago Illinois",41.8631682,-87.70817705945925,July 21, 2021
+2067728,New Jersey,Perth Amboy,417 Fayette St,0,6,"417 Fayette St, Perth Amboy New Jersey",40.51383722222222,-74.28003711111111,July 19, 2021
+2068061,Illinois,Chicago,3308 W Flournoy St,0,4,"3308 W Flournoy St, Chicago Illinois",41.87283186178461,-87.7086575917856,July 19, 2021
+2066335,Ohio,Toledo,5205 Telegraph Rd,1,3,"5205 Telegraph Rd, Toledo Ohio",41.71099,-83.5466095,July 18, 2021
+2067135,Florida,Gainesville,1634 NE 8th Ave,1,4,"1634 NE 8th Ave, Gainesville Florida",29.659301421052632,-82.3036717368421,July 18, 2021
+2066680,North Carolina,Burlington,421 N Church St,0,4,"421 N Church St, Burlington North Carolina",36.09929497128632,-79.4328177587812,July 18, 2021
+2066905,Arizona,Tucson,1575 E 36th St,4,3,"1575 E 36th St, Tucson Arizona",32.1899487,-110.9156006,July 18, 2021
+2067290,Texas,Houston,3421 Antoine Dr,3,2,"3421 Antoine Dr, Houston Texas",29.8093078,-95.4752603,July 18, 2021
+2065252,Oregon,Portland,300  SW 3rd Ave,1,6,"300  SW 3rd Ave, Portland Oregon",45.520775,-122.674046,July 17, 2021
+2066189,Illinois,Chicago,5006 W Ohio St,0,6,"5006 W Ohio St, Chicago Illinois",41.89153955,-87.75093246016294,July 17, 2021
+2064260,New Hampshire,Manchester,I 293 and Brown Ave,0,4,"I 293 and Brown Ave, Manchester New Hampshire",42.975896,-71.463047,July 16, 2021
+2066249,South Carolina,Greenville,840 Mauldin Rd,1,3,"840 Mauldin Rd, Greenville South Carolina",34.781589350000004,-82.35129043909035,July 16, 2021
+2065118,Illinois,Chicago,647 N Lockwood Ave,1,4,"647 N Lockwood Ave, Chicago Illinois",41.8925779,-87.75770145582808,July 16, 2021
+2065009,Pennsylvania,Philadelphia,2700  Ruby Terr,1,4,"2700  Ruby Terr, Philadelphia Pennsylvania",39.93259,-75.214564,July 16, 2021
+2063495,Texas,Levelland,1105 10th St,1,5,"1105 10th St, Levelland Texas",33.58321961348229,-102.38056665177048,July 15, 2021
+2065533,Massachusetts,Boston,265 Centre St,0,4,"265 Centre St, Boston Massachusetts",42.32317595,-71.10069352698801,July 15, 2021
+2063897,Missouri,Lake Ozark,1312 Bagnell Dam Blvd,1,4,"1312 Bagnell Dam Blvd, Lake Ozark Missouri",38.1954873,-92.6424991,July 15, 2021
+2062097,Illinois,Chicago,4600  W Monroe St,0,5,"4600  W Monroe St, Chicago Illinois",41.879383,-87.740739,July 14, 2021
+2062359,Illinois,Chicago,1533 W 79th St,0,5,"1533 W 79th St, Chicago Illinois",41.75013705,-87.6624239847434,July 14, 2021
+2063394,Delaware,Claymont,50  Balfour Ave,2,2,"50  Balfour Ave, Claymont Delaware",39.8101141491814,-75.44989244869855,July 14, 2021
+2060865,Indiana,Indianapolis,4200  Arborcrest Dr,0,4,"4200  Arborcrest Dr, Indianapolis Indiana",39.833398,-86.022896,July 13, 2021
+2060949,Michigan,Detroit,9855 Chalmers St,1,6,"9855 Chalmers St, Detroit Michigan",42.411713081632655,-82.9691033877551,July 13, 2021
+2060706,Pennsylvania,Beaver Falls,900 9th St,2,3,"900 9th St, Beaver Falls Pennsylvania",40.750114,-80.322396,July 12, 2021
+2058950,Massachusetts,Boston,34 Cameron St,0,4,"34 Cameron St, Boston Massachusetts",42.31038282857143,-71.06380574285714,July 10, 2021
+2058837,Ohio,Springfield,405 S Burnett Rd,1,3,"405 S Burnett Rd, Springfield Ohio",39.91651262626262,-83.77037286868688,July 10, 2021
+2058421,California,Los Angeles,7114 W Manchester Ave,0,4,"7114 W Manchester Ave, Los Angeles California",33.9599591,-118.3147694,July 9, 2021
+2053500,California,Santa Rosa,1500  Beachwood Dr,1,3,"1500  Beachwood Dr, Santa Rosa California",38.422662,-122.720526,July 5, 2021
+2055252,New York,Buffalo,50  Donovan Dr,1,3,"50  Donovan Dr, Buffalo New York",42.9137174328684,-78.82853105467673,July 5, 2021
+2053048,Illinois,Chicago,6108 S Wabash Ave,2,4,"6108 S Wabash Ave, Chicago Illinois",41.7833777,-87.62444709365268,July 5, 2021
+2054132,Illinois,Peoria,600  Haungs Ave,1,3,"600  Haungs Ave, Peoria Illinois",40.71409842023,-89.56401028832684,July 4, 2021
+2053508,Nevada,North Las Vegas,1200  W Helen Ave,2,7,"1200  W Helen Ave, North Las Vegas Nevada",36.204683,-115.157441,July 4, 2021
+2052342,Nebraska,Omaha,2311 N 24th St,1,4,"2311 N 24th St, Omaha Nebraska",41.27996533333334,-95.94691516666668,July 4, 2021
+2052689,Illinois,Danville,12 S College St,0,4,"12 S College St, Danville Illinois",40.12417679166666,-87.625447,July 4, 2021
+2053346,Texas,Dallas,8200  Towns St,3,3,"8200  Towns St, Dallas Texas",32.916699,-96.761767,July 4, 2021
+2053365,Texas,Dallas,3700 Dixon Ave,0,5,"3700 Dixon Ave, Dallas Texas",32.7618336,-96.73688545540094,July 4, 2021
+2052353,Texas,Fort Worth,3400  Horne St,0,8,"3400  Horne St, Fort Worth Texas",32.727247,-97.408066,July 4, 2021
+2053563,Illinois,Rantoul,400  S Maplewood Dr,0,5,"400  S Maplewood Dr, Rantoul Illinois",40.308632,-88.13659,July 4, 2021
+2052058,North Carolina,Chadbourn,Broadway Rd,3,1,"Broadway Rd, Chadbourn North Carolina",34.311808,-78.847873,July 3, 2021
+2051763,Pennsylvania,Lancaster,50  W Orange St,0,4,"50  W Orange St, Lancaster Pennsylvania",40.14634395695239,-76.60112909974448,July 3, 2021
+2052471,Georgia,Swainsboro,229 S Main St,1,3,"229 S Main St, Swainsboro Georgia",32.595277857142854,-82.33245514285714,July 3, 2021
+2052346,Illinois,Chicago,1000  W 89th St,0,4,"1000  W 89th St, Chicago Illinois",41.732537,-87.648556,July 3, 2021
+2050836,Virginia,Norfolk,923 Madison Ave,0,4,"923 Madison Ave, Norfolk Virginia",36.85093,-76.264902,July 2, 2021
+2051190,Pennsylvania,Philadelphia,7700  Ogontz Ave,1,4,"7700  Ogontz Ave, Philadelphia Pennsylvania",40.0708781,-75.1576859,July 2, 2021
+2050972,Illinois,Champaign,704 N Hickory St,1,4,"704 N Hickory St, Champaign Illinois",40.12235275510204,-88.24260506122448,July 2, 2021
+2050593,Illinois,Chicago,6500  S Halsted St,0,7,"6500  S Halsted St, Chicago Illinois",41.8514189,-87.6464536,July 1, 2021
+2050151,South Carolina,Spartanburg,225 Amelia St,2,4,"225 Amelia St, Spartanburg South Carolina",34.962914,-81.95021440992085,July 1, 2021
+2050353,Virginia,Chesapeake,1200  Seaboard Ave,2,2,"1200  Seaboard Ave, Chesapeake Virginia",36.815887,-76.270927,July 1, 2021
+2049419,Illinois,Chicago,2200  S Millard Ave,0,4,"2200  S Millard Ave, Chicago Illinois",41.851524,-87.716325,June 30, 2021
+2049907,Louisiana,Marrero,6500  Lapalco Blvd,0,4,"6500  Lapalco Blvd, Marrero Louisiana",29.876580616726216,-90.11891607303772,June 30, 2021
+2050167,Delaware,Dover,100  S New St,1,3,"100  S New St, Dover Delaware",39.158215,-75.528611,June 30, 2021
+2049845,Texas,Houston,12101 Fondren Rd,3,1,"12101 Fondren Rd, Houston Texas",29.6560782,-95.5083596,June 30, 2021
+2046714,Illinois,Chicago,2000  E 71st St,1,5,"2000  E 71st St, Chicago Illinois",41.7664771,-87.57593307578409,June 27, 2021
+2046574,Illinois,Saint Charles,2051 Lincoln Hwy,1,3,"2051 Lincoln Hwy, Saint Charles Illinois",41.9002089072569,-88.33586741687688,June 27, 2021
+2046897,Illinois,Chicago,6300  South Artesian Ave,1,10,"6300  South Artesian Ave, Chicago Illinois",41.779116,-87.684969,June 27, 2021
+2047170,Tennessee,Memphis,2500  Dunn Ave,3,1,"2500  Dunn Ave, Memphis Tennessee",35.091361,-89.976964,June 27, 2021
+2047726,North Carolina,Greensboro,801 Province Spring Cir,0,4,"801 Province Spring Cir, Greensboro North Carolina",36.06635433410805,-79.80110261485558,June 27, 2021
+2046781,Texas,Houston,4902 Laura Koppe Rd,1,3,"4902 Laura Koppe Rd, Houston Texas",29.840452224489795,-95.31878469387756,June 26, 2021
+2047787,Alabama,Fort Deposit,Forest Dr,1,3,"Forest Dr, Fort Deposit Alabama",31.9891422,-86.5773394,June 26, 2021
+2045043,Ohio,Columbus,I-670 and Neil Ave,0,4,"I-670 and Neil Ave, Columbus Ohio",39.9851973,-83.0126614,June 25, 2021
+2045564,Illinois,Chicago,7000  S Indiana Ave,0,4,"7000  S Indiana Ave, Chicago Illinois",41.76731,-87.620269,June 25, 2021
+2044733,Florida,Gainesville,4701 NW 6th St,1,4,"4701 NW 6th St, Gainesville Florida",29.69833045959596,-82.33794441414142,June 24, 2021
+2043834,Alabama,Montgomery,100  Rotary St,2,2,"100  Rotary St, Montgomery Alabama",32.41948,-86.282663,June 23, 2021
+2043465,New York,Buffalo,114 Hickory St,0,4,"114 Hickory St, Buffalo New York",42.88218554165781,-78.85932410669645,June 23, 2021
+2043898,Illinois,Chicago,4900  W Hubbard St,0,4,"4900  W Hubbard St, Chicago Illinois",41.8888487,-87.7482411932304,June 23, 2021
+2043715,Illinois,Chicago,7000  S Vincennes Ave,0,4,"7000  S Vincennes Ave, Chicago Illinois",41.6979977,-87.6592612,June 23, 2021
+2041726,Missouri,Saint Louis,4002 Sullivan Ave,3,4,"4002 Sullivan Ave, Saint Louis Missouri",38.66181163713701,-90.22734900412564,June 21, 2021
+2041555,District of Columbia,Washington,300  50th St NE,0,4,"300  50th St NE, Washington District of Columbia",38.8937872,-76.9301904,June 21, 2021
+2040643,Virginia,Richmond,200  Crane St,1,3,"200  Crane St, Richmond Virginia",37.535569,-77.427239,June 20, 2021
+2041297,California,Richmond,2108 Dunn Ave,3,5,"2108 Dunn Ave, Richmond California",37.94875188891411,-122.34911520855388,June 20, 2021
+2040265,Colorado,Aurora,12455 E Mississippi Ave,1,4,"12455 E Mississippi Ave, Aurora Colorado",39.6966747,-104.8186094,June 20, 2021
+2040374,Texas,Dallas,4619 E. R L Thornton Freeway,0,8,"4619 E. R L Thornton Freeway, Dallas Texas",32.790942349999995,-96.76198286669424,June 20, 2021
+2040243,Indiana,Granger,7321 Heritage Square Dr,1,4,"7321 Heritage Square Dr, Granger Indiana",41.7265514,-86.1772633,June 20, 2021
+2040991,New Jersey,Atlantic City,1700  Atlantic Ave,1,3,"1700  Atlantic Ave, Atlantic City New Jersey",39.360464,-74.431963,June 20, 2021
+2040732,Ohio,Cincinnati,3000  Borden St,1,3,"3000  Borden St, Cincinnati Ohio",39.1542687,-84.5485018,June 20, 2021
+2039346,Louisiana,Baton Rouge,7132 Florida Blvd,2,4,"7132 Florida Blvd, Baton Rouge Louisiana",30.4561834,-91.0744703,June 19, 2021
+2040013,New Jersey,Newark,525 Elizabeth Ave,0,4,"525 Elizabeth Ave, Newark New Jersey",40.70849562395262,-74.20153369120709,June 19, 2021
+2039964,California,Oakland,2200  Lakeshore Ave,1,7,"2200  Lakeshore Ave, Oakland California",37.805298,-122.250355,June 19, 2021
+2037887,North Carolina,Durham,1600  Holloway St,2,2,"1600  Holloway St, Durham North Carolina",35.993638700000005,-78.87373694448824,June 17, 2021
+2038622,Ohio,Cincinnati,3056 Mathers St,1,3,"3056 Mathers St, Cincinnati Ohio",39.1365494737875,-84.48598471091879,June 17, 2021
+2036635,Maryland,Baltimore,2100  West Lexington St,1,5,"2100  West Lexington St, Baltimore Maryland",39.2905613,-76.6504316,June 16, 2021
+2035313,Alabama,Albertville,956 Industrial Blvd,3,2,"956 Industrial Blvd, Albertville Alabama",34.23682101818583,-86.18754191964685,June 15, 2021
+2035452,Illinois,Chicago,6221 S Morgan St,5,3,"6221 S Morgan St, Chicago Illinois",41.78084045,-87.64938371505906,June 15, 2021
+2035733,Georgia,Columbus,3400 8th Ave,2,2,"3400 8th Ave, Columbus Georgia",32.495622,-84.982596,June 14, 2021
+2034470,Florida,Boynton Beach,I-95,1,3,"I-95, Boynton Beach Florida",26.5035542,-80.0771621,June 14, 2021
+2034408,Michigan,Lansing,300  N Cedar St,2,2,"300  N Cedar St, Lansing Michigan",42.733741,-84.54647,June 14, 2021
+2033605,Kentucky,Louisville,5200  Robinwood Rd,1,3,"5200  Robinwood Rd, Louisville Kentucky",38.1751141,-85.66601955071697,June 13, 2021
+2032220,Texas,Austin,400  E 6th St,1,14,"400  E 6th St, Austin Texas",30.2674009,-97.73905380821958,June 12, 2021
+2032203,Illinois,Chicago,7500  S Prairie Ave,1,9,"7500  S Prairie Ave, Chicago Illinois",41.75823,-87.618419,June 12, 2021
+2032486,Ohio,Cleveland,8805 Buckeye Rd,3,4,"8805 Buckeye Rd, Cleveland Ohio",41.48634634967855,-81.62482213986205,June 12, 2021
+2031801,Washington,Seattle (White Center),9808 16th Ave SW,2,2,"9808 16th Ave SW, Seattle (White Center) Washington",47.5151644,-122.35483465052744,June 11, 2021
+2031976,Georgia,Savannah,200  Avery St,2,6,"200  Avery St, Savannah Georgia",32.074321,-81.083638,June 11, 2021
+2032580,North Carolina,Winston Salem (Winston-salem),844 E. Devonshire St,1,3,"844 E. Devonshire St, Winston Salem (Winston-salem) North Carolina",36.06685208085308,-80.22116491483315,June 11, 2021
+2032282,Texas,Dallas,378 N Jim Miller Rd,0,5,"378 N Jim Miller Rd, Dallas Texas",32.7174074,-96.69981897226036,June 11, 2021
+2030639,New York,Yonkers,150 Elm St,0,4,"150 Elm St, Yonkers New York",40.933264,-73.8902327,June 10, 2021
+2028745,Tennessee,Memphis,2246 Eldridge Ave,1,4,"2246 Eldridge Ave, Memphis Tennessee",35.17056911136711,-89.98235202487855,June 8, 2021
+2028928,Texas,Houston,4115 Washington Ave,0,5,"4115 Washington Ave, Houston Texas",29.7700409,-95.4029808,June 8, 2021
+2027736,Ohio,Cleveland,4100  E 81st St,0,6,"4100  E 81st St, Cleveland Ohio",41.44730628571428,-81.62895257142857,June 7, 2021
+2026713,Utah,Salt Lake City,1359 N General Dr,1,4,"1359 N General Dr, Salt Lake City Utah",40.80108163921461,-111.948283,June 6, 2021
+2026802,Missouri,Saint Louis,100 N 7th St,0,4,"100 N 7th St, Saint Louis Missouri",38.6268093,-90.1917581,June 6, 2021
+2027725,Ohio,Cleveland,3700  Woodbridge Ave,0,8,"3700  Woodbridge Ave, Cleveland Ohio",41.460898919598,-81.70932001005025,June 6, 2021
+2026123,Florida,Miami (Kendall),10549 SW 109th Ct,3,6,"10549 SW 109th Ct, Miami (Kendall) Florida",25.6710074,-80.37224371799965,June 6, 2021
+2027375,California,Oakland,5100  Ygnacio Ave,0,5,"5100  Ygnacio Ave, Oakland California",37.773578,-122.203828,June 6, 2021
+2026112,Illinois,Chicago,8900  S Cottage Grove Ave,0,8,"8900  S Cottage Grove Ave, Chicago Illinois",41.73286985,-87.60514135,June 6, 2021
+2026257,Louisiana,New Orleans,10150 I-10 Service Rd,0,9,"10150 I-10 Service Rd, New Orleans Louisiana",30.0384776,-89.97170943863173,June 5, 2021
+2025260,Indiana,Indianapolis,7500 N Shadeland Ave,2,2,"7500 N Shadeland Ave, Indianapolis Indiana",39.8797036,-86.0461104,June 5, 2021
+2025891,Michigan,Muskegon,1675 E. Sherman Blvd,1,3,"1675 E. Sherman Blvd, Muskegon Michigan",43.20579073682202,-86.19432104476283,June 4, 2021
+2022821,Ohio,Toledo,1830 W Bancroft St,0,4,"1830 W Bancroft St, Toledo Ohio",41.663494,-83.587679,June 2, 2021
+2025254,Arkansas,Magnolia,Calhoun Rd,0,4,"Calhoun Rd, Magnolia Arkansas",33.2549091,-93.2284495,June 2, 2021
+2022391,Ohio,Springfield,1935 S Yellow Springs St,0,6,"1935 S Yellow Springs St, Springfield Ohio",39.90474804166666,-83.82893341666666,June 2, 2021
+2021130,New York,Brooklyn,Knickerbocker Ave,0,4,"Knickerbocker Ave, Brooklyn New York",40.6987479,-73.9189811,May 31, 2021
+2021398,Missouri,Saint Louis,8800  N Broadway,0,4,"8800  N Broadway, Saint Louis Missouri",38.723784,-90.228261,May 31, 2021
+2019751,Alabama,Aliceville,7th Street NE,1,4,"7th Street NE, Aliceville Alabama",33.133783,-88.144247,May 30, 2021
+2020535,Illinois,Chicago,6718 S Stony Island Ave,0,4,"6718 S Stony Island Ave, Chicago Illinois",41.7727179,-87.5867532,May 30, 2021
+2019155,Texas,San Antonio,3300  Fallen Leaf Ln,2,2,"3300  Fallen Leaf Ln, San Antonio Texas",29.519532,-98.548551,May 29, 2021
+2019384,Missouri,Saint Louis,10466 W Florissant Ave,1,3,"10466 W Florissant Ave, Saint Louis Missouri",38.7620979,-90.2792021,May 29, 2021
+2018931,Florida,Miami,2022 NW 1st Ct,1,6,"2022 NW 1st Ct, Miami Florida",25.7960064,-80.1979564,May 28, 2021
+2015849,Illinois,Chicago,7200  S Princeton Ave,1,3,"7200  S Princeton Ave, Chicago Illinois",41.763447,-87.632274,May 26, 2021
+2015730,California,San Jose,101 W Younger Ave,10,0,"101 W Younger Ave, San Jose California",37.35472524843378,-121.90601056524469,May 26, 2021
+2014343,Michigan,Inkster,27000  Rosewood St,2,2,"27000  Rosewood St, Inkster Michigan",42.299263,-83.316912,May 24, 2021
+2014381,Ohio,West Jefferson,127 Jackson St,4,0,"127 Jackson St, West Jefferson Ohio",39.94698532222222,-83.27277388888889,May 24, 2021
+2012971,Illinois,Chicago,3344 W Ohio St,0,4,"3344 W Ohio St, Chicago Illinois",41.89193465122766,-87.71049090457652,May 23, 2021
+2013595,New York,Bay Shore,135 S Clinton Ave,0,4,"135 S Clinton Ave, Bay Shore New York",40.7249872,-73.2595615,May 23, 2021
+2013096,Virginia,Norfolk,3100  Westminster Ave,0,4,"3100  Westminster Ave, Norfolk Virginia",36.84455605,-76.2477897597515,May 23, 2021
+2012345,Delaware,Wilmington,800  N Pine St,0,4,"800  N Pine St, Wilmington Delaware",39.740966,-75.542937,May 22, 2021
+2013043,Ohio,Columbus,233 S Civic Center Dr,1,5,"233 S Civic Center Dr, Columbus Ohio",39.95666461246126,-83.00329970679392,May 22, 2021
+2011610,Indiana,Fort Wayne,2177 Eden St,1,4,"2177 Eden St, Fort Wayne Indiana",41.06643125124348,-85.12009705247415,May 22, 2021
+2011482,New Jersey,Jersey City,16 Brinkerhoff St,2,4,"16 Brinkerhoff St, Jersey City New Jersey",40.7180175,-74.07117450000001,May 21, 2021
+2010083,Indiana,Evansville,800  Shadewood Ave,1,3,"800  Shadewood Ave, Evansville Indiana",37.9507602,-87.5515095,May 20, 2021
+2007722,California,Oakland,I-580 and Seminary Ave,2,5,"I-580 and Seminary Ave, Oakland California",37.7789665,-122.1812379,May 18, 2021
+2008415,California,Hemet,1200  Valencia Ave,1,4,"1200  Valencia Ave, Hemet California",33.75389804133025,-116.9836890175579,May 18, 2021
+2005991,Ohio,Cincinnati,7751 Reading Rd,1,3,"7751 Reading Rd, Cincinnati Ohio",39.20328925863621,-84.45516618660855,May 16, 2021
+2005776,Georgia,Atlanta,630 Travis St NW,0,4,"630 Travis St NW, Atlanta Georgia",33.77180075,-84.40868959230504,May 16, 2021
+2005671,Michigan,East Lansing,6170 Abbot Rd,0,5,"6170 Abbot Rd, East Lansing Michigan",42.76076179282102,-84.48359083105952,May 16, 2021
+2006621,Georgia,Columbus,2727 Manchester Expy,0,4,"2727 Manchester Expy, Columbus Georgia",32.5207108,-84.8991224,May 16, 2021
+2005813,Alabama,Birmingham,1010 18th St S,1,4,"1010 18th St S, Birmingham Alabama",33.500413167787386,-86.80003127978713,May 16, 2021
+2005238,District of Columbia,Washington,3900  Minnesota Ave NE,1,3,"3900  Minnesota Ave NE, Washington District of Columbia",38.8933939,-76.9507725,May 15, 2021
+2005196,New York,Bronx,1625 Webster Ave,1,4,"1625 Webster Ave, Bronx New York",40.854908,-73.89644,May 15, 2021
+2004666,Illinois,Chicago,7800  S Loomis St,2,3,"7800  S Loomis St, Chicago Illinois",41.8499227,-87.661096,May 15, 2021
+2004413,Pennsylvania,Philadelphia,5600  Market St,0,4,"5600  Market St, Philadelphia Pennsylvania",39.9500245,-75.1448887,May 14, 2021
+2003383,Georgia,Augusta,201 E Telfair St,2,2,"201 E Telfair St, Augusta Georgia",33.464429,-81.94605,May 13, 2021
+2003167,District of Columbia,Washington,200  37th Pl SE,1,3,"200  37th Pl SE, Washington District of Columbia",38.8870869,-76.9523104,May 13, 2021
+2003334,Rhode Island,Providence,87 Carolina Ave,0,8,"87 Carolina Ave, Providence Rhode Island",41.79176925,-71.396276,May 13, 2021
+2002286,Georgia,Buford,2910 Buford Dr NE,2,2,"2910 Buford Dr NE, Buford Georgia",34.065983,-83.98942719696281,May 12, 2021
+2002269,Pennsylvania,Philadelphia,5500  Kingsessing Ave,1,3,"5500  Kingsessing Ave, Philadelphia Pennsylvania",39.937499,-75.223059,May 12, 2021
+2001137,Maryland,Baltimore,800  W Lexington St,0,4,"800  W Lexington St, Baltimore Maryland",39.2910158,-76.6331812,May 11, 2021
+2001362,Alabama,Montgomery,3804 S Court St,0,7,"3804 S Court St, Montgomery Alabama",32.336983146529064,-86.30812370339942,May 10, 2021
+1999125,Colorado,Colorado Springs,2828 Preakness Way,7,0,"2828 Preakness Way, Colorado Springs Colorado",38.79141185642087,-104.73246992017468,May 9, 2021
+1999193,Arizona,Phoenix,122 N 2nd St,1,7,"122 N 2nd St, Phoenix Arizona",33.4500271,-112.0718897,May 9, 2021
+1999423,New Jersey,Newark,378 Chancellor Ave,0,4,"378 Chancellor Ave, Newark New Jersey",40.71045,-74.22363,May 9, 2021
+1999417,Pennsylvania,Philadelphia,100  E Albanus St,2,3,"100  E Albanus St, Philadelphia Pennsylvania",40.026531,-75.123091,May 9, 2021
+1998865,California,Citrus Heights,7440 Auburn Blvd,0,4,"7440 Auburn Blvd, Citrus Heights California",38.701279368421055,-121.29047694736842,May 8, 2021
+1998693,California,Oakland,1440  Lakeshore Ave,0,4,"1440  Lakeshore Ave, Oakland California",37.8152009,-122.2379711,May 8, 2021
+1998537,Michigan,Detroit,15700  Plymouth Rd,0,4,"15700  Plymouth Rd, Detroit Michigan",42.3737085,-83.1518676,May 8, 2021
+1999307,California,Compton,15100  S Lime Ave,2,2,"15100  S Lime Ave, Compton California",33.89565,-118.192136,May 8, 2021
+1998602,Wisconsin,Milwaukee,900  S 10th St,0,4,"900  S 10th St, Milwaukee Wisconsin",43.022061,-87.92383,May 8, 2021
+1998067,Missouri,Saint Louis (Kinloch),5541 Mable Ave,2,4,"5541 Mable Ave, Saint Louis (Kinloch) Missouri",38.733913551483376,-90.31936324757532,May 7, 2021
+1996236,Illinois,Chicago,6900  S Cornell Ave,0,4,"6900  S Cornell Ave, Chicago Illinois",41.769592,-87.584544,May 5, 2021
+1993551,Michigan,Saginaw,1315 Randolph St,1,4,"1315 Randolph St, Saginaw Michigan",43.403141857142856,-83.94794342857142,May 3, 2021
+1993090,Ohio,Columbus,491 Park St,0,4,"491 Park St, Columbus Ohio",39.9722447,-83.0050856,May 2, 2021
+1993664,Pennsylvania,Philadelphia,5200  Burton St,1,3,"5200  Burton St, Philadelphia Pennsylvania",40.014967,-75.07093,May 2, 2021
+1993221,Maryland,Baltimore,1500  Washington Blvd,1,3,"1500  Washington Blvd, Baltimore Maryland",39.274629,-76.6517799,May 2, 2021
+1993280,Illinois,Chicago,2100  W Adams St,0,5,"2100  W Adams St, Chicago Illinois",41.87878,-87.679193,May 2, 2021
+1992570,Minnesota,Saint Paul,843 Selby Ave,0,4,"843 Selby Ave, Saint Paul Minnesota",44.9467478,-93.1357786,May 2, 2021
+1992127,Delaware,Wilmington,800  N Pine St,0,4,"800  N Pine St, Wilmington Delaware",39.740966,-75.542937,May 1, 2021
+1992410,New York,New Rochelle,Horton Ave and Brook St,1,4,"Horton Ave and Brook St, New Rochelle New York",40.9200031,-73.7884732,May 1, 2021
+1992490,Massachusetts,Holyoke,209 South St,0,5,"209 South St, Holyoke Massachusetts",42.19634085,-72.62141425678824,May 1, 2021
+1990821,Georgia,Atlanta,2300  Polar Rock Terrace SW,1,5,"2300  Polar Rock Terrace SW, Atlanta Georgia",33.69164055,-84.39455542474042,April 29, 2021
+1990600,Florida,Miami,2100  NW 85th St,0,5,"2100  NW 85th St, Miami Florida",25.851804,-80.231865,April 28, 2021
+1988688,Virginia,Richmond,4000 Midlothian Turnpike,2,3,"4000 Midlothian Turnpike, Richmond Virginia",37.5077986,-77.47905578580057,April 27, 2021
+1989023,Alabama,Fairfield,200  Glen Crest Dr,1,4,"200  Glen Crest Dr, Fairfield Alabama",33.458011,-86.924858,April 27, 2021
+1991347,Texas,Palestine,1101 W Palestine Ave,0,4,"1101 W Palestine Ave, Palestine Texas",31.764684,-95.646366,April 25, 2021
+1986770,Missouri,Kansas City,E 18th St and Vine St,1,4,"E 18th St and Vine St, Kansas City Missouri",39.0912231,-94.56489,April 25, 2021
+1986593,Arkansas,Little Rock,1900 E 6th St,1,3,"1900 E 6th St, Little Rock Arkansas",34.742107,-92.248837,April 25, 2021
+1985432,Louisiana,New Orleans,100  Bourbon St,0,5,"100  Bourbon St, New Orleans Louisiana",29.953917,-90.069704,April 24, 2021
+1984807,California,San Diego,500  J St,1,4,"500  J St, San Diego California",32.709459,-117.159959,April 22, 2021
+1981805,Texas,Houston,700 E Whitney St,2,4,"700 E Whitney St, Houston Texas",29.746771,-95.3872881,April 19, 2021
+1982260,Georgia,Atlanta,1191 Oakland Ln SW,0,5,"1191 Oakland Ln SW, Atlanta Georgia",33.7196429,-84.4268784,April 19, 2021
+1981353,Louisiana,Shreveport,3701 Hearne Ave,0,6,"3701 Hearne Ave, Shreveport Louisiana",32.453212,-93.780992,April 18, 2021
+1982020,Alabama,Montgomery,2300  Day St,1,4,"2300  Day St, Montgomery Alabama",32.369566,-86.329283,April 18, 2021
+1980689,Wisconsin,Kenosha,1548 Sheridan Rd,3,3,"1548 Sheridan Rd, Kenosha Wisconsin",42.63762363114539,-87.81896980963283,April 18, 2021
+1980492,Ohio,Columbus,5001 Chatterton Rd,1,5,"5001 Chatterton Rd, Columbus Ohio",39.9128522,-82.8335357,April 17, 2021
+1978635,Indiana,Indianapolis,8951 Mirabel Rd,9,7,"8951 Mirabel Rd, Indianapolis Indiana",39.6811615,-86.32235023407092,April 15, 2021
+1978561,District of Columbia,Washington,1800  West Virginia Ave NE,0,4,"1800  West Virginia Ave NE, Washington District of Columbia",38.910863,-76.985458,April 15, 2021
+1979869,Louisiana,Lake Charles,4101 5th Ave,1,3,"4101 5th Ave, Lake Charles Louisiana",30.18447858016761,-93.18833992697964,April 15, 2021
+1978652,Illinois,Chicago,600  N Sawyer Ave,0,4,"600  N Sawyer Ave, Chicago Illinois",41.892005,-87.70778,April 15, 2021
+1976538,Maryland,Baltimore,2300  Hoffman St,0,4,"2300  Hoffman St, Baltimore Maryland",39.30694355,-76.5851865639969,April 13, 2021
+1974943,Kansas,Wichita,200  N Battin St,1,3,"200  N Battin St, Wichita Kansas",37.688469,-97.276992,April 11, 2021
+1975004,Washington,Seattle,306 23rd Ave S,0,4,"306 23rd Ave S, Seattle Washington",47.5999308,-122.3019481,April 11, 2021
+1974088,Tennessee,Memphis,385 Western Park Dr,1,3,"385 Western Park Dr, Memphis Tennessee",35.031161140469564,-90.07718057142525,April 10, 2021
+1973809,Michigan,Allendale,4926 Becker Dr,0,4,"4926 Becker Dr, Allendale Michigan",42.9739755,-85.90725775,April 10, 2021
+1973692,Missouri,Koshkonong,US-63 and MO-F,1,3,"US-63 and MO-F, Koshkonong Missouri",36.598628,-91.643894,April 10, 2021
+1973844,Texas,Fort Worth,2000  SW Loop 820,1,5,"2000  SW Loop 820, Fort Worth Texas",32.667586,-97.322597,April 9, 2021
+1972187,Texas,Bryan,350 Stone City Dr,1,5,"350 Stone City Dr, Bryan Texas",30.65147045025601,-96.4034504718869,April 8, 2021
+1970937,Wisconsin,Milwaukee,2627 W Capitol Dr,2,3,"2627 W Capitol Dr, Milwaukee Wisconsin",43.0894451,-87.9229134,April 7, 2021
+1969899,District of Columbia,Washington,4100  Ames St NE,0,4,"4100  Ames St NE, Washington District of Columbia",38.8910533,-76.9442612943989,April 6, 2021
+1970245,Michigan,Detroit,6100  Lodewyck St,1,3,"6100  Lodewyck St, Detroit Michigan",42.417871,-82.925786,April 6, 2021
+1969065,Maryland,Baltimore,300  N Eutaw St,0,5,"300  N Eutaw St, Baltimore Maryland",39.2929377,-76.62138284040617,April 5, 2021
+1969505,Louisiana,Monroe,207 Sterlington Rd,0,6,"207 Sterlington Rd, Monroe Louisiana",32.5229398,-92.0821552,April 4, 2021
+1968887,Alabama,Birmingham,3969 14th Ave N,1,5,"3969 14th Ave N, Birmingham Alabama",33.585862,-86.735887,April 4, 2021
+1967914,North Carolina,Wilmington,718 Kidder St,3,4,"718 Kidder St, Wilmington North Carolina",34.219573545454544,-77.93787654545454,April 3, 2021
+1967893,Alabama,Tuscaloosa,2314 4th St,0,5,"2314 4th St, Tuscaloosa Alabama",33.21118658792841,-87.56765178480259,April 3, 2021
+1969221,Texas,Allen,1517 Pine Bluff Dr,6,0,"1517 Pine Bluff Dr, Allen Texas",33.0919205,-96.6306515198061,April 3, 2021
+1968553,Florida,Quincy,2114 Pat Thomas Parkway,0,7,"2114 Pat Thomas Parkway, Quincy Florida",30.55756811765552,-84.59295278823444,April 3, 2021
+1966181,California,Orange,202 West Lincoln Ave,4,2,"202 West Lincoln Ave, Orange California",33.8321524,-117.989723,March 31, 2021
+1965890,District of Columbia,Washington,1300  Congress St SE,2,3,"1300  Congress St SE, Washington District of Columbia",38.84211395,-76.98819093703628,March 31, 2021
+1963556,Ohio,Cleveland,5100 Pearl Rd,0,7,"5100 Pearl Rd, Cleveland Ohio",41.4202537,-81.7269976,March 28, 2021
+1964085,Illinois,Chicago,I-57 and W 127th St,0,4,"I-57 and W 127th St, Chicago Illinois",41.663951,-87.623971,March 28, 2021
+1963598,Maryland,Essex,1601 Middleborough Rd,5,1,"1601 Middleborough Rd, Essex Maryland",39.298023,-76.448496,March 28, 2021
+1964030,Texas,San Antonio,2011 Dollarhide Ave,0,4,"2011 Dollarhide Ave, San Antonio Texas",29.36704312825833,-98.43819613703936,March 28, 2021
+1963052,Illinois,Chicago,500  N Leamington Ave,0,4,"500  N Leamington Ave, Chicago Illinois",41.88944395,-87.7544739974741,March 27, 2021
+1962686,Illinois,River Grove,Belmont Ave,1,3,"Belmont Ave, River Grove Illinois",41.937265,-87.8509007,March 27, 2021
+1962562,Virginia,Virginia Beach,2000  Atlantic Ave,0,9,"2000  Atlantic Ave, Virginia Beach Virginia",36.8831427,-75.9862076,March 26, 2021
+1961753,Illinois,Chicago,2515 W 79th St,1,7,"2515 W 79th St, Chicago Illinois",41.7495802,-87.7142574,March 26, 2021
+1964271,Virginia,Norfolk,100  W Balview Ave,0,4,"100  W Balview Ave, Norfolk Virginia",36.952291,-76.252287,March 26, 2021
+1962890,Tennessee,Memphis,500  Arrington Ave,3,2,"500  Arrington Ave, Memphis Tennessee",35.171933,-90.038906,March 26, 2021
+1962507,Pennsylvania,Philadelphia,1080 N Delaware Ave,0,7,"1080 N Delaware Ave, Philadelphia Pennsylvania",39.9463243,-75.1484789,March 26, 2021
+1958652,Colorado,Boulder,3600 Table Mesa Dr,10,1,"3600 Table Mesa Dr, Boulder Colorado",39.9834044,-105.2514653,March 22, 2021
+1957188,Texas,Houston,10266 North Fwy,0,5,"10266 North Fwy, Houston Texas",29.80725903846153,-95.45631965384617,March 20, 2021
+1957226,Texas,Dallas,10333 Technology Blvd,1,7,"10333 Technology Blvd, Dallas Texas",32.862967,-96.8971815,March 20, 2021
+1957252,Pennsylvania,Philadelphia,4234 Germantown Ave,1,5,"4234 Germantown Ave, Philadelphia Pennsylvania",40.018931,-75.155721,March 20, 2021
+1956081,Oregon,Gresham,750 E Powell Blvd,0,4,"750 E Powell Blvd, Gresham Oregon",45.49795648979592,-122.42315467346938,March 18, 2021
+1955948,Louisiana,New Orleans,2400 Annette St,0,4,"2400 Annette St, New Orleans Louisiana",29.9814628,-90.0639979,March 18, 2021
+1954950,Arizona,Phoenix,6215 W Elm St,4,1,"6215 W Elm St, Phoenix Arizona",33.506059278344175,-112.19129096977304,March 16, 2021
+1953309,Indiana,Indianapolis,2300  N Harding St,1,4,"2300  N Harding St, Indianapolis Indiana",39.799571,-86.187655,March 15, 2021
+1952662,Illinois,Chicago,2600  E 77th St,0,4,"2600  E 77th St, Chicago Illinois",41.755505,-87.561291,March 14, 2021
+1953202,Florida,Tampa,10101 US-92,0,4,"10101 US-92, Tampa Florida",27.8916249,-82.5386671,March 14, 2021
+1952281,Illinois,Chicago,6798  S South Chicago Ave,2,13,"6798  S South Chicago Ave, Chicago Illinois",41.7706736,-87.61289217195497,March 14, 2021
+1952151,New York,Brooklyn,917 Flushing Ave,0,5,"917 Flushing Ave, Brooklyn New York",40.7022687,-73.9360786,March 13, 2021
+1951738,Virginia,Richmond,5100  Richmond Henrico Tpke,2,4,"5100  Richmond Henrico Tpke, Richmond Virginia",37.5802757,-77.4251679,March 13, 2021
+1952161,Indiana,Indianapolis,300  N Randolph St,4,1,"300  N Randolph St, Indianapolis Indiana",39.770934258064514,-86.12843312903226,March 13, 2021
+1951476,North Carolina,Greensboro,100  Huffman St,1,3,"100  Huffman St, Greensboro North Carolina",36.074416,-79.764869,March 12, 2021
+1951383,Texas,Austin,7408 Cameron Rd,0,4,"7408 Cameron Rd, Austin Texas",30.329705,-97.6906532292746,March 12, 2021
+1950471,Pennsylvania,Philadelphia,1400  N 76th St,2,2,"1400  N 76th St, Philadelphia Pennsylvania",39.974181,-75.267321,March 11, 2021
+1949977,Texas,Houston,6300 Ranchester Dr,3,1,"6300 Ranchester Dr, Houston Texas",29.709794,-95.545589,March 10, 2021
+1948470,Mississippi,Edwards,607 Wallace Dr,0,4,"607 Wallace Dr, Edwards Mississippi",32.337678586082404,-90.59716011227133,March 7, 2021
+1945999,North Carolina,Fayetteville,200  Shads Ford Blvd,1,4,"200  Shads Ford Blvd, Fayetteville North Carolina",35.079199070038364,-79.00590579243601,March 6, 2021
+1946991,California,Compton,600  N Long Beach Blvd,1,4,"600  N Long Beach Blvd, Compton California",33.900194000000006,-118.2081384237288,March 5, 2021
+1943986,Pennsylvania,Erie,2105 Buffalo Rd,2,3,"2105 Buffalo Rd, Erie Pennsylvania",42.1337736,-80.0295477,March 3, 2021
+1941382,Ohio,Cincinnati,3600  Idlewild Ave,3,3,"3600  Idlewild Ave, Cincinnati Ohio",39.145059,-84.472689,February 28, 2021
+1941669,Indiana,East Chicago,1205 W Chicago Ave,0,4,"1205 W Chicago Ave, East Chicago Indiana",41.62904309954115,-87.48655078569318,February 28, 2021
+1940791,Delaware,Dover,21 S Little Creek Rd,0,4,"21 S Little Creek Rd, Dover Delaware",39.157444273777465,-75.50857079863682,February 28, 2021
+1941647,South Carolina,Mccormick,437 Talbert Rd,0,4,"437 Talbert Rd, Mccormick South Carolina",33.90698068873631,-82.31178964312166,February 28, 2021
+1941444,Louisiana,Shreveport,4914 Mansfield Rd,0,5,"4914 Mansfield Rd, Shreveport Louisiana",32.464475919333275,-93.77584512294816,February 28, 2021
+1941210,Texas,Houston,13484 Northwest Fwy,0,4,"13484 Northwest Fwy, Houston Texas",29.8539111,-95.50911229360928,February 28, 2021
+1940190,Mississippi,Pattison,Pattison-Tillman Rd,2,3,"Pattison-Tillman Rd, Pattison Mississippi",31.8861749,-90.8933006,February 27, 2021
+1939789,Louisiana,Baton Rouge,4700  Paige St,0,4,"4700  Paige St, Baton Rouge Louisiana",30.516891,-91.14461,February 26, 2021
+1940069,Texas,Houston,8708 Beechnut St,1,5,"8708 Beechnut St, Houston Texas",29.69074641610738,-95.5379271543624,February 26, 2021
+1939958,California,San Diego,841 S 45th St,1,3,"841 S 45th St, San Diego California",32.697131,-117.097721,February 26, 2021
+1934704,Missouri,Kennett,1615 1st St,1,4,"1615 1st St, Kennett Missouri",36.23673784693878,-90.037134,February 21, 2021
+1934225,Pennsylvania,Norristown (East Norriton),2912 Swede Rd,1,4,"2912 Swede Rd, Norristown (East Norriton) Pennsylvania",40.1361336,-75.3309828,February 20, 2021
+1934077,Louisiana,Metairie,6719 Airline Dr,3,2,"6719 Airline Dr, Metairie Louisiana",29.978223,-90.217086,February 20, 2021
+1933975,Colorado,Grand Junction,1000  Teller Ave,1,3,"1000  Teller Ave, Grand Junction Colorado",39.075498,-108.555785,February 20, 2021
+1934181,Illinois,Springfield,1100  S Grand Ave W,1,4,"1100  S Grand Ave W, Springfield Illinois",39.786826,-89.670569,February 20, 2021
+1932479,Louisiana,Baton Rouge,2047 N Foster Dr,1,3,"2047 N Foster Dr, Baton Rouge Louisiana",30.46731432496285,-91.13962002204524,February 18, 2021
+1931288,Pennsylvania,Philadelphia,5597 Old York Rd,0,8,"5597 Old York Rd, Philadelphia Pennsylvania",40.035829783987545,-75.14458161967197,February 17, 2021
+1930463,Florida,Saint Petersburg,2968 Emerson Ave S,3,1,"2968 Emerson Ave S, Saint Petersburg Florida",27.76558706122449,-82.6734299387755,February 16, 2021
+1928594,Indiana,Indianapolis,3800  N Sherman Dr,0,4,"3800  N Sherman Dr, Indianapolis Indiana",39.825785,-86.102822,February 13, 2021
+1928149,California,Oakland,1000  Washington St,0,6,"1000  Washington St, Oakland California",37.7961316,-122.2778448,February 13, 2021
+1928205,North Carolina,Cary,101 Reed St,1,3,"101 Reed St, Cary North Carolina",35.789834,-78.762283,February 13, 2021
+1926742,Georgia,Columbus,2001 South Lumpkin Rd,1,4,"2001 South Lumpkin Rd, Columbus Georgia",32.416777544613296,-84.95092714041353,February 11, 2021
+1926701,Georgia,Atlanta,62 Harwell Rd NW,0,4,"62 Harwell Rd NW, Atlanta Georgia",33.753874,-84.49395596600841,February 10, 2021
+1924892,Texas,Houston,945 W Little York Rd,0,4,"945 W Little York Rd, Houston Texas",29.8658135,-95.4850069,February 9, 2021
+1921939,Tennessee,Murfreesboro,Ewing Blvd and West St,1,4,"Ewing Blvd and West St, Murfreesboro Tennessee",35.8494958,-86.3753997,February 6, 2021
+1923786,Louisiana,Thibodaux,1100  Tiger Dr,0,4,"1100  Tiger Dr, Thibodaux Louisiana",29.784395,-90.838508,February 6, 2021
+1921768,Illinois,Bloomingdale,250 W Schick Rd,1,5,"250 W Schick Rd, Bloomingdale Illinois",41.9512679,-88.0971372,February 6, 2021
+1921641,Pennsylvania,Mohnton,360 E Wyomissing Ave,1,3,"360 E Wyomissing Ave, Mohnton Pennsylvania",40.29188475,-75.9782999751105,February 5, 2021
+1920771,North Carolina,High Point,2912 W English Rd,2,3,"2912 W English Rd, High Point North Carolina",35.930458,-80.042946,February 4, 2021
+1919696,Colorado,Oak Creek,200  Wild Hogg Dr,3,2,"200  Wild Hogg Dr, Oak Creek Colorado",40.2784385,-106.9564388,February 3, 2021
+1919399,Tennessee,Memphis,800  Olympic St,1,3,"800  Olympic St, Memphis Tennessee",35.160982,-90.016197,February 3, 2021
+1917909,Oklahoma,Muskogee,903 Indiana St,6,1,"903 Indiana St, Muskogee Oklahoma",35.72987204407207,-95.34785313991102,February 2, 2021
+1917661,New York,Rochester,400  Lyell Avenue,1,3,"400  Lyell Avenue, Rochester New York",43.164711,-77.636878,February 1, 2021
+1916374,New York,Albany,200  Central Ave,1,4,"200  Central Ave, Albany New York",42.6620008,-73.769619,January 30, 2021
+1914798,Pennsylvania,Mc Kees Rocks (Mckees Rocks),824 Island Ave,2,3,"824 Island Ave, Mc Kees Rocks (Mckees Rocks) Pennsylvania",40.47393724196018,-80.06340653874426,January 29, 2021
+1914942,Michigan,Flint,1900  Tebo St,1,4,"1900  Tebo St, Flint Michigan",43.007421,-83.646332,January 28, 2021
+1913708,California,Santa Ana,1614 S Standard Ave,0,4,"1614 S Standard Ave, Santa Ana California",33.726083,-117.856885,January 27, 2021
+1911026,District of Columbia,Washington,1406 Good Hope Rd SE,1,4,"1406 Good Hope Rd SE, Washington District of Columbia",38.86687185,-76.98482842277113,January 25, 2021
+1910136,Indiana,Indianapolis,3540 Adams St,5,1,"3540 Adams St, Indianapolis Indiana",39.82071580808081,-86.10849536363637,January 24, 2021
+1905423,Pennsylvania,Tobyhanna,960 PA-196,0,4,"960 PA-196, Tobyhanna Pennsylvania",41.1646641,-75.35750896627871,January 18, 2021
+1904063,Arizona,Phoenix,2340 W Northern Ave,0,5,"2340 W Northern Ave, Phoenix Arizona",33.55320185714286,-112.10903428571427,January 17, 2021
+1904036,Arizona,Phoenix,2236 E University Dr,1,6,"2236 E University Dr, Phoenix Arizona",33.424032316545734,-112.03384649541728,January 17, 2021
+1905360,Illinois,Kankakee,600  N Evergreen Ave,0,5,"600  N Evergreen Ave, Kankakee Illinois",41.125635,-87.851352,January 16, 2021
+1903058,Pennsylvania,Philadelphia,5000  N 10th St,0,4,"5000  N 10th St, Philadelphia Pennsylvania",40.02838,-75.140059,January 15, 2021
+1899819,Florida,Miami,2491 NE 58th St,0,4,"2491 NE 58th St, Miami Florida",25.8293269,-80.183095,January 11, 2021
+1898261,Illinois,Evanston,100 Asbury Ave,6,2,"100 Asbury Ave, Evanston Illinois",42.0198459,-87.6905259405659,January 9, 2021
+1896774,District of Columbia,Washington,1300  Columbia Rd NW,0,5,"1300  Columbia Rd NW, Washington District of Columbia",38.9274452,-77.0300322239827,January 7, 2021
+1896384,Texas,Livingston,201 Maple Ln,2,2,"201 Maple Ln, Livingston Texas",30.6931598,-94.928448,January 6, 2021
+1894822,Louisiana,New Orleans,1600  N Galvez St,0,4,"1600  N Galvez St, New Orleans Louisiana",29.975749,-90.069951,January 4, 2021
+1893327,Texas,Houston,2900 Travis St,1,4,"2900 Travis St, Houston Texas",29.7436386,-95.3771975,January 3, 2021
+1893754,Florida,Miami,3632 NW 25th Ave,0,6,"3632 NW 25th Ave, Miami Florida",25.809512897959184,-80.23828581632652,January 3, 2021
+1893601,Louisiana,Shreveport,6900  Jewella Ave,2,3,"6900  Jewella Ave, Shreveport Louisiana",32.443030361204016,-93.7975196722408,January 3, 2021
+1893877,California,Santa Barbara,1200  Liberty St,2,2,"1200  Liberty St, Santa Barbara California",34.421619,-119.670888,January 3, 2021
+1893744,Florida,Miami,10525 NW 24th Ave,0,8,"10525 NW 24th Ave, Miami Florida",25.8712413,-80.2382308,January 3, 2021
+1892114,Iowa,Sioux City,2637 S Walker St,1,4,"2637 S Walker St, Sioux City Iowa",42.462977157894734,-96.33166884210527,January 1, 2021
+1892034,Arkansas,Fort Smith,3211 Towson Ave,0,7,"3211 Towson Ave, Fort Smith Arkansas",35.353577265822786,-94.42203451898736,January 1, 2021
+1892704,Texas,Amarillo,2650 Dumas Dr,1,3,"2650 Dumas Dr, Amarillo Texas",35.24087693805399,-101.83087625516222,January 1, 2021
+1891720,Illinois,Galesburg,1000  Monroe St,0,4,"1000  Monroe St, Galesburg Illinois",40.95933,-90.381831,January 1, 2021

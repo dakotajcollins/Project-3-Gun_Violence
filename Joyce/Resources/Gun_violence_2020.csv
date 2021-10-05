@@ -1,0 +1,448 @@
+Incident ID,State,City Or County,Address,# Killed,# Injured,Date,Year,Latitude,Longitude
+1891461,Indiana,Indianapolis,8215 Center Run Road,1,3,December 31, 2020,39.791,-86.148003
+1813872,Indiana,Indianapolis,5462 Massachusetts Ave,3,4,October 4, 2020,39.791,-86.148003
+1787222,Indiana,Indianapolis,W 38th St and Graceland Ave,1,4,September 7, 2020,39.791,-86.148003
+1668470,Indiana,Indianapolis,451 E Stop 11 Rd,0,4,April 29, 2020,39.791,-86.148003
+1615155,Indiana,Indianapolis,4100 block of Shady Oak Dr,4,0,February 5, 2020,39.791,-86.148003
+1886974,Illinois,Rockford,4007 E State St,3,3,December 26, 2020,42.259445,-89.064445
+1772764,Illinois,Rockford,1300 block of 10th St,1,3,August 22, 2020,42.259445,-89.064445
+1767747,Illinois,Rockford,3001 Harney Ct,0,4,August 18, 2020,42.259445,-89.064445
+1679086,Illinois,Rockford,2914 W State St,1,4,May 13, 2020,42.259445,-89.064445
+1639413,Illinois,Rockford,4104 Auburn St,0,4,March 13, 2020,42.259445,-89.064445
+1886913,Florida,Tampa,N 20th St and E 7th Ave,2,2,December 26, 2020,27.964157,-82.452606
+1850981,Florida,Tampa,1200 block of E Palifox St,2,4,November 12, 2020,27.964157,-82.452606
+1849308,Florida,Tampa,N 50th St and Sligh Ave,1,7,November 10, 2020,27.964157,-82.452606
+1793559,Florida,Tampa,5110 N 40th St,0,4,September 13, 2020,27.964157,-82.452606
+1750611,Florida,Tampa,I-275 and Westshore Blvd,0,5,July 30, 2020,27.964157,-82.452606
+1887059,Massachusetts,Lynn,Washington St and Quincy Ter,1,5,December 26, 2020,42.466763,-70.949493
+1725407,Massachusetts,Lynn,134 Fayette St,1,4,July 4, 2020,42.466763,-70.949493
+1886849,Florida,Miami,NW 61st St and NW 13th Ave,1,3,December 26, 2020,25.761681,-80.191788
+1854149,Florida,Miami,200 block of S Biscayne River Dr,0,4,November 16, 2020,25.761681,-80.191788
+1832014,Florida,Miami,1830 NW 50 St,1,3,October 22, 2020,25.761681,-80.191788
+1785358,Florida,Miami,2000 block of NW 71st St,1,3,September 3, 2020,25.761681,-80.191788
+1746160,Florida,Miami,2900 block of Northwest 51st St,1,3,July 25, 2020,25.761681,-80.191788
+1886141,Florida,Lakeland,1500 block of Amos Ave,1,4,December 24, 2020,28.039465,-81.949806
+1885251,Mississippi,Meridian,Jeffrey Acres Rd,5,0,December 22, 2020,43.614166,-116.398888
+1882214,Connecticut,Bridgeport,456 Connecticut Ave,2,2,December 20, 2020,41.18639,-73.195557
+1716944,Connecticut,Bridgeport,527 Huntington Rd,1,3,June 25, 2020,41.18639,-73.195557
+1606554,Connecticut,Bridgeport,172 Golden Hill St,0,4,January 27, 2020,41.18639,-73.195557
+1881213,Illinois,Chicago,8936 S Cottage Grove Ave,0,6,December 19, 2020,41.881832,-87.623177
+1869748,Illinois,Chicago,4400 block of W Adams St,0,4,December 4, 2020,41.881832,-87.623177
+1858455,Illinois,Chicago,700 block of E 101st St,1,3,November 22, 2020,41.881832,-87.623177
+1857439,Illinois,Chicago,W 79th St and S Justine St,0,6,November 21, 2020,41.881832,-87.623177
+1853615,Illinois,Chicago,700 block of S Pulaski Rd,0,4,November 16, 2020,41.881832,-87.623177
+1854076,Illinois,Chicago,2700 block of S State St,0,4,November 16, 2020,41.881832,-87.623177
+1839065,Illinois,Chicago,11613 S Vincennes Ave,1,3,October 30, 2020,41.881832,-87.623177
+1828080,Illinois,Chicago,200 block of N Sacramento Blvd,1,4,October 18, 2020,41.881832,-87.623177
+1820156,Illinois,Chicago,100 block of S Keeler Ave,1,3,October 10, 2020,41.881832,-87.623177
+1805722,Illinois,Chicago,2400 block of W Lithuanian Plaza Ct,0,4,September 26, 2020,41.881832,-87.623177
+1799748,Illinois,Chicago,12200 block of S May St,0,4,September 19, 2020,41.881832,-87.623177
+1799703,Illinois,Chicago,6900 block of S Claremont Ave,0,4,September 19, 2020,41.881832,-87.623177
+1796638,Illinois,Chicago,3500 block of W Lawrence Ave,0,5,September 15, 2020,41.881832,-87.623177
+1794086,Illinois,Chicago,6100 block of S Throop St,1,3,September 13, 2020,41.881832,-87.623177
+1792650,Illinois,Chicago,100 block of N Pine Ave,2,4,September 12, 2020,41.881832,-87.623177
+1786920,Illinois,Chicago,S Kingston Ave and E 77th St,0,4,September 6, 2020,41.881832,-87.623177
+1779718,Illinois,Chicago,11601 S Western Ave,1,4,August 30, 2020,41.881832,-87.623177
+1773006,Illinois,Chicago,6600 S Halsted St,0,4,August 23, 2020,41.881832,-87.623177
+1769489,Illinois,Chicago,8500 block of S Parnell Ave,0,6,August 19, 2020,41.881832,-87.623177
+1756248,Illinois,Chicago,700 block of S Karlov Ave,0,4,August 5, 2020,41.881832,-87.623177
+1752100,Illinois,Chicago,100 block of N Laporte Ave,1,4,August 1, 2020,41.881832,-87.623177
+1747700,Illinois,Chicago,705 E 92nd Pl,1,4,July 27, 2020,41.881832,-87.623177
+1744332,Illinois,Chicago,120th St and Prairie Ave,2,4,July 23, 2020,41.881832,-87.623177
+1741838,Illinois,Chicago,1018 W 79th St,0,15,July 21, 2020,41.881832,-87.623177
+1740615,Illinois,Chicago,S Lawndale Ave and W Douglas Blvd,0,5,July 20, 2020,41.881832,-87.623177
+1740013,Illinois,Chicago,11300 block of South Carpenter St,2,3,July 19, 2020,41.881832,-87.623177
+1738635,Illinois,Chicago,1600 block of S Keeler Ave,1,4,July 18, 2020,41.881832,-87.623177
+1733188,Illinois,Chicago,700 block of W 66th Pl,1,3,July 12, 2020,41.881832,-87.623177
+1732229,Illinois,Chicago,1100 block of N Lawndale Ave,1,4,July 12, 2020,41.881832,-87.623177
+1727567,Illinois,Chicago,1305 W 76th St,0,6,July 6, 2020,41.881832,-87.623177
+1725883,Illinois,Chicago,3700 block of W Jackson Blvd,0,4,July 5, 2020,41.881832,-87.623177
+1725145,Illinois,Chicago,1500 block of S Millard Ave,1,5,July 5, 2020,41.881832,-87.623177
+1725098,Illinois,Chicago,8300 block of S Kingston Ave,1,3,July 4, 2020,41.881832,-87.623177
+1725081,Illinois,Chicago,6100 block of S Carpenter St,4,4,July 4, 2020,41.881832,-87.623177
+1720761,Illinois,Chicago,350 W Chicago Ave,0,4,June 30, 2020,41.881832,-87.623177
+1718966,Illinois,Chicago,3100 block of S Rhodes Ave,2,2,June 27, 2020,41.881832,-87.623177
+1714504,Illinois,Chicago,9100 block of South Ellis Ave,0,4,June 23, 2020,41.881832,-87.623177
+1712408,Illinois,Chicago,200 S Central Park Blvd,0,5,June 22, 2020,41.881832,-87.623177
+1712386,Illinois,Chicago,5200 block of S Lowe Ave,0,4,June 22, 2020,41.881832,-87.623177
+1711487,Illinois,Chicago,2600 block of W Potomac Ave,1,3,June 21, 2020,41.881832,-87.623177
+1708432,Illinois,Chicago,1323 W 76th St,0,4,June 17, 2020,41.881832,-87.623177
+1706710,Illinois,Chicago,W Diversey Ave,0,4,June 15, 2020,41.881832,-87.623177
+1698987,Illinois,Chicago,50 block of S Seeley Ave,1,3,June 7, 2020,41.881832,-87.623177
+1699667,Illinois,Chicago,3700 block of S State St,0,6,June 7, 2020,41.881832,-87.623177
+1695645,Illinois,Chicago,8404 S Colfax Ave,0,4,June 2, 2020,41.881832,-87.623177
+1688917,Illinois,Chicago,W Washington Blvd and N Hamlin Blvd,2,2,May 26, 2020,41.881832,-87.623177
+1686685,Illinois,Chicago,3911 W Grenshaw St,1,3,May 23, 2020,41.881832,-87.623177
+1671078,Illinois,Chicago,3700 W 13th St,0,5,May 3, 2020,41.881832,-87.623177
+1654341,Illinois,Chicago,86th Street and Damen Avenue,1,3,April 7, 2020,41.881832,-87.623177
+1635411,Illinois,Chicago,900 block of E 79th St,0,7,March 7, 2020,41.881832,-87.623177
+1629042,Illinois,Chicago,1238 E 79th St,1,4,February 25, 2020,41.881832,-87.623177
+1621821,Illinois,Chicago,6500 block of S King Dr,0,6,February 14, 2020,41.881832,-87.623177
+1598447,Illinois,Chicago,234 N Pulaski Rd,0,5,January 16, 2020,41.881832,-87.623177
+1877043,California,San Bernardino,900 block of N Sierra Way,1,3,December 12, 2020,34.115784,-117.302399
+1808628,California,San Bernardino,900 block of N Sierra Way,1,3,September 27, 2020,34.115784,-117.302399
+1877122,Mississippi,Jackson,1805 Hospital Dr,0,5,December 10, 2020,32.298756,-90.184807
+1854207,Tennessee,Jackson,Honey Bear Cove,0,4,November 17, 2020,32.298756,-90.184807
+1760207,Mississippi,Jackson,3600 block of Cromwell St,0,4,August 9, 2020,32.298756,-90.184807
+1724219,Mississippi,Jackson,6340 Ridgewood Ct Dr,1,3,July 4, 2020,32.298756,-90.184807
+1715616,Tennessee,Jackson,Melwood St,0,4,June 24, 2020,32.298756,-90.184807
+1687381,Mississippi,Jackson,2300 block of Oakhurst Dr,1,4,May 23, 2020,32.298756,-90.184807
+1659966,Mississippi,Jackson,1200 block of Wood Village Dr,1,3,April 15, 2020,32.298756,-90.184807
+1871627,California,Hayward,25000 block of Eldridge Ave,1,3,December 5, 2020,37.668819,-122.080795
+1865110,Tennessee,Memphis,3492 W Metropolitan Cir,2,3,November 29, 2020,35.1175,-89.971107
+1787977,Tennessee,Memphis,6555 Lost Oak Dr,0,4,September 6, 2020,35.1175,-89.971107
+1700250,Tennessee,Memphis,1525 E McLemore Ave,0,4,June 8, 2020,35.1175,-89.971107
+1690922,Tennessee,Memphis,TN 385 and Kirby Pkwy,0,4,May 28, 2020,35.1175,-89.971107
+1679356,Tennessee,Memphis,3500 block of Commerce Cir,0,4,May 13, 2020,35.1175,-89.971107
+1674299,Tennessee,Memphis,Barron Ave and Dogwood Dr,2,2,May 6, 2020,35.1175,-89.971107
+1665834,Tennessee,Memphis,500 block of Josephine St,0,7,April 25, 2020,35.1175,-89.971107
+1622233,Tennessee,Memphis,2800 block of Riverport Rd,0,7,February 15, 2020,35.1175,-89.971107
+1600221,Tennessee,Memphis,6761 Winchester Rd,1,4,January 19, 2020,35.1175,-89.971107
+1863726,South Carolina,Aiken,1695 Richland Ave E,1,10,November 28, 2020,33.566574,-81.719398
+1864177,Louisiana,New Orleans,7001 Lawrence Rd,0,4,November 28, 2020,29.951065,-90.071533
+1859186,Louisiana,New Orleans,9232 Chef Menteur Hwy,1,3,November 22, 2020,29.951065,-90.071533
+1845477,Louisiana,New Orleans,8622 Belfast St,2,2,November 6, 2020,29.951065,-90.071533
+1828796,Louisiana,New Orleans,2599 N Prieur St,1,3,October 19, 2020,29.951065,-90.071533
+1791482,Louisiana,New Orleans,4100 block of Rayne Dr,3,2,September 10, 2020,29.951065,-90.071533
+1788168,Louisiana,New Orleans,1500 block of Freret St,0,4,September 7, 2020,29.951065,-90.071533
+1705346,Louisiana,New Orleans,600 block of S Lopez St,2,2,June 14, 2020,29.951065,-90.071533
+1622340,Louisiana,New Orleans,Dryades St and 2nd St,0,4,February 15, 2020,29.951065,-90.071533
+1862947,Georgia,Macon,425 Cherry St,1,5,November 27, 2020,32.838131,-83.634705
+1649473,Georgia,Macon,571 Moreland Ave,3,1,March 31, 2020,32.838131,-83.634705
+1863099,Ohio,Toledo,3257 Stickney Ave,0,6,November 27, 2020,41.651031,-83.541939
+1844573,Ohio,Toledo,2125 Parkwood Ave,3,2,November 5, 2020,41.651031,-83.541939
+1759779,Ohio,Toledo,Monroe St and N Detroit Ave,0,6,August 9, 2020,41.651031,-83.541939
+1701382,Ohio,Toledo,1100 block of Baker St,1,3,June 10, 2020,41.651031,-83.541939
+1862603,Nevada,Henderson,870 E Lake Mead Pkwy,1,5,November 26, 2020,36.039524,-114.98172
+1842362,Nevada,Henderson,1445 Stonelake Cove Ave,4,1,November 3, 2020,36.039524,-114.98172
+1859110,New Jersey,Trenton,Stuyvesant Ave and Hoffman Ave,0,4,November 22, 2020,40.217052,-74.742935
+1857947,Arizona,Phoenix,35th Ave and Earll Dr,1,4,November 21, 2020,33.448376,-112.074036
+1717173,Arizona,Phoenix,5035 W McDowell Rd,0,4,June 26, 2020,33.448376,-112.074036
+1858965,Nebraska,Bellevue,1307 Cornhusker Rd,2,2,November 21, 2020,47.610378,-122.200676
+1856417,Florida,Haines City,422 N 15th St,1,3,November 19, 2020,28.114183,-81.617851
+1855276,Texas,Houston,11614 Manor Park Dr,3,2,November 18, 2020,29.749907,-95.358421
+1830092,Texas,Houston,2117 Chenevert St,3,1,October 20, 2020,29.749907,-95.358421
+1786488,Texas,Houston,9940 Fondren Rd,0,4,September 5, 2020,29.749907,-95.358421
+1760261,Texas,Houston,9700 Homestead Rd,0,4,August 9, 2020,29.749907,-95.358421
+1726446,Texas,Houston,Service Rd and Holcombe Blvd,0,4,July 5, 2020,29.749907,-95.358421
+1703055,Texas,Houston,5840 Glenmont Dr,2,4,June 11, 2020,29.749907,-95.358421
+1693064,Texas,Houston,9635 Scott St,1,4,May 30, 2020,29.749907,-95.358421
+1686222,Texas,Houston,2900 Travis St,0,4,May 23, 2020,29.749907,-95.358421
+1683810,Texas,Houston,6918 Landor St,2,3,May 20, 2020,29.749907,-95.358421
+1673989,Texas,Houston,14200 block of Bridgeport Rd,3,1,May 6, 2020,29.749907,-95.358421
+1664933,Texas,Houston,4714 Ward St,3,1,April 24, 2020,29.749907,-95.358421
+1627713,Texas,Houston,8712 Airline Dr,0,7,February 23, 2020,29.749907,-95.358421
+1616964,Texas,Houston,1000 block of Calvin St,1,3,February 8, 2020,29.749907,-95.358421
+1856338,South Carolina,Florence,500 block of Gaillard St,0,4,November 18, 2020,34.195435,-79.762566
+1852831,Louisiana,Shreveport,300 block of Douglas St,0,5,November 15, 2020,32.523659,-93.763504
+1736383,Louisiana,Shreveport,6725 Buncombe Rd,1,3,July 15, 2020,32.523659,-93.763504
+1610782,Louisiana,Shreveport,2000 Grimmett Dr,0,4,January 31, 2020,32.523659,-93.763504
+1853089,Georgia,Jonesboro,500 Block of Museum Cir,2,2,November 15, 2020,35.835575,-90.705025
+1852853,Missouri,Fulton,1915 N Bluff St,0,4,November 14, 2020,38.846668,-91.948059
+1852161,Ohio,Cincinnati,400 block of Kings Run Dr,0,4,November 14, 2020,39.103119,-84.512016
+1765624,Ohio,Cincinnati,700 block of Chalfonte Pl,1,3,August 16, 2020,39.103119,-84.512016
+1765636,Ohio,Cincinnati,70 E McMicken Ave,2,9,August 16, 2020,39.103119,-84.512016
+1766423,Ohio,Cincinnati,700 block of Chalfonte Pl,1,3,August 16, 2020,39.103119,-84.512016
+1852363,California,Riverside,La Sierra Avenue and Tin Mine Road,2,3,November 14, 2020,33.95335,-117.396156
+1850693,North Carolina,Gastonia,1225 Union Rd,0,6,November 12, 2020,35.25528,-81.180275
+1692496,North Carolina,Gastonia,3000 block of Earl Ln,1,5,May 30, 2020,35.25528,-81.180275
+1847840,Texas,Fort Worth,5310 E Rosedale St,0,4,November 9, 2020,32.768799,-97.309341
+1834216,Texas,Fort Worth,1900 block of Carver Ave,2,3,October 25, 2020,32.768799,-97.309341
+1676579,Texas,Fort Worth,4750 Wilbarger St,0,5,May 10, 2020,32.768799,-97.309341
+1846712,Virginia,Virginia Beach,3700 block of Whitney Ct,0,4,November 8, 2020,36.86314,-76.015778
+1846494,Tennessee,Nashville,2nd Ave N and Commerce St,0,8,November 8, 2020,36.174465,-86.76796
+1828019,Tennessee,Nashville,1100 block of W Grove Ave,0,4,October 18, 2020,36.174465,-86.76796
+1807096,Tennessee,Nashville,619 Millwood Dr,0,4,September 27, 2020,36.174465,-86.76796
+1736508,Tennessee,Nashville,S 7th St and Sylvan St,0,5,July 16, 2020,36.174465,-86.76796
+1845690,South Carolina,Rock Hill,241 Albright Rd,1,3,November 7, 2020,34.924866,-81.025078
+1826613,South Carolina,Rock Hill,524 N Anderson Rd,0,5,October 17, 2020,34.924866,-81.025078
+1843360,Missouri,Jefferson City,1299 Lafayette St,0,4,November 4, 2020,38.579575,-92.174782
+1842421,Ohio,Mansfield,136 Sturges Ave,0,5,November 2, 2020,40.763901,-82.503891
+1829132,Ohio,Mansfield,136 Sturges Ave,0,5,October 19, 2020,40.763901,-82.503891
+1840534,South Carolina,Hollywood,7800 block of White Point Rd,0,6,November 1, 2020,26.01128,-80.142967
+1840265,Indiana,Evansville,664 E Illinois St,0,4,November 1, 2020,37.977222,-87.550552
+1840364,Oklahoma,Oklahoma City,10601 S Western Ave,1,3,November 1, 2020,35.481918,-97.508469
+1765920,Oklahoma,Oklahoma City,SW 59th St and Agnew Ave,0,4,August 16, 2020,35.481918,-97.508469
+1840600,Arizona,Tucson,2500 block of E Aerospace Parkway,2,2,November 1, 2020,32.25346,-110.911789
+1839628,California,Sacramento,2800 block of Normington Dr,0,4,October 31, 2020,38.590576,-121.489906
+1813583,California,Sacramento,Roanoke Ave and Haywood St,1,3,October 3, 2020,38.590576,-121.489906
+1773194,California,Sacramento,1200 block of Helena Ave,1,3,August 24, 2020,38.590576,-121.489906
+1702372,California,Sacramento,68th Avenue and Della Circle,1,4,June 10, 2020,38.590576,-121.489906
+1698868,California,Sacramento,Gardendale Rd and 29th St,1,4,June 6, 2020,38.590576,-121.489906
+1839462,California,Anaheim,1210 S State College Blvd,0,4,October 31, 2020,33.835293,-117.914505
+1840544,Nevada,North Las Vegas,3700 block of Iverson Ln,0,4,October 31, 2020,36.201946,-115.120216
+1837146,Virginia,Roanoke,1400 block of Rorer Ave SW,0,4,October 28, 2020,37.270969,-79.941429
+1837429,New Jersey,Newark,381 S 6th St,1,3,October 28, 2020,40.735657,-74.172363
+1762951,New Jersey,Newark,N 12th St,1,4,August 12, 2020,40.735657,-74.172363
+1753561,New Jersey,Newark,200 block of 6th Ave,0,5,August 2, 2020,40.735657,-74.172363
+1835030,Texas,San Antonio,2800 block of W Hutchins Pl,1,3,October 25, 2020,29.424349,-98.491142
+1780266,Texas,San Antonio,S Olive St and Aransas Ave,2,2,August 30, 2020,29.424349,-98.491142
+1703985,Texas,San Antonio,8134 Broadway St,0,8,June 12, 2020,29.424349,-98.491142
+1644111,Texas,San Antonio,6700 block of Hickory Springs Dr,0,4,March 23, 2020,29.424349,-98.491142
+1600522,Texas,San Antonio,1011 Avenue B,2,5,January 19, 2020,29.424349,-98.491142
+1834280,North Carolina,Raleigh,1731 Trawick Rd,1,3,October 25, 2020,35.787743,-78.644257
+1745903,North Carolina,Raleigh,503 Bragg St,0,4,July 25, 2020,35.787743,-78.644257
+1834617,Mississippi,Greenwood,W Martin Luther King Dr,2,8,October 24, 2020,39.614944,-86.105606
+1654971,South Carolina,Greenwood,1522 Parkway,1,3,April 8, 2020,39.614944,-86.105606
+1831995,Massachusetts,Boston,Columbia Rd and Stanwood St,0,4,October 22, 2020,42.361145,-71.057083
+1721669,Massachusetts,Boston,14 Circuit St,1,3,June 30, 2020,42.361145,-71.057083
+1690369,Massachusetts,Boston,5 Ames St,1,4,May 27, 2020,42.361145,-71.057083
+1831091,Maryland,Baltimore,500 block of W Franklin St,0,4,October 22, 2020,39.299236,-76.609383
+1825896,Maryland,Baltimore,2900 block of Westwood Ave,0,7,October 15, 2020,39.299236,-76.609383
+1788401,Maryland,Baltimore,2300 block of Greenmount Ave,0,5,September 8, 2020,39.299236,-76.609383
+1787387,Maryland,Baltimore,4900 block of Reisterstown Rd,0,4,September 6, 2020,39.299236,-76.609383
+1786449,Maryland,Baltimore,2000 block of W Lexington St,1,3,September 5, 2020,39.299236,-76.609383
+1724273,Maryland,Baltimore,700 block of S Woodington Rd,0,4,July 3, 2020,39.299236,-76.609383
+1704176,Maryland,Baltimore,700 block of S Broadway St,0,5,June 13, 2020,39.299236,-76.609383
+1674802,Maryland,Baltimore,5100 block of Stafford Rd,0,4,May 7, 2020,39.299236,-76.609383
+1647661,Maryland,Baltimore,1100 block of Washington Blvd,1,3,March 28, 2020,39.299236,-76.609383
+1641216,Maryland,Baltimore,300 block of McMechen St,0,7,March 17, 2020,39.299236,-76.609383
+1830822,Mississippi,Canton,1427 W Peace St,2,2,October 21, 2020,40.798946,-81.378448
+1827437,Maryland,Annapolis,100 block of Clay St,1,3,October 18, 2020,38.978443,-76.49218
+1826680,New York,Lockport,43 S Niagara St,1,5,October 17, 2020,43.170048,-78.710464
+1825525,Florida,Orlando,2000 block of N Forsyth Rd,3,1,October 16, 2020,28.538336,-81.379234
+1666327,Florida,Orlando,Elese St and Deerock Dr,1,4,April 25, 2020,28.538336,-81.379234
+1826655,Arizona,Mesa,2115 Guadalupe Rd,1,6,October 16, 2020,33.424564,-111.833267
+1826675,California,San Francisco,200 block of Scherwin St,1,3,October 16, 2020,37.773972,-122.431297
+1713075,California,San Francisco,200 block of Leavenworth St,0,5,June 22, 2020,37.773972,-122.431297
+1824979,Louisiana,Lafayette,100 block of Laser Ln,2,2,October 15, 2020,30.216667,-92.033333
+1704873,Louisiana,Lafayette,400 block of Jefferson St,0,5,June 14, 2020,30.216667,-92.033333
+1824073,Pennsylvania,Philadelphia,3900 block of  Buist Ave,0,4,October 14, 2020,39.952583,-75.165222
+1818055,Pennsylvania,Philadelphia,4935 Frankford Ave,1,6,October 8, 2020,39.952583,-75.165222
+1809910,Pennsylvania,Philadelphia,4500 block of N 19th St,0,5,September 29, 2020,39.952583,-75.165222
+1807046,Pennsylvania,Philadelphia,100 block of N Lindenwood St,0,4,September 26, 2020,39.952583,-75.165222
+1806500,Pennsylvania,Philadelphia,1300 block of Sanger St,0,4,September 25, 2020,39.952583,-75.165222
+1797620,Pennsylvania,Philadelphia,1800 Wallace St,2,3,September 16, 2020,39.952583,-75.165222
+1793771,Pennsylvania,Philadelphia,N 18th St and Dauphin St,0,4,September 12, 2020,39.952583,-75.165222
+1785108,Pennsylvania,Philadelphia,700 block of E Chelten Ave,0,6,September 3, 2020,39.952583,-75.165222
+1783582,Pennsylvania,Philadelphia,1800 block of Moore St,2,2,September 2, 2020,39.952583,-75.165222
+1825993,Pennsylvania,Philadelphia,1500 block of W Clearfield St,0,5,August 31, 2020,39.952583,-75.165222
+1784122,Pennsylvania,Philadelphia,5317 Oxford Ave,0,4,August 30, 2020,39.952583,-75.165222
+1777400,Pennsylvania,Philadelphia,5500 block of Chew Ave,0,4,August 26, 2020,39.952583,-75.165222
+1769444,Pennsylvania,Philadelphia,700 block of S 55th St,0,4,August 19, 2020,39.952583,-75.165222
+1768125,Pennsylvania,Philadelphia,30th St and Cumberland St,1,4,August 18, 2020,39.952583,-75.165222
+1765499,Pennsylvania,Philadelphia,N 10th St and Brown St,0,5,August 15, 2020,39.952583,-75.165222
+1758838,Pennsylvania,Philadelphia,1101 N 38th St,0,6,August 8, 2020,39.952583,-75.165222
+1753320,Pennsylvania,Philadelphia,3100 block of Weymouth St,0,4,August 2, 2020,39.952583,-75.165222
+1752019,Pennsylvania,Philadelphia,2500 block of Ingersoll St,2,2,July 31, 2020,39.952583,-75.165222
+1719693,Pennsylvania,Philadelphia,1900 block of E Somerset St,2,2,June 28, 2020,39.952583,-75.165222
+1717543,Pennsylvania,Philadelphia,Emerald St and E Atlantic St,0,4,June 25, 2020,39.952583,-75.165222
+1703509,Pennsylvania,Philadelphia,N Broad St and Colwyn St,0,6,June 12, 2020,39.952583,-75.165222
+1701426,Pennsylvania,Philadelphia,600 block N 8th St,1,6,June 9, 2020,39.952583,-75.165222
+1693580,Pennsylvania,Philadelphia,700 block of E Clearfield St,0,4,May 31, 2020,39.952583,-75.165222
+1691440,Pennsylvania,Philadelphia,300 block of N 55th St,1,3,May 28, 2020,39.952583,-75.165222
+1689419,Pennsylvania,Philadelphia,1800 block of Hart Ln,0,4,May 27, 2020,39.952583,-75.165222
+1689252,Pennsylvania,Philadelphia,2700 block of N Darian St,0,4,May 26, 2020,39.952583,-75.165222
+1850080,Pennsylvania,Philadelphia,4300 block of Germantown Ave,0,4,May 15, 2020,39.952583,-75.165222
+1670970,Pennsylvania,Philadelphia,200 block of S Cecil St,0,4,May 2, 2020,39.952583,-75.165222
+1659862,Pennsylvania,Philadelphia,Bustleton Ave and St Vincent St,0,4,April 16, 2020,39.952583,-75.165222
+1648832,Pennsylvania,Philadelphia,2000 block of W Harold St,0,5,March 30, 2020,39.952583,-75.165222
+1612597,Mississippi,Philadelphia,257 W Beacon St,0,4,February 1, 2020,39.952583,-75.165222
+1821574,South Carolina,Myrtle Beach,1012 US-501,2,3,October 12, 2020,33.68906,-78.886696
+1687037,South Carolina,Myrtle Beach,12th Ave N and Ocean Blvd,0,4,May 24, 2020,33.68906,-78.886696
+1821496,Georgia,Atlanta,330 W Peachtree St NW,0,4,October 11, 2020,33.753746,-84.38633
+1814148,Georgia,Atlanta,1570 Joseph E Boone Blvd NW,1,5,October 4, 2020,33.753746,-84.38633
+1744407,Georgia,Atlanta,Sunset Ave NW and Lester St NW,2,2,July 24, 2020,33.753746,-84.38633
+1725690,Georgia,Atlanta,200 block of Auburn Ave,2,13,July 5, 2020,33.753746,-84.38633
+1725670,Georgia,Atlanta,1600 block of Lakewood Ave,0,5,July 4, 2020,33.753746,-84.38633
+1720781,Georgia,Atlanta,Parkway Dr,1,4,June 30, 2020,33.753746,-84.38633
+1704580,Georgia,Atlanta,69 Mason Ave NE,2,5,June 13, 2020,33.753746,-84.38633
+1648205,Georgia,Atlanta,Ponce de Leon Ave and Parkway Dr,0,4,March 29, 2020,33.753746,-84.38633
+1588919,Georgia,Atlanta,1008 Brady Ave NW,0,4,January 5, 2020,33.753746,-84.38633
+1816799,Alaska,Anchorage,200 block of McCarrey St,1,4,October 7, 2020,61.217381,-149.863129
+1656373,Alaska,Anchorage,10600 block of Elmore Rd,0,4,April 8, 2020,61.217381,-149.863129
+1813306,Tennessee,Clarksville,100 block of Tiny Town Rd,0,5,October 3, 2020,36.531364,-87.353767
+1812972,California,Los Angeles,51st St and Hoover St,0,4,October 2, 2020,34.052235,-118.243683
+1689555,California,Los Angeles,119th St and Berendo Ave,0,5,May 26, 2020,34.052235,-118.243683
+1652734,California,Los Angeles,89th St and Hobart Ave,1,3,April 5, 2020,34.052235,-118.243683
+1812838,Washington,Seattle,9700 block of 59th Ave S,0,4,October 2, 2020,47.608013,-122.335167
+1603241,Washington,Seattle,1530 3rd Ave,1,7,January 22, 2020,47.608013,-122.335167
+1812049,Michigan,Detroit,15018 Houston Whittier St,0,5,October 1, 2020,42.331429,-83.045753
+1807325,Michigan,Detroit,6609 Michigan Ave,0,6,September 28, 2020,42.331429,-83.045753
+1774123,Michigan,Detroit,11938 E McNichols Rd,0,4,August 24, 2020,42.331429,-83.045753
+1750250,Michigan,Detroit,5200 block of Canton St,0,4,July 29, 2020,42.331429,-83.045753
+1739920,Michigan,Detroit,McKinney St and Meuse St,1,3,July 19, 2020,42.331429,-83.045753
+1739917,Michigan,Detroit,9122 Dexter Ave,4,0,July 19, 2020,42.331429,-83.045753
+1725571,Michigan,Detroit,San Juan Dr and W McNichols Rd,2,4,July 5, 2020,42.331429,-83.045753
+1724231,Michigan,Detroit,8340 Homer St,2,3,July 4, 2020,42.331429,-83.045753
+1711876,Michigan,Detroit,Appoline St and Puritan Ave,0,4,June 20, 2020,42.331429,-83.045753
+1655674,Michigan,Detroit,1200 block of Payton St,0,4,April 8, 2020,42.331429,-83.045753
+1810696,North Carolina,Greensboro,700 block of Milton St,0,4,September 30, 2020,36.044659,-79.766235
+1660797,North Carolina,Greensboro,4400 block of Beckford Dr,1,3,April 17, 2020,36.044659,-79.766235
+1625787,North Carolina,Greensboro,Martin Luther King Jr Ave and Randolph Dr,0,4,February 20, 2020,36.044659,-79.766235
+1810881,Florida,Jacksonville,12517 Beach Blvd,0,4,September 30, 2020,30.332184,-81.655647
+1671624,Florida,Jacksonville,2100 block of Brooklyn Rd,1,3,May 3, 2020,30.332184,-81.655647
+1641923,Florida,Jacksonville,11501 Harts Rd,1,4,March 18, 2020,30.332184,-81.655647
+1810358,Wisconsin,Milwaukee,4217 W Fond du Lac Ave,0,7,September 30, 2020,43.038902,-87.906471
+1749535,Wisconsin,Milwaukee,2600 block of W Atkinson Ave,0,4,July 28, 2020,43.038902,-87.906471
+1725379,Wisconsin,Milwaukee,5800 block of W Hope Ave,0,4,July 5, 2020,43.038902,-87.906471
+1711605,Wisconsin,Milwaukee,North 28th St and West Ruby Ave,0,5,June 21, 2020,43.038902,-87.906471
+1666945,Wisconsin,Milwaukee,2800 block of N 12th St,5,0,April 27, 2020,43.038902,-87.906471
+1629488,Wisconsin,Milwaukee,3939 W Highland Blvd,6,0,February 26, 2020,43.038902,-87.906471
+1804511,Georgia,Hampton,1577 Glynn Ct,1,3,September 23, 2020,37.034946,-76.360123
+1802862,Minnesota,Minneapolis,200 W Broadway Ave,0,5,September 23, 2020,44.986656,-93.258133
+1778435,Minnesota,Minneapolis,2400 block of Irving Ave N,0,4,August 28, 2020,44.986656,-93.258133
+1712876,Minnesota,Minneapolis,N Morgan Ave and N 16th Ave,0,4,June 22, 2020,44.986656,-93.258133
+1712898,Minnesota,Minneapolis,627 W Broadway,0,4,June 22, 2020,44.986656,-93.258133
+1711410,Minnesota,Minneapolis,2939 Hennepin Ave S,0,11,June 21, 2020,44.986656,-93.258133
+1704879,Minnesota,Minneapolis,328 W Broadway Ave,1,6,June 14, 2020,44.986656,-93.258133
+1800514,Connecticut,Stamford,Ursula Pl and Dale St,1,3,September 20, 2020,41.053429,-73.538734
+1800026,New York,Buffalo,Glenwood Ave and Jefferson Ave,1,4,September 19, 2020,42.88023,-78.878738
+1779981,New York,Buffalo,500 block of Fillmore Ave,1,4,August 30, 2020,42.88023,-78.878738
+1711747,New York,Buffalo,W Ferry St and Niagara St,0,4,June 21, 2020,42.88023,-78.878738
+1799307,New York,Rochester,278 Pennsylvania Ave,2,14,September 19, 2020,44.016369,-92.475395
+1775249,New York,Rochester,70 block of Flower St,0,4,August 25, 2020,44.016369,-92.475395
+1765890,New York,Rochester,501 Thurston Rd,0,5,August 15, 2020,44.016369,-92.475395
+1731349,New York,Rochester,485 N Clinton Ave,0,6,July 11, 2020,44.016369,-92.475395
+1800192,New Jersey,Paterson,Elizabeth St and Getty Ave,0,5,September 19, 2020,40.914745,-74.162827
+1728683,New Jersey,Paterson,Harrison St and Carroll St,4,3,July 7, 2020,40.914745,-74.162827
+1722839,New Jersey,Paterson,N Main St and Jefferson St,1,4,July 2, 2020,40.914745,-74.162827
+1692513,New Jersey,Paterson,E 23rd St and 10th Ave,0,4,May 30, 2020,40.914745,-74.162827
+1799160,Arkansas,Little Rock,5311 Mabelvale Pike,0,4,September 18, 2020,34.746483,-92.289597
+1786806,Arkansas,Little Rock,400 President Clinton Ave,0,4,September 5, 2020,34.746483,-92.289597
+1785593,Arkansas,Little Rock,19 Nandina Cir,0,4,September 3, 2020,34.746483,-92.289597
+1794138,Tennessee,Manchester,I-24 and McMinnville Hwy,3,3,September 13, 2020,43.008663,-71.454391
+1793826,Michigan,Grand Rapids,3950 Stahl Dr SE,0,7,September 13, 2020,42.963795,-85.670006
+1786829,Colorado,Commerce City,6700 block of Birch St,0,4,September 6, 2020,39.813019,-104.93351
+1746417,Colorado,Commerce City,6300 block of Ivanhoe St,1,3,July 26, 2020,39.813019,-104.93351
+1787286,Missouri,Kansas City,3999 Swope Pkwy,0,6,September 6, 2020,39.106667,-94.676392
+1698306,Missouri,Kansas City,E 18th St and Vine St,1,4,June 6, 2020,39.106667,-94.676392
+1631040,Missouri,Kansas City,510 Westport Rd,1,4,February 29, 2020,39.106667,-94.676392
+1600787,Missouri,Kansas City,4802 Noland Rd,2,15,January 19, 2020,39.106667,-94.676392
+1787006,Louisiana,New Iberia,1752 Center St,0,5,September 6, 2020,30.005417,-91.818665
+1785713,Florida,Williston,Co Rd 318 and US-27 Alt,0,6,September 5, 2020,48.146969,-103.617973
+1805455,South Carolina,Anderson,R St and Chase Ave,1,3,September 3, 2020,34.503441,-82.650131
+1784141,Georgia,Albany,1400 block of E Residence Ave,1,3,September 2, 2020,44.636513,-123.105927
+1758774,New York,Albany,First St and Quail St,1,3,August 8, 2020,44.636513,-123.105927
+1708889,New York,Albany,8 Albany St,0,7,June 18, 2020,44.636513,-123.105927
+1673633,Georgia,Albany,1900 block of Meadow Dr,1,3,May 6, 2020,44.636513,-123.105927
+1783928,California,Oakland,Kerwin Ave and 105th Ave,0,4,September 2, 2020,37.804363,-122.271111
+1757380,California,Oakland,4500 block of Fairfax Ave,1,3,August 6, 2020,37.804363,-122.271111
+1722142,California,Oakland,MacArthur Fwy and 106th Ave,0,4,July 1, 2020,37.804363,-122.271111
+1782962,Florida,Tallahassee,2660 Old Bainbridge Rd,0,4,August 31, 2020,30.455,-84.253334
+1780301,Kentucky,Lexington,545 N Upper St,0,7,August 30, 2020,38.047989,-84.50164
+1765658,Kentucky,Lexington,1000 block of Newtown Ct,1,3,August 16, 2020,38.047989,-84.50164
+1780228,Nevada,Las Vegas,777 E Twain Ave,2,2,August 29, 2020,36.114647,-115.172813
+1778542,Pennsylvania,Chester,2900 block of W 2nd St,1,3,August 28, 2020,34.704929,-81.210251
+1637520,Pennsylvania,Chester,200 block of Broomall Street,2,2,March 10, 2020,34.704929,-81.210251
+1779023,Texas,Dallas,2600 block of Elm St,1,4,August 28, 2020,32.779167,-96.808891
+1746674,Texas,Dallas,525 S Riverfront Blvd,0,4,July 25, 2020,32.779167,-96.808891
+1695998,Texas,Dallas,7460 S Westmoreland Rd,1,3,June 2, 2020,32.779167,-96.808891
+1777607,Oregon,Portland,10500 block of NE Halsey St,1,3,August 27, 2020,45.523064,-122.676483
+1777180,Michigan,Pontiac,252 Carriage Circle Dr,3,1,August 26, 2020,42.638924,-83.291046
+1776189,Virginia,Norfolk,800 block of E Princess Anne Rd,0,5,August 25, 2020,36.850769,-76.285873
+1643157,Virginia,Norfolk,800 block of Lincoln St,0,4,March 20, 2020,36.850769,-76.285873
+1774138,Florida,West Palm Beach,1000 block of 18th St,0,4,August 24, 2020,26.709723,-80.064163
+1773996,Virginia,Richmond,2300 block of Bethel St,1,4,August 24, 2020,37.54129,-77.434769
+1740533,Virginia,Richmond,6850 Forest Hill Ave,1,4,July 20, 2020,37.54129,-77.434769
+1702276,Virginia,Richmond,800 block of N 1st St,0,4,June 11, 2020,37.54129,-77.434769
+1772623,Arkansas,Pine Bluff,2901 W 28th Ave,0,7,August 23, 2020,34.2244,-92.019211
+1772934,Colorado,Pueblo,2000 block of Longhorn Point,0,6,August 23, 2020,38.276463,-104.604607
+1772438,Illinois,Champaign,100 block of Kenwood Rd,0,4,August 23, 2020,40.116421,-88.243385
+1768683,Ohio,Cleveland,Dove Ave and E 102nd St,0,5,August 17, 2020,35.159519,-84.87661
+1690524,Ohio,Cleveland,12800 Euclid Ave,1,3,May 27, 2020,35.159519,-84.87661
+1686015,Ohio,Cleveland,11921 Miles Ave,1,3,May 22, 2020,35.159519,-84.87661
+1635750,Ohio,Cleveland,3804 E 93rd St,1,18,March 7, 2020,35.159519,-84.87661
+1585746,Ohio,Cleveland,1437 St Clair Ave NE,0,4,January 1, 2020,35.159519,-84.87661
+1767402,Texas,Dayton,County Rd 4901,3,2,August 17, 2020,39.758949,-84.191605
+1762997,Ohio,Dayton,2049 Catalpa Dr,1,3,August 12, 2020,39.758949,-84.191605
+1721572,Ohio,Dayton,3500 block of Stanford Pl,0,4,June 30, 2020,39.758949,-84.191605
+1766380,Colorado,Denver,W Alameda Ave and S Federal Blvd,2,4,August 16, 2020,39.742043,-104.991531
+1759873,Colorado,Denver,1400 block of W Byers Pl,0,9,August 9, 2020,39.742043,-104.991531
+1751949,Colorado,Denver,3000 block of W Virginia Ave,1,4,August 1, 2020,39.742043,-104.991531
+1746430,Colorado,Denver,East 33rd Ave and Hudson St,2,3,July 25, 2020,39.742043,-104.991531
+1697541,Colorado,Denver,4900 block of Wheeling St,0,4,June 5, 2020,39.742043,-104.991531
+1765336,Michigan,Belleville,24914 Martinsville Rd,4,0,August 15, 2020,38.526684,-89.991074
+1765705,Connecticut,New Haven,Rosette St and Hurlburt St,1,5,August 15, 2020,41.308273,-72.927887
+1761557,California,Torrance,22904 Lockness Ave,0,5,August 11, 2020,33.840763,-118.345413
+1759425,Kentucky,Paducah,900 block of Boyd St,1,4,August 8, 2020,37.086678,-88.60405
+1759439,Massachusetts,Brockton,124 Laureston St,0,5,August 8, 2020,42.083431,-71.018379
+1755566,Wisconsin,Madison,333 S Rosa Rd,0,4,August 4, 2020,43.073051,-89.40123
+1739413,Florida,Madison,SW Louisiana Terrace,0,4,July 17, 2020,43.073051,-89.40123
+1754613,California,Beverly Hills,13200 Mulholland Dr,1,4,August 4, 2020,34.07362,-118.400352
+1754672,Connecticut,Hartford,818 Windsor St,1,5,August 4, 2020,41.76371,-72.685097
+1622406,Connecticut,Hartford,451 Franklin Ave,1,5,February 16, 2020,41.76371,-72.685097
+1752790,Alabama,Montgomery,1100 block of Eastern Blvd,0,4,August 1, 2020,32.361668,-86.279167
+1677566,Alabama,Montgomery,Rosa Parks Ave and Courtland Dr,0,4,May 11, 2020,32.361668,-86.279167
+1750548,Florida,Miami Gardens,16701 NW 42 Ave,0,5,July 30, 2020,25.942122,-80.26992
+1749281,Delaware,Wilmington,1100 block of Beech St,2,2,July 28, 2020,39.739071,-75.539787
+1732321,Delaware,Wilmington,600 block of N Pine St,0,5,July 11, 2020,39.739071,-75.539787
+1748134,Washington,Federal Way,2410 S 312th St,1,3,July 27, 2020,47.322323,-122.312622
+1746441,Michigan,Flint,4462 Corunna Rd,1,3,July 26, 2020,43.016193,-83.705521
+1746582,Michigan,Flint,4813 Clio Rd,0,6,July 25, 2020,43.016193,-83.705521
+1687097,Michigan,Flint,4100 block of Minerva St,1,3,May 23, 2020,43.016193,-83.705521
+1746282,Kentucky,Louisville,I-64,1,3,July 26, 2020,38.328732,-85.764771
+1734064,Kentucky,Louisville,1200 block of W Hill St,1,3,July 13, 2020,38.328732,-85.764771
+1704862,Kentucky,Louisville,531 Franklin St,1,4,June 14, 2020,38.328732,-85.764771
+1691221,Kentucky,Louisville,601 W Jefferson St,0,7,May 28, 2020,38.328732,-85.764771
+1651742,Kentucky,Louisville,1000 block of Cecil Ave,0,4,April 3, 2020,38.328732,-85.764771
+1743168,Virginia,Fairfield,3700 block of Meadowbridge Rd,1,3,July 23, 2020,38.257778,-122.054169
+1743488,Virginia,Petersburg,Wesley St,0,4,July 23, 2020,37.227928,-77.401924
+1743108,Michigan,Warren,28200 block of Lawson St,0,4,July 22, 2020,42.491943,-83.023888
+1739571,Nebraska,Omaha,28th St and T Ave,0,8,July 19, 2020,41.25716,-95.995102
+1739434,Illinois,Peoria,NE Water St and Hamilton Blvd,0,13,July 19, 2020,33.580944,-112.237068
+1718463,Illinois,Peoria,1400 block of SW Jefferson St,0,4,June 27, 2020,33.580944,-112.237068
+1739097,Ohio,Columbus,E 6th Ave and Summit St,0,4,July 17, 2020,32.492222,-84.940277
+1713668,Ohio,Columbus,1910 Fountainview Ct,1,4,June 22, 2020,32.492222,-84.940277
+1671289,Ohio,Columbus,300 block of S Ashburton Rd,0,4,May 3, 2020,32.492222,-84.940277
+1735470,North Carolina,Durham,200 Block of S Benjamine St,0,8,July 14, 2020,35.994034,-78.898621
+1734058,Washington,Kent,23201 Pacific Hwy South,0,6,July 13, 2020,47.380932,-122.23484
+1732485,Louisiana,Baton Rouge,4718 Plank Rd,1,7,July 12, 2020,30.471165,-91.147385
+1724887,Louisiana,Baton Rouge,11300 block of Greenwell Springs Rd,0,4,July 4, 2020,30.471165,-91.147385
+1676515,Louisiana,Baton Rouge,2944 Plank Rd,0,5,May 10, 2020,30.471165,-91.147385
+1732688,Michigan,Lansing,3029 BeauJardin Dr,0,5,July 12, 2020,42.732536,-84.555534
+1732365,Florida,Fort Lauderdale,3000 block of NW 12th Ct,2,2,July 12, 2020,26.122438,-80.137314
+1727743,Virginia,Alexandria,7900 block of Janna Lee Ave,0,5,July 7, 2020,38.82045,-77.050552
+1725802,Iowa,Davenport,1000 block of W 3rd St,1,3,July 5, 2020,41.543056,-90.590836
+1721964,Iowa,Davenport,1400 block of Pershing Ave,0,5,June 30, 2020,41.543056,-90.590836
+1725108,South Carolina,Greenville,1701 White Horse Rd,2,8,July 5, 2020,35.612659,-77.366356
+1727515,Mississippi,Greenville,Union St,0,4,July 5, 2020,35.612659,-77.366356
+1726770,Arkansas,Helena,1317 Perry St,1,3,July 5, 2020,46.595806,-112.027031
+1725946,Missouri,Columbia,Volunteer Dr and Grace Ln,2,3,July 5, 2020,38.951561,-92.328636
+1725327,Maryland,Cambridge,700 block of Weaver Ave,0,4,July 5, 2020,42.373611,-71.110558
+1729506,Louisiana,Lake Charles,1600 block of Moss St,0,4,July 1, 2020,30.212942,-93.21891
+1705050,Louisiana,Lake Charles,3945 US-90,0,4,June 14, 2020,30.212942,-93.21891
+1687999,Louisiana,Lake Charles,6780 US-90,0,6,May 25, 2020,30.212942,-93.21891
+1720655,South Dakota,Sioux Falls,902 N Prairie Ave,1,3,June 29, 2020,43.536388,-96.731667
+1719668,Alabama,Akron,Co Rd 21,0,7,June 28, 2020,41.081757,-81.511452
+1717828,Colorado,Aurora,698 Peoria St,0,5,June 26, 2020,41.763889,-88.290001
+1594173,Colorado,Aurora,17158 E Adriatic Place,0,5,January 11, 2020,41.763889,-88.290001
+1718292,California,Fresno,Pico Ave,0,4,June 26, 2020,36.746841,-119.772591
+1715231,Florida,Lake Worth,Lantana Rd and Edgecliff Ave,0,5,June 23, 2020,26.616756,-80.068451
+1712342,North Carolina,Charlotte,1800 block of Beatties Ford Rd,4,5,June 22, 2020,35.227085,-80.843124
+1687108,North Carolina,Charlotte,4900 Block of Albemarle Rd,0,6,May 23, 2020,35.227085,-80.843124
+1711626,Texas,Austin,500 block of E 7th St,0,5,June 21, 2020,30.266666,-97.73333
+1711690,Alabama,Auburn,600 block of Railroad Ave,0,4,June 21, 2020,42.933334,-76.566666
+1713493,Texas,Corpus Christi,5802 Everhart Rd,1,3,June 21, 2020,27.800583,-97.396378
+1711285,New York,Syracuse,Marcellus St and Wyoming St,1,8,June 20, 2020,43.088947,-76.15448
+1710680,New Jersey,Jersey City,Union St and Ocean Ave,1,4,June 20, 2020,40.719074,-74.050552
+1711397,Kansas,Wichita,3741 N Rock Rd,0,5,June 20, 2020,37.697948,-97.314835
+1705440,California,Hesperia,8100 block of Julie Ct,0,5,June 13, 2020,34.426388,-117.30088
+1701714,California,Paso Robles,900 Park St,2,4,June 10, 2020,35.640556,-120.680008
+1701491,California,Vallejo,100 block of Cynthia Ave,2,3,June 9, 2020,38.104088,-122.256638
+1695586,Wisconsin,Racine,Kewaunee St and Michigan Blvd,0,5,June 2, 2020,42.722702,-87.784225
+1693340,Mississippi,Gulfport,S Carolina Ave and Polk St,1,5,May 31, 2020,30.36742,-89.092819
+1692102,Virginia,Portsmouth,500 block of Edwards St,0,5,May 29, 2020,36.835426,-76.298271
+1686747,Florida,Daytona Beach,13 S Atlantic Ave,0,6,May 23, 2020,29.218103,-81.031723
+1683653,Illinois,Decatur,300 block of West Leafland Ave,0,5,May 19, 2020,34.603817,-86.985039
+1682322,California,Bakersfield,901 W Columbus St,0,5,May 18, 2020,35.393528,-119.043732
+1656873,California,Bakersfield,Pioneer Rd and Sterling Rd,0,6,April 11, 2020,35.393528,-119.043732
+1681602,South Carolina,Charleston,23 Cannon St,0,4,May 17, 2020,38.349819,-81.632622
+1686369,Florida,Gainesville,2305 SE Hawthorne Rd,0,5,May 15, 2020,29.651634,-82.324829
+1680027,New Mexico,Albuquerque,820 Louisiana SE,0,5,May 14, 2020,35.106766,-106.629181
+1639542,New Mexico,Albuquerque,620 block of Arno SE,1,3,March 14, 2020,35.106766,-106.629181
+1635570,New Mexico,Albuquerque,1700 block of Rayo Del Sol Dr SW,0,4,March 7, 2020,35.106766,-106.629181
+1676746,Texas,Katy,18000 block of Bonners Park Cir,0,6,May 10, 2020,29.785786,-95.824394
+1665735,Indiana,Fort Wayne,3233 Diplomat Dr,0,4,April 24, 2020,41.093842,-85.139236
+1661537,Maryland,Hyattsville,7500 block of Courtney Pl,2,2,April 18, 2020,38.955944,-76.945534
+1661218,Massachusetts,Springfield,College St,1,4,April 17, 2020,39.799999,-89.650002
+1640317,Missouri,Springfield,3264 E Battlefield Rd,5,2,March 15, 2020,39.799999,-89.650002
+1656265,Michigan,Muskegon,800 block of Oak St,0,4,April 10, 2020,43.224194,-86.235809
+1653012,South Carolina,Lancaster,Mahaffey Line Dr,1,4,April 5, 2020,34.686787,-118.15416
+1652073,Texas,Lubbock,2107 49th St,2,2,April 4, 2020,33.576698,-101.855072
+1652328,Florida,Hialeah,W 69th St and 24th Ave,1,4,April 4, 2020,25.857595,-80.278107
+1631831,Colorado,Brighton,Starr Ln and County Rd 2,0,5,February 29, 2020,39.039055,-90.140678
+1622962,Florida,Pensacola,517 W Gadsden St,1,4,February 16, 2020,30.433283,-87.240372
+1619064,Delaware,Dover,200 block of W Reed St,1,4,February 10, 2020,39.161079,-75.525681
+1588308,Florida,Ocala,800 block of NW 6th Ter,1,3,January 4, 2020,29.187199,-82.140091
+1585394,West Virginia,Huntington,1113 4th Ave,0,7,January 1, 2020,38.413651,-82.446732

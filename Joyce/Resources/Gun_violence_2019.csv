@@ -1,0 +1,310 @@
+Incident ID,State,City Or County,Address,# Killed,# Injured,Date,Year,Latitude,Longitude
+1582197,New York,Buffalo,50 block of Henrietta Ave,1,3,December 29, 2019,42.88023,-78.878738
+1418548,New York,Buffalo,2081 Niagara St,0,4,June 9, 2019,42.88023,-78.878738
+1581590,California,Modesto,1900 block of Vernon Ave,1,3,December 27, 2019,37.661388,-120.994446
+1581103,Texas,Houston,500 block of Smart St,2,7,December 27, 2019,29.749907,-95.358421
+1541774,Texas,Houston,5000 block of Northridge Dr,1,4,November 4, 2019,29.749907,-95.358421
+1486232,Texas,Houston,4900 block of Southwind St,3,2,August 23, 2019,29.749907,-95.358421
+1481989,Texas,Houston,12500 block of Mylla St,0,6,August 17, 2019,29.749907,-95.358421
+1445066,Texas,Houston,5901 Royal Palms St,0,4,July 11, 2019,29.749907,-95.358421
+1332429,Texas,Houston,12800 block of Eastbrook Dr,2,2,February 21, 2019,29.749907,-95.358421
+1314289,Texas,Houston,7815 Harding St,2,5,January 28, 2019,29.749907,-95.358421
+1305294,Texas,Houston,7041 Sherman St,3,2,January 19, 2019,29.749907,-95.358421
+1579889,California,Oakland,2100 block of 34th Ave,0,4,December 25, 2019,37.804363,-122.271111
+1504012,California,Oakland,38th Ave and MacArthur Blvd,1,4,September 14, 2019,37.804363,-122.271111
+1435804,California,Oakland,3000 block of Brookdale Ave,0,4,June 30, 2019,37.804363,-122.271111
+1338860,California,Oakland,316 14th St,0,4,March 3, 2019,37.804363,-122.271111
+1337498,California,Oakland,9755 Edes Ave,1,3,February 28, 2019,37.804363,-122.271111
+1579856,Virginia,Richmond,1800 E Main St,1,3,December 25, 2019,37.54129,-77.434769
+1554446,California,Richmond,20th St and Roosevelt Ave,0,4,November 20, 2019,37.54129,-77.434769
+1475361,Virginia,Richmond,6346 Midlothian Turnpike,0,4,August 10, 2019,37.54129,-77.434769
+1428229,California,Richmond,700 block of 14th St,0,5,June 21, 2019,37.54129,-77.434769
+1579266,Louisiana,New Orleans,6400 block of General Meyer Ave,0,4,December 24, 2019,29.951065,-90.071533
+1567231,Louisiana,New Orleans,3801 Washington Ave,1,4,December 8, 2019,29.951065,-90.071533
+1561966,Louisiana,New Orleans,2000 block of N Dorgenois St,2,2,December 1, 2019,29.951065,-90.071533
+1561734,Louisiana,New Orleans,700 block of Canal St,0,12,December 1, 2019,29.951065,-90.071533
+1509411,Louisiana,New Orleans,Poland Ave and St. Claude Ave,0,4,September 21, 2019,29.951065,-90.071533
+1508859,Louisiana,New Orleans,Canal Blvd and City Park Ave,1,5,September 20, 2019,29.951065,-90.071533
+1393960,Louisiana,New Orleans,2100 block of 4th St,0,4,May 13, 2019,29.951065,-90.071533
+1329075,Louisiana,New Orleans,Tulane Ave and Elk Pl,1,5,February 17, 2019,29.951065,-90.071533
+1594317,Illinois,Joliet,1200 block of Cutter Ave,0,5,December 24, 2019,41.520557,-88.150558
+1579220,North Carolina,High Point,1226 Montlieu Ave,0,6,December 24, 2019,35.970554,-79.997498
+1577577,Maryland,Baltimore,225 Park Ave,0,7,December 22, 2019,39.299236,-76.609383
+1537044,Maryland,Baltimore,4700 block of Liberty Heights Ave,1,3,October 29, 2019,39.299236,-76.609383
+1536787,Maryland,Baltimore,4160 Pimlico Rd,1,3,October 28, 2019,39.299236,-76.609383
+1525628,Maryland,Baltimore,800 block of W Lexington St,1,3,October 12, 2019,39.299236,-76.609383
+1523204,Maryland,Baltimore,1600 block of W North Ave,1,3,October 9, 2019,39.299236,-76.609383
+1493429,Maryland,Baltimore,900 block of N Monroe St,0,4,August 31, 2019,39.299236,-76.609383
+1491495,Maryland,Baltimore,1600 block of E 29th St,1,3,August 30, 2019,39.299236,-76.609383
+1490466,Maryland,Baltimore,2500 block of E Monument St,1,3,August 29, 2019,39.299236,-76.609383
+1453350,Maryland,Baltimore,2800 block of Boarman Ave,1,3,July 20, 2019,39.299236,-76.609383
+1437094,Maryland,Baltimore,1200 block of N Luzerne Ave,0,4,July 1, 2019,39.299236,-76.609383
+1428595,Maryland,Baltimore,800 block of N Port St,1,4,June 22, 2019,39.299236,-76.609383
+1405317,Maryland,Baltimore,500 block of N Belnord Ave,0,4,May 25, 2019,39.299236,-76.609383
+1386085,Maryland,Baltimore,1900 block of Ramsay St,0,5,May 3, 2019,39.299236,-76.609383
+1385642,Maryland,Baltimore,2500 block of E Biddle St,0,4,May 3, 2019,39.299236,-76.609383
+1381979,Maryland,Baltimore,2544 Edmondson Ave,1,7,April 28, 2019,39.299236,-76.609383
+1368597,Maryland,Baltimore,2200 block of Ruskin Ave,1,3,April 11, 2019,39.299236,-76.609383
+1357591,Maryland,Baltimore,6200 block of Boston St,0,4,March 28, 2019,39.299236,-76.609383
+1331974,Maryland,Baltimore,500 block of Bloom St,1,4,February 21, 2019,39.299236,-76.609383
+1577518,Illinois,Chicago,5700 block of S May St,0,13,December 22, 2019,41.881832,-87.623177
+1525476,Illinois,Chicago,6733 W Irving Park Rd,5,0,October 12, 2019,41.881832,-87.623177
+1511999,Illinois,Chicago,2000 block of South Hoyne Ave,1,3,September 24, 2019,41.881832,-87.623177
+1507156,Illinois,Chicago,4200 block of W Madison St,3,1,September 18, 2019,41.881832,-87.623177
+1501350,Illinois,Chicago,2200 block of W Maypole Ave,0,4,September 10, 2019,41.881832,-87.623177
+1495141,Illinois,Chicago,6200 block of S King Dr,0,4,September 2, 2019,41.881832,-87.623177
+1493038,Illinois,Chicago,7100 block of S Paulina St,2,3,August 31, 2019,41.881832,-87.623177
+1487573,Illinois,Chicago,8200 block of S Maryland Ave,1,3,August 25, 2019,41.881832,-87.623177
+1475924,Illinois,Chicago,3500 block of W Lake St,0,6,August 11, 2019,41.881832,-87.623177
+1475208,Illinois,Chicago,7300 block of S Artesian Ave,0,4,August 9, 2019,41.881832,-87.623177
+1468190,Illinois,Chicago,1800 S Kildare Ave,1,7,August 4, 2019,41.881832,-87.623177
+1468091,Illinois,Chicago,2900 block of W Roosevelt Rd,0,7,August 4, 2019,41.881832,-87.623177
+1460726,Illinois,Chicago,3938 W Roosevelt Rd,0,4,July 28, 2019,41.881832,-87.623177
+1453327,Illinois,Chicago,3900 block of Roosevelt Rd,0,4,July 21, 2019,41.881832,-87.623177
+1452617,Illinois,Chicago,2401 N Lake Shore Dr,0,7,July 20, 2019,41.881832,-87.623177
+1450767,Illinois,Chicago,3427 W Fulton Blvd,1,3,July 18, 2019,41.881832,-87.623177
+1447456,Illinois,Chicago,4600 block of W Erie St,0,4,July 14, 2019,41.881832,-87.623177
+1446611,Illinois,Chicago,7900 block of S Loomis Blvd,1,4,July 13, 2019,41.881832,-87.623177
+1441396,Illinois,Chicago,5600 block of S Paulina St,0,4,July 7, 2019,41.881832,-87.623177
+1441296,Illinois,Chicago,600 block of W 61st Pl,0,4,July 7, 2019,41.881832,-87.623177
+1439593,Illinois,Chicago,1600 block of E 67th St,0,5,July 5, 2019,41.881832,-87.623177
+1438971,Illinois,Chicago,800 block of N Homan Ave,1,3,July 4, 2019,41.881832,-87.623177
+1434931,Illinois,Chicago,2400 block of W Jackson Blvd,0,5,June 29, 2019,41.881832,-87.623177
+1427483,Illinois,Chicago,6300 block of S King Dr,0,4,June 21, 2019,41.881832,-87.623177
+1417570,Illinois,Chicago,3500 block of W North Ave,0,4,June 8, 2019,41.881832,-87.623177
+1416374,Illinois,Chicago,2500 block of N Lake Shore Dr,1,3,June 6, 2019,41.881832,-87.623177
+1411598,Illinois,Chicago,300 block of East Chicago Ave,0,4,June 1, 2019,41.881832,-87.623177
+1412243,Illinois,Chicago,5600 block of West Madison St,0,4,June 1, 2019,41.881832,-87.623177
+1364540,Illinois,Chicago,6300 block of S Seeley Ave,0,6,April 6, 2019,41.881832,-87.623177
+1359455,Illinois,Chicago,500 block of N Hamlin Ave,1,4,March 31, 2019,41.881832,-87.623177
+1338765,Illinois,Chicago,2900 block of E 79th St,0,6,March 3, 2019,41.881832,-87.623177
+1318391,Illinois,Chicago,938 E 75th St,2,5,February 3, 2019,41.881832,-87.623177
+1305516,Illinois,Chicago,4400 block of W Madison St,0,4,January 19, 2019,41.881832,-87.623177
+1575175,Texas,San Antonio,2418 SW Military Dr,0,4,December 18, 2019,29.424349,-98.491142
+1449602,Texas,San Antonio,6989 San Pedro Ave,0,4,July 16, 2019,29.424349,-98.491142
+1425161,Texas,San Antonio,E Market St and Tower of the Americas Way,0,4,June 17, 2019,29.424349,-98.491142
+1321093,Texas,San Antonio,538 Hot Wells Blvd,2,2,February 5, 2019,29.424349,-98.491142
+1573754,Montana,Great Falls,1701 10th Ave S,4,1,December 17, 2019,47.506187,-111.283691
+1572275,Georgia,Columbus,600 block of 32nd St,1,4,December 15, 2019,32.492222,-84.940277
+1527528,Ohio,Columbus,1600 block of Manchester Ave,0,4,October 15, 2019,32.492222,-84.940277
+1462317,Ohio,Columbus,1280 E Long St,0,5,July 30, 2019,32.492222,-84.940277
+1429480,Ohio,Columbus,1767 Genessee Ave,0,5,June 23, 2019,32.492222,-84.940277
+1400561,Ohio,Columbus,2424 Sullivant Ave,0,4,May 20, 2019,32.492222,-84.940277
+1568230,New Jersey,Jersey City,223 Martin Luther King Dr,6,3,December 10, 2019,40.719074,-74.050552
+1434893,New Jersey,Jersey City,167 Armstrong Ave,0,4,June 28, 2019,40.719074,-74.050552
+1565216,Florida,Pensacola,280 Taylor Rd,4,8,December 6, 2019,30.433283,-87.240372
+1564524,Alabama,Montgomery,500 Eastdale Rd S,2,2,December 4, 2019,32.361668,-86.279167
+1480326,Alabama,Montgomery,847 N University Dr,2,3,August 15, 2019,32.361668,-86.279167
+1561813,Illinois,Aurora,700 block of S 5th St,1,4,December 1, 2019,41.763889,-88.290001
+1419305,Colorado,Aurora,12500 block of E Kansas Pl,0,4,June 11, 2019,41.763889,-88.290001
+1327321,Illinois,Aurora,641 Archer Ave,6,6,February 15, 2019,41.763889,-88.290001
+1562685,Michigan,Kalamazoo,6300 block of Proctor St,1,3,December 1, 2019,42.299152,-85.591736
+1560645,Texas,Amarillo,2650 Dumas Dr,0,7,November 29, 2019,35.199165,-101.845276
+1558067,Florida,Brownsville,NW 29th Ave and 44th St,2,2,November 25, 2019,25.901747,-97.497482
+1557006,Alabama,Birmingham,7 15th St W,1,4,November 24, 2019,33.543682,-86.779633
+1382099,Alabama,Birmingham,514 19th St Ensley,0,4,April 28, 2019,33.543682,-86.779633
+1333480,Alabama,Birmingham,1100 block of Carnation Dr,2,2,February 22, 2019,33.543682,-86.779633
+1314253,Alabama,Birmingham,Avenue O and Warrior Rd,0,5,January 27, 2019,33.543682,-86.779633
+1556633,California,Los Angeles,100 block of E 11th St,0,6,November 24, 2019,34.052235,-118.243683
+1555879,California,Los Angeles,833 S Spring St,0,4,November 23, 2019,34.052235,-118.243683
+1485548,California,Los Angeles,300 block of West Fifth St,0,4,August 22, 2019,34.052235,-118.243683
+1439737,California,Los Angeles,1900 block of Adair St,0,4,July 4, 2019,34.052235,-118.243683
+1395560,California,Los Angeles,1248 W 47th St,0,4,May 14, 2019,34.052235,-118.243683
+1381734,California,Los Angeles,700 N San Fernando Rd,0,6,April 27, 2019,34.052235,-118.243683
+1369109,California,Los Angeles,E 103rd St and S Main St,1,4,April 11, 2019,34.052235,-118.243683
+1555135,California,Long Beach,1100 block of 10th St,0,5,November 21, 2019,33.77005,-118.193741
+1537672,California,Long Beach,2709 E 7th St,3,9,October 29, 2019,33.77005,-118.193741
+1398593,California,Long Beach,1616 West Pacific Coast Highway,1,4,May 18, 2019,33.77005,-118.193741
+1554807,Washington,Everett,120 West Casino Rd,0,4,November 21, 2019,47.982567,-122.193375
+1552068,New Jersey,Newark,139 S 8th St,1,4,November 18, 2019,40.735657,-74.172363
+1425193,New Jersey,Newark,700 block of Dr Martin Luther King Jr Blvd,1,4,June 18, 2019,40.735657,-74.172363
+1313291,New Jersey,Newark,612 Bergen St,1,3,January 26, 2019,40.735657,-74.172363
+1551531,California,Fresno,5361 E Lamona Ave,4,6,November 17, 2019,36.746841,-119.772591
+1439765,California,Fresno,4700 block of E Hamilton Ave,1,3,July 4, 2019,36.746841,-119.772591
+1551162,Ohio,Cleveland,7100 block of Lawn Ave,0,4,November 17, 2019,35.159519,-84.87661
+1512486,Ohio,Cleveland,3616 East 144th St,4,0,September 21, 2019,35.159519,-84.87661
+1418533,Ohio,Cleveland,17218 Tarkington Ave,1,3,June 9, 2019,35.159519,-84.87661
+1408289,Texas,Cleveland,26311 TX-321,3,2,May 29, 2019,35.159519,-84.87661
+1397521,Ohio,Cleveland,9500 Cardwell Ave,0,4,May 16, 2019,35.159519,-84.87661
+1550546,California,San Diego,2152 Flintridge Dr,6,0,November 16, 2019,32.715736,-117.161087
+1318187,California,San Diego,6800 block of Springfield St,0,4,February 1, 2019,32.715736,-117.161087
+1548689,California,Santa Clarita,21900 Centurion Way,3,3,November 14, 2019,34.391663,-118.542587
+1546102,Missouri,Kansas City,4704 Independence Ave,0,4,November 10, 2019,39.106667,-94.676392
+1520330,Kansas,Kansas City,1013 Central Ave,4,5,October 6, 2019,39.106667,-94.676392
+1509721,Missouri,Kansas City,2111 Television Plaza,0,5,September 22, 2019,39.106667,-94.676392
+1482199,Missouri,Kansas City,770 W 47th St,0,4,August 18, 2019,39.106667,-94.676392
+1367011,Missouri,Kansas City,5339 Michigan Ave,1,3,April 9, 2019,39.106667,-94.676392
+1546038,Tennessee,Memphis,2080 E. Brooks Rd,1,4,November 10, 2019,35.1175,-89.971107
+1468799,Tennessee,Memphis,443 E Shelby Dr,1,3,August 4, 2019,35.1175,-89.971107
+1424957,Tennessee,Memphis,2872 Coach Dr,0,5,June 17, 2019,35.1175,-89.971107
+1376873,Tennessee,Memphis,761 Chestnut Ave,0,6,April 20, 2019,35.1175,-89.971107
+1546155,Arkansas,Little Rock,3000 block of W 12th St,0,4,November 10, 2019,34.746483,-92.289597
+1301778,Arkansas,Little Rock,5420 Baseline Rd,1,4,January 15, 2019,34.746483,-92.289597
+1545955,Michigan,Detroit,3800 block of E McNichols Rd,0,4,November 9, 2019,42.331429,-83.045753
+1540240,Michigan,Detroit,7000 block of E. Kirby,1,4,November 2, 2019,42.331429,-83.045753
+1536706,Michigan,Detroit,East Outer Dr and Helen St,0,4,October 27, 2019,42.331429,-83.045753
+1404580,Michigan,Detroit,3400 block of Devonshire,3,2,May 25, 2019,42.331429,-83.045753
+1545027,North Carolina,Raleigh,503 Bragg St,1,3,November 8, 2019,35.787743,-78.644257
+1540863,Ohio,Toledo,600 block of Magnolia St,0,4,November 3, 2019,41.651031,-83.541939
+1493374,Ohio,Toledo,3257 Stickney Ave,0,4,September 1, 2019,41.651031,-83.541939
+1540841,Texas,Nacogdoches,Sandyland Cir and CR 823,1,3,November 3, 2019,31.603514,-94.655487
+1540280,Louisiana,Baton Rouge,137 Taylor St,0,4,November 2, 2019,30.471165,-91.147385
+1435028,Louisiana,Baton Rouge,7132 Florida Blvd,0,7,June 29, 2019,30.471165,-91.147385
+1319325,Louisiana,Baton Rouge,4000 block of Topeka St,0,4,February 4, 2019,30.471165,-91.147385
+1539557,Texas,San Angelo,1616 S Chadbourne St,0,4,November 1, 2019,31.442778,-100.450279
+1537992,Pennsylvania,Philadelphia,5026 Walton Ave,4,0,October 30, 2019,39.952583,-75.165222
+1525999,Pennsylvania,Philadelphia,W Clearfield St and N 8th St,0,6,October 13, 2019,39.952583,-75.165222
+1525408,Pennsylvania,Philadelphia,700 block of W Russell St,1,3,October 12, 2019,39.952583,-75.165222
+1524264,Pennsylvania,Philadelphia,900 block of S 5th St,0,5,October 10, 2019,39.952583,-75.165222
+1492264,Pennsylvania,Philadelphia,4600 block of 4th St,2,2,August 31, 2019,39.952583,-75.165222
+1479894,Pennsylvania,Philadelphia,1400 block of W Conlyn St,0,5,August 15, 2019,39.952583,-75.165222
+1478869,Pennsylvania,Philadelphia,3716 N 15th St,0,6,August 14, 2019,39.952583,-75.165222
+1460630,Pennsylvania,Philadelphia,2600 block of Carroll St,1,5,July 28, 2019,39.952583,-75.165222
+1447057,Pennsylvania,Philadelphia,5433 Lansdowne Ave,0,7,July 13, 2019,39.952583,-75.165222
+1429022,Pennsylvania,Philadelphia,2400 block of Moore St,0,4,June 22, 2019,39.952583,-75.165222
+1423697,Pennsylvania,Philadelphia,6900 block of Reedbird Pl,1,5,June 16, 2019,39.952583,-75.165222
+1391971,Pennsylvania,Philadelphia,1900 block of N Croskey St,0,5,May 10, 2019,39.952583,-75.165222
+1377519,Pennsylvania,Philadelphia,1500 block of South 31st St,0,4,April 21, 2019,39.952583,-75.165222
+1535629,Michigan,Lansing,Balfour Dr and W Miller Rd,1,4,October 27, 2019,42.732536,-84.555534
+1535478,Texas,Greenville,2275 US-380,2,6,October 26, 2019,35.612659,-77.366356
+1534704,Oklahoma,Oklahoma City,1900 block of NW 12th St,2,2,October 24, 2019,35.481918,-97.508469
+1405221,Oklahoma,Oklahoma City,N Kelley Ave and NE 26th St,0,5,May 25, 2019,35.481918,-97.508469
+1530965,Texas,Port Arthur,1100 block of Vicksburg Ave,1,3,October 20, 2019,29.884951,-93.939949
+1530276,Texas,El Paso,3812 Truman Ave,1,4,October 19, 2019,31.772543,-106.460953
+1466705,Texas,El Paso,7101 Gateway Blvd,23,23,August 3, 2019,31.772543,-106.460953
+1526952,Ohio,Akron,Main St,0,4,October 13, 2019,41.081757,-81.511452
+1432930,Ohio,Akron,900 block of Rowe St,1,3,June 26, 2019,41.081757,-81.511452
+1523606,Florida,Tampa,5410 N Falkenburg Rd,2,2,October 10, 2019,27.964157,-82.452606
+1522979,Massachusetts,Lowell,149 Ennell Street,0,5,October 9, 2019,42.640999,-71.316711
+1520425,Indiana,Evansville,1127 Chestnut St,0,5,October 6, 2019,37.977222,-87.550552
+1328792,Indiana,Evansville,664 E Illinois St,0,5,February 17, 2019,37.977222,-87.550552
+1520499,Colorado,Denver,7100 block of Ruth Way,0,4,October 6, 2019,39.742043,-104.991531
+1343274,Colorado,Denver,15th St and Market St,1,4,March 10, 2019,39.742043,-104.991531
+1515242,Wisconsin,Milwaukee,1500 block of N 29th St,0,4,September 29, 2019,43.038902,-87.906471
+1433857,Wisconsin,Milwaukee,2800 block of N 34th St,0,4,June 26, 2019,43.038902,-87.906471
+1515128,Florida,Jacksonville,2200 block of Clemente Dr,0,4,September 29, 2019,30.332184,-81.655647
+1497180,Florida,Jacksonville,400 W 62nd St,0,4,September 4, 2019,30.332184,-81.655647
+1305538,Florida,Jacksonville,11445 Brian Lakes Drive,3,2,January 19, 2019,30.332184,-81.655647
+1302060,Florida,Jacksonville,Emerson St and Spring Park Rd,1,5,January 16, 2019,30.332184,-81.655647
+1515327,Texas,Beaumont,4100 block of Highland Ave,4,0,September 29, 2019,30.080173,-94.126556
+1510411,Indiana,Gary,1600 block of Connecticut St,2,2,September 23, 2019,41.595161,-87.356934
+1508804,South Carolina,Lancaster,1399 Old Charlotte Rd,2,8,September 21, 2019,34.686787,-118.15416
+1509510,Indiana,Indianapolis,101 W Maryland St,0,6,September 21, 2019,39.791,-86.148003
+1390764,Indiana,Indianapolis,Roache St and Rader St,0,4,May 8, 2019,39.791,-86.148003
+1386929,Indiana,Indianapolis,101 W Maryland St,0,4,May 4, 2019,39.791,-86.148003
+1365077,Indiana,Indianapolis,3600 block of Roosevelt Ave,2,2,April 7, 2019,39.791,-86.148003
+1312463,Indiana,Indianapolis,2957 N Sherman Dr,0,5,January 26, 2019,39.791,-86.148003
+1507092,California,Wilmington,800 block of Bayview Ave,2,2,September 18, 2019,39.739071,-75.539787
+1386575,Delaware,Wilmington,W 27th St and Tatnall St,0,4,May 4, 2019,39.739071,-75.539787
+1365173,Delaware,Wilmington,940 N Pine St,0,6,April 7, 2019,39.739071,-75.539787
+1505354,Wyoming,Cheyenne,3436 E 11th St,2,2,September 16, 2019,41.161079,-104.80545
+1503207,New Mexico,Albuquerque,1919 Ladera Dr NW,1,4,September 12, 2019,35.106766,-106.629181
+1503192,New Mexico,Albuquerque,1028 Lura Pl SW,4,2,September 12, 2019,35.106766,-106.629181
+1441317,New Mexico,Albuquerque,211 Gold Ave SW,0,4,July 7, 2019,35.106766,-106.629181
+1500098,Louisiana,Alexandria,2900 block of Cypress St,1,3,September 8, 2019,38.82045,-77.050552
+1400146,Louisiana,Alexandria,1900 block of Bacon Street,1,4,May 20, 2019,38.82045,-77.050552
+1497702,Louisiana,Marrero,3044 Sorbonne Dr,2,2,September 4, 2019,29.899372,-90.100349
+1494697,North Carolina,Greensboro,5528 W Market St,2,2,September 2, 2019,36.044659,-79.766235
+1494113,Connecticut,Hartford,80 Edgewood St,1,3,September 1, 2019,41.76371,-72.685097
+1435041,Connecticut,Hartford,Judson St and Martin St,0,4,June 29, 2019,41.76371,-72.685097
+1492778,North Carolina,Charlotte,10035 Dabney Dr,1,3,August 31, 2019,35.227085,-80.843124
+1420933,North Carolina,Charlotte,305 N Graham St,1,3,June 12, 2019,35.227085,-80.843124
+1383752,North Carolina,Charlotte,9214 South Library Ln,2,4,April 30, 2019,35.227085,-80.843124
+1492441,Texas,Odessa,8250 TX 191,8,23,August 31, 2019,31.845682,-102.367645
+1492297,Maryland,Frederick,600 block of N Market St,0,4,August 31, 2019,39.412327,-77.425461
+1492087,Alabama,Mobile,1621 Virginia St,0,6,August 30, 2019,30.695366,-88.039894
+1348291,Alabama,Mobile,515 Dauphin Island Pkwy,2,4,March 15, 2019,30.695366,-88.039894
+1487224,Massachusetts,Lynn,Warren Street,1,3,August 24, 2019,42.466763,-70.949493
+1489373,Georgia,Dublin,200 Riverview Park Dr,0,4,August 23, 2019,37.702152,-121.935791
+1485340,South Carolina,Columbia,851 Bush River Rd,2,2,August 22, 2019,38.951561,-92.328636
+1289877,South Carolina,Columbia,1709 Decker Blvd,0,5,January 1, 2019,38.951561,-92.328636
+1484335,Georgia,Atlanta,111 James P Brawley Dr SW,0,4,August 20, 2019,33.753746,-84.38633
+1448578,Georgia,Atlanta,1572 Hardee St NE,0,4,July 15, 2019,33.753746,-84.38633
+1434971,Georgia,Atlanta,Ira St and Bass St SW,0,7,June 28, 2019,33.753746,-84.38633
+1432989,Georgia,Atlanta,600 block of Parkway Dr,0,7,June 27, 2019,33.753746,-84.38633
+1411963,Georgia,Atlanta,12 Broad Street,0,5,June 1, 2019,33.753746,-84.38633
+1360333,Georgia,Atlanta,3041 Landrum Dr SW,1,4,March 31, 2019,33.753746,-84.38633
+1479395,Washington,Tacoma,E 38th St and E Roosevelt Ave,2,3,August 13, 2019,47.258728,-122.465973
+1478480,Mississippi,Greenwood,200 Young St,0,4,August 12, 2019,39.614944,-86.105606
+1476271,California,San Francisco,1100 Fillmore St,0,4,August 10, 2019,37.773972,-122.431297
+1353714,California,San Francisco,1300 Fillmore St,1,5,March 24, 2019,37.773972,-122.431297
+1527721,Louisiana,Lake Charles,110 Pryce St,0,4,August 4, 2019,30.212942,-93.21891
+1467828,Ohio,Dayton,419 E 5th St,10,17,August 4, 2019,39.758949,-84.191605
+1467157,Virginia,Suffolk,200 block of N Broad St,2,3,August 2, 2019,36.73283,-76.579002
+1460448,California,Gilroy,7050 Miller Ave,4,17,July 28, 2019,37.005783,-121.568275
+1459389,Kansas,Wichita,505 N Rock Rd,1,3,July 27, 2019,37.697948,-97.314835
+1376883,Kansas,Wichita,1628 S George Washington Blvd,0,4,April 19, 2019,37.697948,-97.314835
+1450124,Texas,Lubbock,N Elder Ave and E Colgate St,1,3,July 17, 2019,33.576698,-101.855072
+1441565,Michigan,Flint,Clio Rd and Myrtle St,0,6,July 7, 2019,43.016193,-83.705521
+1440510,Massachusetts,Boston,Maple St,0,6,July 5, 2019,42.361145,-71.057083
+1384553,Massachusetts,Boston,32 Windermere Rd,1,3,May 1, 2019,42.361145,-71.057083
+1440879,Nevada,Reno,600 block of Spokane St,1,5,July 5, 2019,39.530895,-119.814972
+1440765,Illinois,Rockford,1100 block of Preston St,0,4,July 4, 2019,42.259445,-89.064445
+1439042,Texas,Katy,5507 Everhart Manor Ln,2,3,July 3, 2019,29.785786,-95.824394
+1436254,Texas,Dallas,3535 Munger Ave,2,2,June 30, 2019,32.779167,-96.808891
+1386481,Texas,Dallas,5400 Cedar Springs Rd,1,3,May 3, 2019,32.779167,-96.808891
+1434882,New Jersey,Paterson,50 block of Jefferson St,0,4,June 28, 2019,40.914745,-74.162827
+1344488,New Jersey,Paterson,291 12th Ave,0,4,March 11, 2019,40.914745,-74.162827
+1434602,Connecticut,Hamden,937 Choate Ave,0,5,June 28, 2019,41.385826,-72.904243
+1435217,Minnesota,Saint Paul,909 Desoto St,0,5,June 28, 2019,44.953705,-93.089958
+1429047,Indiana,South Bend,1150 E Mishawaka Ave,1,10,June 23, 2019,41.676388,-86.250275
+1429399,Virginia,Hampton,1st St and E Pembroke Ave,0,4,June 22, 2019,37.034946,-76.360123
+1428047,California,Santa Maria,519  West Taylor St,5,0,June 21, 2019,34.963623,-120.424576
+1426537,Pennsylvania,Allentown,343 Hamilton St,0,10,June 20, 2019,40.610306,-75.477104
+1423330,Kentucky,Louisville,Dixie Highway and Ormsby Ave,1,6,June 16, 2019,38.328732,-85.764771
+1375235,Kentucky,Louisville,4000 block of Bells Ln,0,4,April 18, 2019,38.328732,-85.764771
+1423435,Iowa,Des Moines,1200 block of Sampson St,0,6,June 16, 2019,41.619549,-93.598022
+1422981,Louisiana,Shreveport,2500 block of Hollywood Ave,0,4,June 15, 2019,32.523659,-93.763504
+1365100,Louisiana,Shreveport,433 Flournoy Lucas Rd,0,4,April 7, 2019,32.523659,-93.763504
+1343330,Louisiana,Shreveport,2700 block of San Jacinto Ave,0,4,March 10, 2019,32.523659,-93.763504
+1420432,Georgia,Savannah,6900 Block of Damascus Rd,2,2,June 11, 2019,32.076176,-81.088371
+1417716,Texas,Austin,8220 TX-71,0,5,June 7, 2019,30.266666,-97.73333
+1415399,California,Santa Rosa,828 W 9th Street,0,4,June 5, 2019,38.44466,-122.720306
+1411408,Virginia,Portsmouth,1100 block of Mt Vernon Ave,1,3,June 1, 2019,36.835426,-76.298271
+1412430,Georgia,Macon,Suzanne Dr and Robinson Dr,2,4,June 1, 2019,32.838131,-83.634705
+1410442,Virginia,Virginia Beach,2405 Courthouse Drive,13,4,May 31, 2019,36.86314,-76.015778
+1411661,California,West Covina,306 N Hollow Ave,1,3,May 31, 2019,34.068623,-117.93895
+1407189,New Jersey,Trenton,100 block of Walnut St,1,5,May 27, 2019,40.217052,-74.742935
+1404417,New Jersey,Trenton,225 Brunswick Ave,0,9,May 25, 2019,40.217052,-74.742935
+1405749,Virginia,La Crosse,800 block of Alvis Road,0,5,May 26, 2019,43.801357,-91.239578
+1406070,California,Stockton,600 block of E Oak St,1,3,May 26, 2019,37.961632,-121.275604
+1387245,California,Stockton,5105 Holiday Dr,1,4,May 4, 2019,37.961632,-121.275604
+1371065,California,Stockton,2539 E Main St,0,4,April 14, 2019,37.961632,-121.275604
+1405196,Virginia,Chesapeake,Holly Cove Dr and Schooner Trail,1,9,May 25, 2019,36.779591,-76.288376
+1400095,Oklahoma,Tulsa,8118 E 16th St,2,2,May 20, 2019,36.15398,-95.992775
+1399820,Oregon,Portland,226 SE Madison St,0,5,May 19, 2019,45.523064,-122.676483
+1398538,Indiana,Muncie,2410 W. Euclid Ave,1,6,May 18, 2019,40.191891,-85.401695
+1398584,Iowa,Cedar Rapids,70 Kirkwood Ct SW,2,2,May 18, 2019,41.977879,-91.665627
+1400934,Nebraska,Omaha,2825 Y St,0,4,May 18, 2019,41.25716,-95.995102
+1398876,California,Sacramento,7326 Stockton Blvd,1,3,May 17, 2019,38.590576,-121.489906
+1381857,Tennessee,Nashville,1407 Dr DB Todd Jr Blvd,0,7,April 28, 2019,36.174465,-86.76796
+1381771,Mississippi,Jackson,700 block of Monterey St,1,3,April 27, 2019,32.298756,-90.184807
+1381273,California,Poway,16934 Chabad Way,1,3,April 27, 2019,32.96273,-117.03624
+1373557,Maryland,Germantown,18700 block of Curry Powder Ln,1,3,April 16, 2019,39.173161,-77.271652
+1370795,Florida,Miami,NW 19th Ave and 60th St,2,2,April 14, 2019,25.761681,-80.191788
+1306920,Florida,Miami,26133 SW 139th Ave,0,4,January 20, 2019,25.761681,-80.191788
+1371024,California,Vallejo,100 block of Princeton Ave,1,3,April 14, 2019,38.104088,-122.256638
+1374920,California,Moreno Valley,23500 block of Alessandro Blvd,0,4,April 13, 2019,33.942467,-117.229675
+1370269,Illinois,Carbondale,119 N Washington St,0,4,April 12, 2019,37.701206,-89.22821
+1369148,Arizona,Phoenix,7112 W Minnezona Ave,3,2,April 11, 2019,33.448376,-112.074036
+1354049,Arizona,Phoenix,2202 W McDowell Rd,0,7,March 24, 2019,33.448376,-112.074036
+1350494,Arizona,Phoenix,8526 N 27th Ave,2,4,March 19, 2019,33.448376,-112.074036
+1299680,Arizona,Phoenix,2445 E Van Buren St,1,5,January 13, 2019,33.448376,-112.074036
+1364443,Florida,Tallahassee,500 block of Kissimmee St,0,4,April 6, 2019,30.455,-84.253334
+1289618,Florida,Tallahassee,2020 W Pensacola St,0,5,January 1, 2019,30.455,-84.253334
+1359599,South Carolina,North Charleston,1900 block of Jacksonville Rd,0,7,March 31, 2019,32.854622,-79.974808
+1355275,Nevada,North Las Vegas,2400 block of W San Miguel St,0,5,March 25, 2019,36.201946,-115.120216
+1348844,Georgia,Augusta,900 block of Broad St,0,4,March 17, 2019,33.466667,-81.966667
+1348793,Nevada,Las Vegas,600 E Fremont St,0,4,March 17, 2019,36.114647,-115.172813
+1338790,Arkansas,Pine Bluff,723 East 25th Ave,1,4,March 2, 2019,34.2244,-92.019211
+1329144,Texas,Henderson,504 S Van Buren St,2,2,February 17, 2019,36.039524,-114.98172
+1328562,Mississippi,Clinton,1214 Foxhill Dr,5,0,February 16, 2019,38.768005,-76.897087
+1323448,Virginia,Petersburg,109 Perry St,0,4,February 9, 2019,37.227928,-77.401924
+1320286,California,Palm Springs,E Sunny Dunes Rd and El Placer Rd,4,0,February 3, 2019,33.830517,-116.545601
+1312391,Georgia,Albany,300 block of W Roosevelt,0,4,January 26, 2019,44.636513,-123.105927
+1305563,Pennsylvania,Lebanon,1140 Church St,0,4,January 19, 2019,40.052059,-86.470642
+1303303,California,Palmdale,Ranch Center Dr and 40th St W,3,1,January 16, 2019,34.579449,-118.109291
+1295294,New Mexico,Roswell,1300 block of W College Blvd,0,4,January 6, 2019,34.022003,-84.361549
+1293054,California,Torrance,22501 Hawthorne Blvd,3,4,January 4, 2019,33.840763,-118.345413
+1292941,Arizona,Yuma,3800 block of E County 18½ St,1,3,January 3, 2019,32.698437,-114.650398
+1291779,Arkansas,Jonesboro,3516 Galaxy St,1,3,January 2, 2019,35.835575,-90.705025

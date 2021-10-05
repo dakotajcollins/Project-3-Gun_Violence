@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+    
+    
+    
+    <title>Firearm Map</title>
+
+    
+    <!-- Leaflet JavaScript code -->
+    <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"
+    integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
+    crossorigin=""></script>
+    
+    <!-- D3 library -->
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+
+    <!-- Marker cluster JavaScript code -->
+    <script type="text/javascript" src="https://unpkg.com/leaflet.markercluster@1.0.3/dist/leaflet.markercluster.js"></script>
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css"
+    integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
+    crossorigin=""/>
+
+    <!-- Leaflet heatmap plugin-->
+    <script type="text/javascript" src="static/js/leaflet-heat.js"></script>
+
+    
+
+    <!-- Our CSS -->
+    <link rel="stylesheet" href="static/css/style.css"/>
+
+  </head>
+  <body>
+   <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="About.html" id="navbar_content">ABOUT</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="Dashboard.html" id="navbar_content">DASHBOARD</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="Analysis.html" id="navbar_content">ANALYSIS</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="Map.html" id="navbar_content">MAP</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="https://www.gunviolencearchive.org" target="_blank" id="navbar_content">REFERENCES</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false" >
+                    API
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <li><a class="dropdown-item" href="https://us-gun-sale-and-violence-report-api.azurewebsites.net/api/v1.0/gunsalebystate" target="_blank">Gun Sale</a></li>
+                  <li><a class="dropdown-item" href="https://us-gun-sale-and-violence-report-api.azurewebsites.net/api/v1.0/gunviolence2019" target="_blank">Gun violence 2019</a></li>
+                  <li><a class="dropdown-item" href="https://us-gun-sale-and-violence-report-api.azurewebsites.net/api/v1.0/gunviolence2020" target="_blank">Gun violence 2020</a></li>
+                  <li><a class="dropdown-item" href="https://us-gun-sale-and-violence-report-api.azurewebsites.net/api/v1.0/gunviolence2021" target="_blank">Gun violence 2021</a></li>
+                  <li><a class="dropdown-item" href="https://us-gun-sale-and-violence-report-api.azurewebsites.net/api/v1.0/completedata" target="_blank">Combine Data</a></li>
+                  <li><hr class="dropdown-divider"></li>
+                  <li><a class="dropdown-item" href="https://github.com/dakotajcollins/Project-3-Gun_Violence" target="_blank">GitHub</a></li>
+                </ul>
+              </li>
+              
+            </ul>
+            
+          </div>
+        </div>
+      </nav>
+
+      <br>
+
+      <div class="container">
+
+      <div class="row">
+          <div class="col-md-12">
+            <h2 class="project">Clusters Map</h2>
+            <hr>
+        </div>
+        <div id="Cmap"></div>
+      </div>
+
+      <br>
+
+      <div class="row">
+          <div class="col-md-12">
+            <h2 class="project">Heat Map</h2>
+            <hr>
+        </div>
+        <div id="Hmap"></div>
+      </div>
+      
+
+
+    </div>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+   
+    <!-- Our JavaScript -->
+    <script type="text/javascript" src="static/js/clusters_map.js"></script>
+    <script type="text/javascript" src="static/js/heat_map.js"></script>
+
+    <!-- Marker cluster CSS -->
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/leaflet.markercluster@1.0.3/dist/MarkerCluster.css">
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/leaflet.markercluster@1.0.3/dist/MarkerCluster.Default.css">
+
+
+  </body>
+</html>
