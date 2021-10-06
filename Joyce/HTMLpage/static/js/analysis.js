@@ -34,7 +34,7 @@ function stateChanged(sta){
             }
             else if (sta == "All"){
                 kll.push(k.feature.Killed)
-                inj.push(k.feature.Killed)
+                inj.push(k.feature.Injured)
             }
         })
         var killed=0
@@ -152,7 +152,7 @@ function stateChanged(sta){
                    
                  // If yes! then increase the occurrence by 1
                  arr2.forEach((k)=>{
-                   if(k[key] === x.feature.key){ 
+                   if(k[key] === x.feature.City){ 
                      k["occurrence"]++
                    }
                 })
@@ -307,7 +307,7 @@ function stateChanged(sta){
         worst_21=deadly.slice(0,1)[0].IncidentID
         var affectedd= (year_2021_state.map((i)=>Number(i.feature.Injured)).reduce(function(a, b){
             return a + b
-        }, 0)) + (year_2021_state.map((i) => Number(i.feature.killed)).reduce(function(a, b){
+        }, 0)) + (year_2021_state.map((i) => Number(i.feature.Killed)).reduce(function(a, b){
             return a + b;
         }, 0))
         }

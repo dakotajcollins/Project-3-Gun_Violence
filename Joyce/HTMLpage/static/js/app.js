@@ -109,8 +109,9 @@ d3.json(url).then(function createPlotly(data) {
           var monthday = b.feature.Date;
           var year = b.feature.Year;
           var bdate = new Date(monthday +', '+year)
-          return a.feature.injured-b.feature.injured
+          return adate-bdate
         })
+        console.log(injuredsort)
 
         injuredsort.slice(0,20)
         killed = injuredsort.slice(0,20).map(d=>d.feature.Killed)
@@ -123,32 +124,40 @@ d3.json(url).then(function createPlotly(data) {
         console.log(dates)
 
       
-      var trace5 = 
-        {
-          x: dates,
-          y: killed,
-          name: "Killed",
-          mode: 'lines',
-          type: 'scatter'
+        const line = {
+          labels: dates,
+          datasets: [
+              {
+                  name: "Amount Killed",
+                  values: killed,
+                  chartType: 'bar'
+              },
+              {
+                  name: "Amount Injured",
+                  values: injured,
+                  chartType: 'bar'
+              },
+              {
+                name: "Amount Killed",
+                values: killed,
+                chartType: 'line'
+              },
+              {
+                name: "Amount Injured",
+                values: injured,
+                chartType: 'line'
+              },
+          ]
         }
-      ;
-
-      var trace6 = 
-        {
-          x: dates,
-          y: injured,
-          name: "Injured",
-          mode: 'lines',
-          type: 'scatter'
-        }
-      ;
-      var bardata3 = [trace5, trace6];
-
-      var barLayout3 = {
-        title: `Amount Killed and Injured in ${dropdownValue}`,
-      };
-      Plotly.newPlot("line", bardata3, barLayout3);
-
+        
+        const linechart = new frappe.Chart("#LineBarchart", {  
+                                                 
+          title: `Crime from Gun Violence ${dropdownValue}`,
+          data: line,
+          type: 'axis-mixed', 
+          height: 350,
+          colors: ['#7cd6fd', '#743ee2']
+        })
       });
       };
     graphing(dropdownValue,InputValue_SY,InputValue_EY)
